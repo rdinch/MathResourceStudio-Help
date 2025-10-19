@@ -2,6 +2,8 @@
 
 Math Resource Studio is a comprehensive tool for creating custom math worksheets and answer sheets.
 
+*Last updated: October 19, 2025*
+
 ## Quick Links
 
 - [Getting Started](getting-started.md) - Learn the basics

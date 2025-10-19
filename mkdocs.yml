@@ -1,0 +1,60 @@
+# mkdocs.yml
+site_name: Math Resource Studio Help
+site_description: User guide for Math Resource Studio
+site_author: Schoolhouse Technologies
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.tabs           # Top-level tabs
+    - navigation.sections       # Sidebar sections
+    - navigation.expand         # Expand sections by default
+    - navigation.top            # Back to top button
+    - search.suggest            # Search suggestions
+    - search.highlight          # Highlight search terms
+    - content.code.copy         # Copy button for code blocks
+    - content.tabs.link         # Link content tabs
+
+markdown_extensions:
+  - admonition                  # Call-out boxes (tips, warnings)
+  - pymdownx.details            # Collapsible sections
+  - pymdownx.superfences        # Advanced code blocks
+  - pymdownx.tabbed:
+      alternate_style: true     # Tabbed content
+  - attr_list                   # Add attributes to elements
+  - md_in_html                  # Markdown inside HTML
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Worksheets:
+    - Creating Worksheets: worksheets/creating.md
+    - Properties: worksheets/properties.md
+    - Answer Sheets: worksheets/answer-sheets.md
+  - Activities:
+    - Overview: activities/index.md
+  - Video Tutorials: tutorials/videos.md
+  - Reference:
+    - Keyboard Shortcuts: reference/shortcuts.md

@@ -4,7 +4,13 @@ Learn how to use Math Resource Studio with these step-by-step video guides.
 
 ## Creating Your First Worksheet {#creating-first-worksheet}
 
-[Video tutorial coming soon]
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+    <iframe src="https://www.youtube.com/embed/LHBcgLWm0Pg" 
+            frameborder="0" 
+            allowfullscreen 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+</div>
 
 This tutorial covers:
 

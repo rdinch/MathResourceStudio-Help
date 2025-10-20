@@ -85,6 +85,13 @@ Select one or a variety of letters to represent the variable (v) in the equation
 
 **Exercise Set Display Options**
 
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
+
 Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
@@ -131,7 +138,56 @@ Change the background color
 
 3\. Click "OK" to save your choice and apply the new color.
 
+**Add a Border**
+
+To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
+
+Change the color
+
+1\. In the options panel, find and select "Color."
+
+2\. Click the three dots (ellipsis) in the color box to open the color picker.
+
+3\. Choose the color you like.
+
+4\. Click "OK" to save your choice and apply the new color.
+
+Change the line width
+
+1\. Click on "Width" in the options panel.
+
+2\. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
+
+Round the corners
+
+Click in the check box for "Rounded" in the options panel. Uncheck the box to set the border back to square corners
+
+Adjust the padding
+
+Sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+
+1\. Select the Padding option in the options pane.
+
+2\. Select a side (left, right, top, or bottom) to change the value for that side.
+
+3\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+
+<table>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 **Title Display Options**
+
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
 
 Show title
 
@@ -171,9 +227,22 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 
 2\. Select a side (left, right, top, or bottom) to change the value for that side.
 
-3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+<table>
+<tbody>
+<tr>
+<td><p>3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.</p></td>
+</tr>
+</tbody>
+</table>
 
 **Instructions Display Options**
+
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
 
 Show instructions
 
@@ -213,9 +282,22 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 
 2\. Select a side (left, right, top, or bottom) to change the value for that side.
 
-3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+<table>
+<tbody>
+<tr>
+<td><p>3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.</p></td>
+</tr>
+</tbody>
+</table>
 
 **Numbering Display Options**
+
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
 
 Change the numbering direction
 
@@ -239,9 +321,22 @@ Change the color
 
 3\. Choose the color you like.
 
-4. Click "OK" to save your choice and apply the new color.
+<table>
+<tbody>
+<tr>
+<td><p>4. Click "OK" to save your choice and apply the new color.</p></td>
+</tr>
+</tbody>
+</table>
 
 **Answer Bank Display Options**
+
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
 
 Show the answer bank
 
@@ -304,3 +399,41 @@ Sets the padding (extra white space) between the top of the answer bank and the 
 1\. Select the input field for the Top Padding option in the options grid.
 
 2\. Type a new value in the field or use the up and down arrows to increase or decrease the value.
+
+**Add a Border**
+
+To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
+
+Change the color
+
+1\. In the options panel, find and select "Color."
+
+2\. Click the three dots (ellipsis) in the color box to open the color picker.
+
+3\. Choose the color you like.
+
+4\. Click "OK" to save your choice and apply the new color.
+
+Change the line width
+
+1\. Click on "Width" in the options panel.
+
+2\. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
+
+Round the corners
+
+Click in the check box for "Rounded" in the options panel. Uncheck the box to set the border back to square corners
+
+Adjust the Top Padding or Bottom Padding
+
+Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+
+1\. Select the padding option in the options pane.
+
+<table>
+<tbody>
+<tr>
+<td><p>2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.</p></td>
+</tr>
+</tbody>
+</table>

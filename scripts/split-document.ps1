@@ -1,7 +1,7 @@
-# PowerShell script to split the final clean manual into individual MkDocs files
+# PowerShell script to split the manual into individual MkDocs files
 # Based on bold underlined headings like **<u>Activity Name</u>**
 
-$inputFile = "c:\Users\Robert\Dropbox\Documents\Visual Studio 2022\Projects\MRS8\WordDoc\Math8_manual_final_clean.md"
+$inputFile = "c:\Users\Robert\Dropbox\Documents\Visual Studio 2022\Projects\MRS8\WordDoc\Math8_manual.md"
 $outputDir = "c:\Users\Robert\Dropbox\Documents\Visual Studio 2022\Projects\MRS8\MRS8GitHub\MathResourceStudio-Help\docs"
 
 Write-Host "Reading input file..." -ForegroundColor Green

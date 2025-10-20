@@ -25,13 +25,34 @@ What's New in Version
 
 **New Exercise Sets**
 
+<table>
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
+
 Â· blah blah
 
 Â·
 
+<table>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 Â· blah blah
 
-Â·
+<table>
+<tbody>
+<tr>
+<td><p>Â·</p></td>
+</tr>
+</tbody>
+</table>
 
 **Some New Features**
 

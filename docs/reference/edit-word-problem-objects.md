@@ -5,8 +5,6 @@ category: reference
 
 # Edit Word Problem Objects
 
-**<u>Edit Word Problem Objects</u>**
-
 Add, edit and organize the objects you want to use with the various word problem exercise sets.
 
 Depending on how you like to organize your material, build one large collection of objects or build a variety of themed collections that can be selected as needed.

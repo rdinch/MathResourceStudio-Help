@@ -5,8 +5,6 @@ category: reference
 
 # Place Value Names Editor
 
-**<u>Place Value Names Editor</u>**
-
 The place value names used for the exercise set can be customized to use your local language.
 
 1\. With the Place Value Names editor open, double-click the cell for Name (plural variation) to put the cell in edit mode. Enter your custom text. Do the same for the Name (singular variation).

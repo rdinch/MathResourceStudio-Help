@@ -5,8 +5,6 @@ category: tutorials
 
 # Add a design group
 
-**<u>Add a design group</u>**
-
 The Design Gallery provides a way to add a of multiple design elements and exercise sets as one group. This can save you time when creating math documents.
 
 For example you may frequently add a puzzle to the end of your math documents customized with additional and a to highlight it. By saving this grouping of exercise set and design items as a design group, you can easily add the grouping anywhere in your document.

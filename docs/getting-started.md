@@ -1,4 +1,4 @@
-# Getting Started
+﻿# Getting Started
 
 ## Creating Your First Worksheet
 
@@ -29,6 +29,5 @@ Customize the selected activity or worksheet element:
 
 ## Next Steps
 
-- [Watch the video tutorial](tutorials/videos.md#creating-first-worksheet)
 - [Learn about worksheet properties](worksheets/properties.md)
-- [Explore available activities](activities/index.md)
+- [Explore basic addition activities](activities/Basic Number Operations/basic-addition.md)

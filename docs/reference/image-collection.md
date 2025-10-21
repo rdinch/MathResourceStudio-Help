@@ -5,8 +5,6 @@ category: reference
 
 # Image Collection
 
-**<u>Image Collection</u>**
-
 Add, edit and organize the image collections used with exercise sets such as and .
 
 NOTE: Should you delete the default image collection file by mistake - small image collection.xml - close all documents and select . In the Options window, select Folders. On the Folders tab, click the green arrows icon by the Small Images box - Restore Default Small Image Collection. The default file of images will be replaced.

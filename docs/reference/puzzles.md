@@ -5,4 +5,3 @@ category: reference
 
 # Puzzles
 
-**<u>Puzzles</u>**

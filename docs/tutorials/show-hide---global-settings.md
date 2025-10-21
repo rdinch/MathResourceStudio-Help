@@ -5,8 +5,6 @@ category: tutorials
 
 # Show Hide - Global Settings
 
-**<u>Show Hide - Global Settings</u>**
-
 If you want to show or hide the answer banks, titles, marks or first answers for all exercise sets in a worksheet document, select Show|Hide in the Global Settings area of the ribbon located just above the display of the worksheet.
 
 1\. On the ribbon just above the worksheet document, select the Show|Hide icon in the Global Settings area. The Global Show|Hide window opens.

@@ -5,8 +5,6 @@ category: reference
 
 # Custom Questions Editor
 
-**<u>Custom Questions Editor</u>**
-
 The Custom Questions editor provides a way to add, edit and organize custom questions and their answers. Depending on how you like to organize your material, you can build one large collection of custom questions or build a variety of collections that can be selected as needed.
 
 1\. With the Custom Questions editor open, enter text and/or a picture in the Question box.

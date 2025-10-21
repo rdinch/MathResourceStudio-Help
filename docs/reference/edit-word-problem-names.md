@@ -5,8 +5,6 @@ category: reference
 
 # Edit Word Problem Names
 
-**<u>Edit Word Problem Names</u>**
-
 Add, edit and organize the names you want to use with the various word problem exercise sets.
 
 Depending on how you like to organize your material, build one large collection of names or build a variety of themed collections that can be selected as needed.

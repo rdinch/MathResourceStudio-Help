@@ -5,8 +5,6 @@ category: tutorials
 
 # Working with the Answer Sheet
 
-**<u>Working with the Answer Sheet</u>**
-
 An Answer Sheet for your worksheet will automatically be created as you create your math document. If you will be using an answer sheet, click on the tab Answer Sheet View to customize the look of the answer sheet. If you do not require an answer sheet and answer sheet key, when opening the Print window you can set answer sheets and answer keys to zero (0) so these sheets won't print.
 
 The ribbon at the top of Answer Sheet View has features similar to those found on the Worksheet View ribbon - , Show Key, , , and Zoom.

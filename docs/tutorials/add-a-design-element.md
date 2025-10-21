@@ -5,8 +5,6 @@ category: tutorials
 
 # Add a design element
 
-**<u>Add a design element</u>**
-
 To a New Document
 
 1\. Open Math Resource Studio.

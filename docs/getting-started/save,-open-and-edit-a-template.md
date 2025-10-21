@@ -5,8 +5,6 @@ category: getting-started
 
 # Save, open and edit a template
 
-**<u>Save, open and edit a template</u>**
-
 Do you have a certain kind of worksheet or worksheet format that you use all of the time? Instead of starting from a blank worksheet each time, create your own template that you can re-use.
 
 Save a template

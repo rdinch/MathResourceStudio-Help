@@ -5,8 +5,6 @@ category: reference
 
 # Add a title group
 
-**<u>Add a title group</u>**
-
 The Title Group design element inserts a grouping of elements to form a title group that can be used anywhere in a math document, though the default settings have been designed to display at the top of a one page worksheet or the top of the first page of a multi-page worksheet. You can customize the title group to meet your needs.
 
 With a document open, select Home then Design Elements, Title Group to insert this element.
@@ -21,13 +19,6 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 Picture
 
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
 Display or hide the picture
 
 Change the picture
@@ -38,26 +29,13 @@ Change the alignment
 
 Adjust the size of the picture
 
-<table>
-<tbody>
-<tr>
-<td><p>Check Visible to display a picture in the title group. Uncheck Visible to hide the picture.</p>
-<p>Select Picture in the options, then press the ellipsis button to display the to choose a different picture.</p>
-<p>Select between the following alignments for the picture: Left or Right.</p>
-<p>Size Adjustment adjusts the height of the picture. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the title group, the actual size of the image is not changed.</p>
-<p>TIP: When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.</p></td>
-</tr>
-</tbody>
-</table>
+Check Visible to display a picture in the title group. Uncheck Visible to hide the picture.
+Select Picture in the options, then press the ellipsis button to display the to choose a different picture.
+Select between the following alignments for the picture: Left or Right.
+Size Adjustment adjusts the height of the picture. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the title group, the actual size of the image is not changed.
+TIP: When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
 
 Title
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Change the title
 
@@ -97,22 +75,9 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 1\. Select the padding option in the options pane.
 
-<table>
-<tbody>
-<tr>
-<td><p>2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.</p></td>
-</tr>
-</tbody>
-</table>
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
 Fields
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Change the field text
 
@@ -144,22 +109,9 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 1\. Select the padding option in the options pane.
 
-<table>
-<tbody>
-<tr>
-<td><p>2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.</p></td>
-</tr>
-</tbody>
-</table>
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
 Lines
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Show or hide the lines
 
@@ -177,37 +129,13 @@ Change the line width
 
 1\. Click on "Width" in the options panel.
 
-<table>
-<tbody>
-<tr>
-<td><p>2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.</p></td>
-</tr>
-</tbody>
-</table>
+2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
 Epigraph
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Show or hide the epigraph
 
 Check or uncheck the Visible check box to show or hide the epigraph.
-
-<table>
-<tbody>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 Change the epigraph text
 
@@ -239,19 +167,10 @@ Change the color
 
 3\. Choose the color you like.
 
-<table>
-<tbody>
-<tr>
-<td><p>Option A -</p>
-<p>Option B -</p>
-<p>With the , you can also sort the epigraphs alphabetically to help locate a particular epigraph; or add, edit or create epigraphs collections to use on your worksheets.</p>
-<p>4. Click "OK" to save your choice and apply the new color.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
+Option A -
+Option B -
+With the , you can also sort the epigraphs alphabetically to help locate a particular epigraph; or add, edit or create epigraphs collections to use on your worksheets.
+4. Click "OK" to save your choice and apply the new color.
 
 Adjust the Top Padding or Bottom Padding
 
@@ -259,22 +178,9 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 1\. Select the padding option in the options pane.
 
-<table>
-<tbody>
-<tr>
-<td><p>2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.</p></td>
-</tr>
-</tbody>
-</table>
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
 INSTRUCTIONS
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Show or hide the instructions
 
@@ -306,10 +212,3 @@ Change the color
 
 4\. Click "OK" to save your choice and apply the new color.
 
-<table>
-<tbody>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>

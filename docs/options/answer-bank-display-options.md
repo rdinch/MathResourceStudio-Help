@@ -2,13 +2,6 @@
 
 **Answer Bank Display Options**
 
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
 Show the answer bank
 
 1\. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.

@@ -5,8 +5,6 @@ category: reference
 
 # Delete, cut, copy, paste or move sections and elements
 
-**<u>Delete, cut, copy, paste or move sections and elements</u>**
-
 After adding a number of elements (i.e. number line, title, exercise sets, picture) to a document, you may find that you want to re-organize the order of the items or remove some elements entirely.
 
 TIP: A copied or cut element or section can be pasted within the same document, or pasted to a different document.

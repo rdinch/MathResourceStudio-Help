@@ -5,8 +5,6 @@ category: reference
 
 # Edit Shopping Items
 
-**<u>Edit Shopping Items</u>**
-
 Add, edit and organize the items you want to use with the exercise sets.
 
 Depending on how you like to organize your material, build one large collection of shopping items or build a variety of themed collections that can be selected as needed.

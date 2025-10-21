@@ -5,8 +5,6 @@ category: reference
 
 # Global Colors - Set the font colors
 
-**<u>Global Colors - Set the font colors</u>**
-
 You can use Global Colors to change the colors of various font options for an existing math document, or to change the default font colors used when creating new math documents.
 
 NOTE: If you are using the program for the first time, or you have reset the default settings for the program using , you should set the default font colors before adding any questions to the math document.

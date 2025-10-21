@@ -5,8 +5,6 @@ category: tutorials
 
 # Create a design group
 
-**<u>Create a design group</u>**
-
 The program comes with some Default Design Groups that you can use with your documents, but you can create and save your own design groups.
 
 A forms the basis for a design group. Any section - one column, two columns manual or two columns auto-flow - and the design elements and exercise sets that have been added to that section can be saved as design group.

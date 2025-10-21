@@ -5,8 +5,6 @@ category: tutorials
 
 # Add a header
 
-**<u>Add a header</u>**
-
 The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two. To access the Header dialog, a math document must be open. Select Header in the Document area of the ribbon to open the dialog.
 
 TIP: When the header is displayed on a page, double-click anywhere in the header to open the Header dialog.

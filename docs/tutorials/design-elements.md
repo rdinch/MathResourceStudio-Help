@@ -5,4 +5,3 @@ category: tutorials
 
 # Design elements
 
-**<u>Design elements</u>**

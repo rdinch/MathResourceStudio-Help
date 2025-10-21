@@ -5,4 +5,3 @@ category: reference
 
 # Tables and Drills
 
-**<u>Tables and Drills</u>**

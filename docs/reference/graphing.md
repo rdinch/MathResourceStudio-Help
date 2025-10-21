@@ -5,4 +5,3 @@ category: reference
 
 # Graphing
 
-**<u>Graphing</u>**

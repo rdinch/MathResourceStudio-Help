@@ -5,8 +5,6 @@ category: reference
 
 # Change the document numbering
 
-**<u>Change the document numbering</u>**
-
 The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering select Numbering on the Home ribbon.
 
 Numbering System

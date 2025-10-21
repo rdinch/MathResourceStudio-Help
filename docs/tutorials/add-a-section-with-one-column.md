@@ -5,8 +5,6 @@ category: tutorials
 
 # Add a section with one column
 
-**<u>Add a section with one column</u>**
-
 A One Column Section formats all design elements and exercise sets in one column across the page.
 
 Change the background color

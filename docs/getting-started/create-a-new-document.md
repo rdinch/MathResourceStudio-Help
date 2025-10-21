@@ -5,8 +5,6 @@ category: getting-started
 
 # Create a new document
 
-**<u>Create a new document</u>**
-
 Are you creating your first worksheet in Math Resource Studio? This is a quick overview for getting started. We also have some introductory video tutorials in the on our website and on our channel.
 
 There are variety of ways to get started with the program. Because design elements and exercise sets can be added, deleted and moved easily (using Cut or Copy and Paste), you are never locked into a single method of designing a math worksheet. The steps below are basic introduction if this is the first time using the program.

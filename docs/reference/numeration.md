@@ -5,4 +5,3 @@ category: reference
 
 # Numeration
 
-**<u>Numeration</u>**

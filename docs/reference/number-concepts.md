@@ -5,4 +5,3 @@ category: reference
 
 # Number Concepts
 
-**<u>Number Concepts</u>**

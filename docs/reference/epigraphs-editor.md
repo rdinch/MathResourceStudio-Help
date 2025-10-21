@@ -5,8 +5,6 @@ category: reference
 
 # Epigraphs Editor
 
-**<u>Epigraphs Editor</u>**
-
 The Epigraphs selector provides a way to create, edit, and combine epigraph\*\* collection files to use as part of document title groups or placed throughout a document as a design item.
 
 \*\*What is an epigraph? In literature, an epigraph is a quotation placed at the start of a piece of work, or a chapter, or a section.
@@ -77,390 +75,95 @@ To import epigraphs saved as a text file (.txt):
 
 Commands
 
-<table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-<td><table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-<p>Open</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+O</p></td>
-</tr>
-</tbody>
-</table>
-<p>Opens the Open dialog for locating and opening a saved epigraphs file (.vqr).</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>New</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+N</p></td>
-</tr>
-</tbody>
-</table>
-<p>Closes any currently opened epigraphs file, and presents a blank grid ready for adding epigraphs. Click in the Epigraph cell to start adding your epigraphs.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Save</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+S</p></td>
-</tr>
-</tbody>
-</table>
-<p>Saves the current epigraphs collection. If this is the first time the epigraphs collection is saved, a Save As window opens allowing you to enter a file name and save location.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Save As</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Saves the current epigraphs collection as a new file. The Save As window opens allowing you to enter a file name and save location.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Paste</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+V</p></td>
-</tr>
-</tbody>
-</table>
-<p>Inserts the text saved on the Clipboard.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Cut</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+X</p></td>
-</tr>
-</tbody>
-</table>
-<p>Cuts the selected text and puts it on the Clipboard in preparation for pasting. Text in a cell must be selected/highlighted in order for this command to become available.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Copy</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+C</p></td>
-</tr>
-</tbody>
-</table>
-<p>Copies, but does not remove, the selected text and puts it on the Clipboard in preparation for pasting. Text in a cell must be selected/highlighted in order for this command to become available.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Random Selection</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Randomly selects an epigraph from the currently displayed collection and places it in the Selected Epigraph box above the grid collection. This is the epigraph that will be placed on the document.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Insert Row Above</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Inserts a blank row above the selected row.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Delete Row(s)</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Deletes the selected rows.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Import</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Opens the Open dialog for selecting the text file that contains the epigraphs you want to import. See Importing Epigraphs above for details. NOTE: The import file must be a plain text file (.txt), and each epigraph must be on it's own line with a single Enter after each epigraph.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Spelling</p></td>
-</tr>
-</tbody>
-</table>
-<p>F7</p></td>
-</tr>
-</tbody>
-</table>
-<p>Checks the text for spelling errors.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Thesaurus</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Opens the dialog.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Undo</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+Z</p></td>
-</tr>
-</tbody>
-</table>
-<p>Reverses the last action taken.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Redo</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+Y</p></td>
-</tr>
-</tbody>
-</table>
-<p>Will redo the previously undone action.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Options</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Opens the Epigraph Editor Options dialog. Changes to the Font used for the epigraphs selector grid and the Spelling checker dictionary options can be made in this Options dialog.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Print</p></td>
-</tr>
-</tbody>
-</table>
-<p>Ctrl+P</p></td>
-</tr>
-</tbody>
-</table>
-<p>This feature is located on the View tab. Opens the Print dialog for the Epigraphs editor. The epigraphs data is printed in a basic table format.</p></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>Print Preview</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p>This feature is located on the View tab. The Print Preview function previews the epigraphs data printout on the computer screen.</p></td>
-</tr>
-</tbody>
-</table>
+Open
+
+Ctrl+O
+
+Opens the Open dialog for locating and opening a saved epigraphs file (.vqr).
+
+New
+
+Ctrl+N
+
+Closes any currently opened epigraphs file, and presents a blank grid ready for adding epigraphs. Click in the Epigraph cell to start adding your epigraphs.
+
+Save
+
+Ctrl+S
+
+Saves the current epigraphs collection. If this is the first time the epigraphs collection is saved, a Save As window opens allowing you to enter a file name and save location.
+
+Save As
+
+Saves the current epigraphs collection as a new file. The Save As window opens allowing you to enter a file name and save location.
+
+Paste
+
+Ctrl+V
+
+Inserts the text saved on the Clipboard.
+
+Cut
+
+Ctrl+X
+
+Cuts the selected text and puts it on the Clipboard in preparation for pasting. Text in a cell must be selected/highlighted in order for this command to become available.
+
+Copy
+
+Ctrl+C
+
+Copies, but does not remove, the selected text and puts it on the Clipboard in preparation for pasting. Text in a cell must be selected/highlighted in order for this command to become available.
+
+Random Selection
+
+Randomly selects an epigraph from the currently displayed collection and places it in the Selected Epigraph box above the grid collection. This is the epigraph that will be placed on the document.
+
+Insert Row Above
+
+Inserts a blank row above the selected row.
+
+Delete Row(s)
+
+Deletes the selected rows.
+
+Import
+
+Opens the Open dialog for selecting the text file that contains the epigraphs you want to import. See Importing Epigraphs above for details. NOTE: The import file must be a plain text file (.txt), and each epigraph must be on it's own line with a single Enter after each epigraph.
+
+Spelling
+
+F7
+
+Checks the text for spelling errors.
+
+Thesaurus
+
+Opens the dialog.
+
+Undo
+
+Ctrl+Z
+
+Reverses the last action taken.
+
+Redo
+
+Ctrl+Y
+
+Will redo the previously undone action.
+
+Options
+
+Opens the Epigraph Editor Options dialog. Changes to the Font used for the epigraphs selector grid and the Spelling checker dictionary options can be made in this Options dialog.
+
+Print
+
+Ctrl+P
+
+This feature is located on the View tab. Opens the Print dialog for the Epigraphs editor. The epigraphs data is printed in a basic table format.
+
+Print Preview
+
+This feature is located on the View tab. The Print Preview function previews the epigraphs data printout on the computer screen.
+

@@ -5,8 +5,6 @@ category: reference
 
 # Basic Number Operations Word Problem Templates
 
-**<u>Basic Number Operations Word Problem Templates</u>**
-
 The editors for the Basic Number Operations Problem Templates provide a way to add, edit and organize custom word problem templates for basic addition, subtraction, multiplication or division.
 
 Depending on how you like to organize your material, build one large collection of custom word problem templates for each basic operation, or build a variety of collections that can be selected as needed.

@@ -5,4 +5,3 @@ category: reference
 
 # Coordinates
 
-**<u>Coordinates</u>**

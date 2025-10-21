@@ -5,8 +5,6 @@ category: getting-started
 
 # Save and open a document
 
-**<u>Save and open a document</u>**
-
 Save a Math Document
 
 1\. On the toolbar at the top of the program window click Save or Save As; or press Ctrl+S on the keyboard.

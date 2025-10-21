@@ -5,8 +5,6 @@ category: reference
 
 # Navigation Bar Plus Serial Number
 
-**<u>Navigation Bar Plus Serial Number</u>**
-
 Just above an open worksheet document is a navigation bar that also includes a unique serial number that can be added to a document.
 
 Navigation

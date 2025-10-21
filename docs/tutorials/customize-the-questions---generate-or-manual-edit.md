@@ -5,8 +5,6 @@ category: tutorials
 
 # Customize the questions - generate or manual edit
 
-**<u>Customize the questions - generate or manual edit</u>**
-
 Questions in an exercise set can be customized manually, or you can adjust the options for an exercise set so that the program will generate a variety of questions automatically.
 
 IMPORTANT NOTE: If you select Generate Active Set or Generate All Sets on the ribbon, your manually edited question will be overwritten by new randomly generated questions. Do any manual editing of questions as a last step in creating your math document.

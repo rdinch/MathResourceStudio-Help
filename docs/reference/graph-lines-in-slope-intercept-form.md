@@ -5,8 +5,6 @@ category: reference
 
 # Graph Lines in Slope-Intercept Form
 
-**<u>Graph Lines in Slope-Intercept Form</u>**
-
 The Graph Lines in Slope-Intercept Form provides your students with lots of practice in finding solutions for an equation in order to draw a line on grid.
 
 Change the number of exercises
@@ -105,13 +103,6 @@ Change the x and y axes lines color
 
 **Exercise Set Display Options**
 
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
 Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
@@ -192,22 +183,7 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 
 3\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
-<table>
-<tbody>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 **Title Display Options**
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Show title
 
@@ -247,22 +223,9 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 
 2\. Select a side (left, right, top, or bottom) to change the value for that side.
 
-<table>
-<tbody>
-<tr>
-<td><p>3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.</p></td>
-</tr>
-</tbody>
-</table>
+3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
 **Instructions Display Options**
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Show instructions
 
@@ -302,22 +265,9 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 
 2\. Select a side (left, right, top, or bottom) to change the value for that side.
 
-<table>
-<tbody>
-<tr>
-<td><p>3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.</p></td>
-</tr>
-</tbody>
-</table>
+3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
 **Numbering Display Options**
-
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
 
 Change the numbering direction
 
@@ -341,10 +291,5 @@ Change the color
 
 3\. Choose the color you like.
 
-<table>
-<tbody>
-<tr>
-<td><p>4. Click "OK" to save your choice and apply the new color.</p></td>
-</tr>
-</tbody>
-</table>
+4. Click "OK" to save your choice and apply the new color.
+

@@ -5,8 +5,6 @@ category: reference
 
 # Edit Equation Patterns
 
-**<u>Edit Equation Patterns</u>**
-
 Add, edit and organize the equation patterns to be used for the exercise set questions.
 
 NOTE: Each exercise set that uses the Patterns editor for creating and editing equation patterns has it's own editor, though they all work similarly. The equation patterns cannot be mixed between exercise sets. For example, equation patterns for are very different from .

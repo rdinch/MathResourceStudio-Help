@@ -5,8 +5,6 @@ category: reference
 
 # Add a title
 
-**<u>Add a title</u>**
-
 The Title design element inserts a title area in the math document. Titles can be used to highlight sections of the math document.
 
 Select Title from the list of Design Elements located on the Home ribbon to insert a title below the currently selected element in the document.

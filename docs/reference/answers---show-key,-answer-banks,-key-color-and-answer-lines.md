@@ -5,8 +5,6 @@ category: reference
 
 # Answers - Show Key, Answer Banks, Key Color and Answer Lines
 
-**<u>Answers - Show Key, Answer Banks, Key Color and Answer Lines</u>**
-
 Show Key
 
 For any document, click Show Key in the Answer Key section of the Home ribbon to display what the answer key will look like. Click Show Key again to hide the answers.

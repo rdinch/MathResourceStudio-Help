@@ -5,8 +5,6 @@ category: reference
 
 # Edit Problem Templates with Solve For Option
 
-**<u>Edit Problem Templates with Solve For Option</u>**
-
 Add, edit and organize problem templates with a solve for option used for , , , and .
 
 1\. Enter a problem template in the Template box above the grid. Use the tag buttons below the box to represent the various data fields in the problem (i.e. gross wages; rate; principal; percent; name; object, price, sales tax).

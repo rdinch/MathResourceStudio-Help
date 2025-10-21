@@ -5,4 +5,3 @@ category: reference
 
 # Reference
 
-**<u>Reference</u>**

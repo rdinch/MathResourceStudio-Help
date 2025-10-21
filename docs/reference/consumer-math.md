@@ -5,4 +5,3 @@ category: reference
 
 # Consumer Math
 
-**<u>Consumer Math</u>**

@@ -5,8 +5,6 @@ category: tutorials
 
 # Add an exercise set
 
-**<u>Add an exercise set</u>**
-
 To a New Document
 
 1\. Open Math Resource Studio.

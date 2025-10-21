@@ -2,13 +2,6 @@
 
 **Exercise Set Display Options**
 
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
 Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
@@ -167,15 +160,8 @@ Choose one of these types of background lines:
 
 Â· Dotted
 
-<table>
-<tbody>
-<tr>
-<td><p>TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.</p>
-<p>Â· Dashed</p></td>
-</tr>
-</tbody>
-</table>
-
+TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
+Â· Dashed
 
 ## Additional Display Options
 
@@ -279,13 +265,6 @@ Choose one of these types of background lines:
 
 Â· Dotted
 
-<table>
-<tbody>
-<tr>
-<td><p>TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.</p>
-<p>Â· Dashed</p></td>
-</tr>
-</tbody>
-</table>
-
+TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
+Â· Dashed
 

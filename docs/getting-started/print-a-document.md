@@ -5,8 +5,6 @@ category: getting-started
 
 # Print a document
 
-**<u>Print a document</u>**
-
 The Print Document window provides a way to print both the worksheet and answer sheet at the same time.
 
 TIP: In the Print Document window is setup to print one worksheet (for the students to work on) and one worksheet key (for marking purposes), and one answer sheet (for the students) and one answer sheet key (for marking purposes). If you don't want a particular worksheet, answer sheet or key to print, set it to zero (0).

@@ -5,8 +5,6 @@ category: getting-started
 
 # What's New
 
-**<u>What's New</u>**
-
 Welcome to Math Resource Studio 8!
 
 With Math Resource Studio you can create targeted math practice materials to provide students the precise skills development and math practice they need as part of a differentiated numeracy program. Individual or class sets of professional worksheets, workbooks, or tests can be created quickly and effortlessly saving valuable preparation time and resources.
@@ -25,34 +23,13 @@ What's New in Version
 
 **New Exercise Sets**
 
-<table>
-<tbody>
-<tr>
-</tr>
-</tbody>
-</table>
-
 Â· blah blah
 
 Â·
 
-<table>
-<tbody>
-<tr>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 Â· blah blah
 
-<table>
-<tbody>
-<tr>
-<td><p>Â·</p></td>
-</tr>
-</tbody>
-</table>
+Â·
 
 **Some New Features**
 

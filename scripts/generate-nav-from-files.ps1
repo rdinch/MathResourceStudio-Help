@@ -1,6 +1,6 @@
 # Generate navigation structure based on actual files created
 $baseDir = "docs"
-$categories = @("getting-started", "activities", "reference", "tutorials")
+$categories = @("getting-started", "activities", "reference", "tutorials", "options")
 
 Write-Host "Generating navigation based on actual files..." -ForegroundColor Green
 

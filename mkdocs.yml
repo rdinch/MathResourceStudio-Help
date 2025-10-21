@@ -46,7 +46,7 @@ nav:
     - "Save Your Options Settings": getting-started/save-your-options-settings.md
     - "What's New": getting-started/what's-new.md
   - Activities:
-    - "Add A Fraction Line": activities/add-a-fraction-line.md
+    - "Across Downs": activities/across-downs.md
     - "Addition Box": activities/addition-box.md
     - "Advanced Addition": activities/advanced-addition.md
     - "Advanced Division": activities/advanced-division.md
@@ -57,6 +57,10 @@ nav:
     - "Advanced Multiplication   Selected Multipliers": activities/advanced-multiplication---selected-multipliers.md
     - "Advanced Subtraction": activities/advanced-subtraction.md
     - "Algebra": activities/algebra.md
+    - "Angles": activities/angles.md
+    - "Area Shapes": activities/area-shapes.md
+    - "Associative Property": activities/associative-property.md
+    - "Bar Graphs": activities/bar-graphs.md
     - "Basic Addition": activities/basic-addition.md
     - "Basic Addition And Regrouping": activities/basic-addition-and-regrouping.md
     - "Basic Addition   Doubles": activities/basic-addition---doubles.md
@@ -66,16 +70,38 @@ nav:
     - "Basic Multiplication Fixed Factor": activities/basic-multiplication-fixed-factor.md
     - "Basic Subtraction": activities/basic-subtraction.md
     - "Basic Subtraction And Regrouping": activities/basic-subtraction-and-regrouping.md
+    - "Before After Between": activities/before-after-between.md
+    - "Cartesian Coordinates   Four Quadrants": activities/cartesian-coordinates---four-quadrants.md
+    - "Cartesian Coordinates   Single Quadrant": activities/cartesian-coordinates---single-quadrant.md
     - "Circle Drill Addition": activities/circle-drill-addition.md
     - "Circle Drill Division": activities/circle-drill-division.md
     - "Circle Drill Multiplication": activities/circle-drill-multiplication.md
     - "Circle Drill Subtraction": activities/circle-drill-subtraction.md
+    - "Circles": activities/circles.md
+    - "Circle The Numbers": activities/circle-the-numbers.md
+    - "Commutative Property": activities/commutative-property.md
     - "Comparing Fractions": activities/comparing-fractions.md
+    - "Comparing Numbers": activities/comparing-numbers.md
+    - "Compound Interest": activities/compound-interest.md
+    - "Count How Many": activities/count-how-many.md
     - "Counting Money": activities/counting-money.md
+    - "Counting Patterns": activities/counting-patterns.md
+    - "Counting Table": activities/counting-table.md
+    - "Count Up And Down": activities/count-up-and-down.md
+    - "Custom Questions": activities/custom-questions.md
+    - "Custom Word Problems": activities/custom-word-problems.md
+    - "Diamond Math": activities/diamond-math.md
+    - "Distributive Property": activities/distributive-property.md
     - "Division With Whole Numbers": activities/division-with-whole-numbers.md
     - "Edit Equation Patterns   Fractions": activities/edit-equation-patterns---fractions.md
     - "Edit Fractions Word Problems Templates": activities/edit-fractions-word-problems-templates.md
+    - "Equations   Defined Variable": activities/equations---defined-variable.md
+    - "Equations   Single Variable (One Side)": activities/equations---single-variable-(one-side).md
     - "Equivalent Fractions": activities/equivalent-fractions.md
+    - "Expanded Notation": activities/expanded-notation.md
+    - "Exponents": activities/exponents.md
+    - "Fact Families": activities/fact-families.md
+    - "Factors": activities/factors.md
     - "Fraction Identification   Grids": activities/fraction-identification---grids.md
     - "Fraction Identification   Rectangles": activities/fraction-identification---rectangles.md
     - "Fractions": activities/fractions.md
@@ -86,32 +112,86 @@ nav:
     - "Fractions Multiplication": activities/fractions-multiplication.md
     - "Fractions Subtraction": activities/fractions-subtraction.md
     - "Geometry": activities/geometry.md
+    - "Greatest Common Factor": activities/greatest-common-factor.md
+    - "Inequalities": activities/inequalities.md
+    - "Input Output": activities/input-output.md
+    - "Line Graphs": activities/line-graphs.md
+    - "Lowest Common Multiple": activities/lowest-common-multiple.md
+    - "Magic Squares": activities/magic-squares.md
+    - "Magic Stars": activities/magic-stars.md
+    - "Make A Bar Graph": activities/make-a-bar-graph.md
+    - "Make A Line Graph": activities/make-a-line-graph.md
+    - "Make Sum": activities/make-sum.md
+    - "Match Ups": activities/match-ups.md
+    - "Mean Median Mode Range": activities/mean-median-mode-range.md
     - "Measurement": activities/measurement.md
+    - "Measuring Lines": activities/measuring-lines.md
+    - "Measuring Rectangles": activities/measuring-rectangles.md
+    - "Metric Conversion": activities/metric-conversion.md
+    - "Metric Weights And Measures": activities/metric-weights-and-measures.md
+    - "Mixed Advanced Operations": activities/mixed-advanced-operations.md
+    - "Mixed Basic Operations": activities/mixed-basic-operations.md
     - "Mixed Numbers And Improper Fractions": activities/mixed-numbers-and-improper-fractions.md
     - "Mixed Operations With Fractions": activities/mixed-operations-with-fractions.md
     - "Money In Words": activities/money-in-words.md
+    - "Multiple Addends": activities/multiple-addends.md
+    - "Multiple Operations": activities/multiple-operations.md
     - "Multiple Operations Addition Subtraction": activities/multiple-operations-addition-subtraction.md
+    - "Multiple Operations Missing Operations": activities/multiple-operations-missing-operations.md
+    - "Multiples": activities/multiples.md
     - "Multiplication Box": activities/multiplication-box.md
     - "Multiplication With Whole Numbers": activities/multiplication-with-whole-numbers.md
+    - "Number Lines": activities/number-lines.md
     - "Number Lines   Decimals": activities/number-lines---decimals.md
     - "Number Lines   Fractions": activities/number-lines---fractions.md
+    - "Number Lines   Integers": activities/number-lines---integers.md
+    - "Number Patterns": activities/number-patterns.md
+    - "Number Problems": activities/number-problems.md
     - "Order Fractional Values": activities/order-fractional-values.md
+    - "Ordering Numbers": activities/ordering-numbers.md
     - "Percent And Decimals": activities/percent-and-decimals.md
     - "Percent Of Numbers   Advanced": activities/percent-of-numbers---advanced.md
     - "Percent Of Numbers   Basic": activities/percent-of-numbers---basic.md
+    - "Perimeter And Area": activities/perimeter-and-area.md
     - "Pictorial Addition": activities/pictorial-addition.md
+    - "Place Value": activities/place-value.md
+    - "Plot Lines": activities/plot-lines.md
+    - "Polygons": activities/polygons.md
+    - "Powers Of Ten": activities/powers-of-ten.md
     - "Pre Algebra Equations One Side": activities/pre-algebra-equations-one-side.md
     - "Pre Algebra Equations Two Sides": activities/pre-algebra-equations-two-sides.md
+    - "Prime Numbers": activities/prime-numbers.md
+    - "Probability Spinner": activities/probability-spinner.md
+    - "Pythagorean Theorem": activities/pythagorean-theorem.md
+    - "Quick Facts": activities/quick-facts.md
     - "Ratio And Percent": activities/ratio-and-percent.md
+    - "Ratio Conversions": activities/ratio-conversions.md
+    - "Reading Thermometers": activities/reading-thermometers.md
+    - "Roman Arabic Comparison": activities/roman-arabic-comparison.md
+    - "Roman Numerals": activities/roman-numerals.md
+    - "Roots": activities/roots.md
+    - "Rounding Numbers": activities/rounding-numbers.md
+    - "Scientific Notation": activities/scientific-notation.md
+    - "Secret Trails": activities/secret-trails.md
+    - "Shopping Problems": activities/shopping-problems.md
+    - "Shopping Problems Ii": activities/shopping-problems-ii.md
+    - "Simple Interest": activities/simple-interest.md
+    - "Simplifying Expressions": activities/simplifying-expressions.md
     - "Simplifying Fractions": activities/simplifying-fractions.md
+    - "Sudoku": activities/sudoku.md
     - "Table Drill Addition": activities/table-drill-addition.md
     - "Table Drill Division": activities/table-drill-division.md
     - "Table Drill Multiplication": activities/table-drill-multiplication.md
     - "Table Drill Subtraction": activities/table-drill-subtraction.md
     - "Telling Time": activities/telling-time.md
+    - "Temperature Conversion": activities/temperature-conversion.md
     - "Time": activities/time.md
     - "Time Conversions": activities/time-conversions.md
     - "Time Passages": activities/time-passages.md
+    - "Us Weights And Measures": activities/us-weights-and-measures.md
+    - "Volume": activities/volume.md
+    - "Volume Cubes": activities/volume-cubes.md
+    - "Wages": activities/wages.md
     - "Word Problems   Addition": activities/word-problems---addition.md
     - "Word Problems   Division": activities/word-problems---division.md
     - "Word Problems Fractions Addition": activities/word-problems-fractions-addition.md
@@ -121,9 +201,10 @@ nav:
     - "Word Problems   Multiplication": activities/word-problems---multiplication.md
     - "Word Problems Percent": activities/word-problems-percent.md
     - "Word Problems   Subtraction": activities/word-problems---subtraction.md
+    - "Xy Graphs": activities/xy-graphs.md
   - Reference:
-    - "Across Downs": reference/across-downs.md
     - "Add A Background Picture": reference/add-a-background-picture.md
+    - "Add A Fraction Line": reference/add-a-fraction-line.md
     - "Add A Line": reference/add-a-line.md
     - "Add An Epigraph": reference/add-an-epigraph.md
     - "Add A Number Line": reference/add-a-number-line.md
@@ -133,125 +214,44 @@ nav:
     - "Add Text": reference/add-text.md
     - "Add Vertical Spacing": reference/add-vertical-spacing.md
     - "Advanced Number Operations": reference/advanced-number-operations.md
-    - "Angles": reference/angles.md
     - "Answers   Show Key, Answer Banks, Key Color And Answer Lines": reference/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
-    - "Area Shapes": reference/area-shapes.md
-    - "Associative Property": reference/associative-property.md
-    - "Bar Graphs": reference/bar-graphs.md
     - "Basic Number Operations": reference/basic-number-operations.md
     - "Basic Number Operations Word Problem Templates": reference/basic-number-operations-word-problem-templates.md
-    - "Before After Between": reference/before-after-between.md
-    - "Cartesian Coordinates   Four Quadrants": reference/cartesian-coordinates---four-quadrants.md
-    - "Cartesian Coordinates   Single Quadrant": reference/cartesian-coordinates---single-quadrant.md
     - "Change The Document Numbering": reference/change-the-document-numbering.md
     - "Change The Program Options": reference/change-the-program-options.md
     - "Check Your Spelling": reference/check-your-spelling.md
-    - "Circles": reference/circles.md
-    - "Circle The Numbers": reference/circle-the-numbers.md
-    - "Commutative Property": reference/commutative-property.md
-    - "Comparing Numbers": reference/comparing-numbers.md
-    - "Compound Interest": reference/compound-interest.md
     - "Consumer Math": reference/consumer-math.md
     - "Coordinates": reference/coordinates.md
-    - "Count How Many": reference/count-how-many.md
-    - "Counting Patterns": reference/counting-patterns.md
-    - "Counting Table": reference/counting-table.md
-    - "Count Up And Down": reference/count-up-and-down.md
     - "Currency Collection": reference/currency-collection.md
     - "Custom": reference/custom.md
-    - "Custom Questions": reference/custom-questions.md
     - "Custom Questions Editor": reference/custom-questions-editor.md
-    - "Custom Word Problems": reference/custom-word-problems.md
     - "Custom Word Problem Templates": reference/custom-word-problem-templates.md
     - "Delete, Cut, Copy, Paste Or Move Sections And Elements": reference/delete,-cut,-copy,-paste-or-move-sections-and-elements.md
-    - "Diamond Math": reference/diamond-math.md
-    - "Distributive Property": reference/distributive-property.md
     - "Edit Equation Patterns": reference/edit-equation-patterns.md
     - "Edit Problem Templates With Solve For Option": reference/edit-problem-templates-with-solve-for-option.md
     - "Edit Shopping Items": reference/edit-shopping-items.md
     - "Edit Word Problem Names": reference/edit-word-problem-names.md
     - "Edit Word Problem Objects": reference/edit-word-problem-objects.md
     - "Epigraphs Editor": reference/epigraphs-editor.md
-    - "Equations   Defined Variable": reference/equations---defined-variable.md
-    - "Equations   Single Variable (One Side)": reference/equations---single-variable-(one-side).md
     - "Exercise Sets": reference/exercise-sets.md
-    - "Expanded Notation": reference/expanded-notation.md
-    - "Exponents": reference/exponents.md
-    - "Fact Families": reference/fact-families.md
-    - "Factors": reference/factors.md
     - "Global Colors   Set The Font Colors": reference/global-colors---set-the-font-colors.md
     - "Global Fonts   Set The Font": reference/global-fonts---set-the-font.md
     - "Graphing": reference/graphing.md
     - "Graph Lines In Slope Intercept Form": reference/graph-lines-in-slope-intercept-form.md
     - "Graph Paper": reference/graph-paper.md
-    - "Greatest Common Factor": reference/greatest-common-factor.md
     - "Image Collection": reference/image-collection.md
-    - "Inequalities": reference/inequalities.md
-    - "Input Output": reference/input-output.md
     - "Just The Answers   Answer Block": reference/just-the-answers---answer-block.md
-    - "Line Graphs": reference/line-graphs.md
-    - "Lowest Common Multiple": reference/lowest-common-multiple.md
-    - "Magic Squares": reference/magic-squares.md
-    - "Magic Stars": reference/magic-stars.md
-    - "Make A Bar Graph": reference/make-a-bar-graph.md
-    - "Make A Line Graph": reference/make-a-line-graph.md
-    - "Make Sum": reference/make-sum.md
-    - "Match Ups": reference/match-ups.md
-    - "Mean Median Mode Range": reference/mean-median-mode-range.md
-    - "Measuring Lines": reference/measuring-lines.md
-    - "Measuring Rectangles": reference/measuring-rectangles.md
-    - "Metric Conversion": reference/metric-conversion.md
-    - "Metric Weights And Measures": reference/metric-weights-and-measures.md
-    - "Mixed Advanced Operations": reference/mixed-advanced-operations.md
-    - "Mixed Basic Operations": reference/mixed-basic-operations.md
-    - "Multiple Addends": reference/multiple-addends.md
-    - "Multiple Operations": reference/multiple-operations.md
-    - "Multiple Operations Missing Operations": reference/multiple-operations-missing-operations.md
-    - "Multiples": reference/multiples.md
     - "Navigation Bar Plus Serial Number": reference/navigation-bar-plus-serial-number.md
     - "Number Concepts": reference/number-concepts.md
-    - "Number Lines": reference/number-lines.md
-    - "Number Lines   Integers": reference/number-lines---integers.md
-    - "Number Patterns": reference/number-patterns.md
-    - "Number Problems": reference/number-problems.md
     - "Numeration": reference/numeration.md
-    - "Ordering Numbers": reference/ordering-numbers.md
-    - "Perimeter And Area": reference/perimeter-and-area.md
     - "Picture Editor": reference/picture-editor.md
-    - "Place Value": reference/place-value.md
     - "Place Value Names Editor": reference/place-value-names-editor.md
-    - "Plot Lines": reference/plot-lines.md
-    - "Polygons": reference/polygons.md
-    - "Powers Of Ten": reference/powers-of-ten.md
-    - "Prime Numbers": reference/prime-numbers.md
     - "Probability": reference/probability.md
-    - "Probability Spinner": reference/probability-spinner.md
     - "Puzzles": reference/puzzles.md
-    - "Pythagorean Theorem": reference/pythagorean-theorem.md
-    - "Quick Facts": reference/quick-facts.md
-    - "Ratio Conversions": reference/ratio-conversions.md
-    - "Reading Thermometers": reference/reading-thermometers.md
     - "Reference": reference/reference.md
-    - "Roman Arabic Comparison": reference/roman-arabic-comparison.md
-    - "Roman Numerals": reference/roman-numerals.md
-    - "Roots": reference/roots.md
-    - "Rounding Numbers": reference/rounding-numbers.md
-    - "Scientific Notation": reference/scientific-notation.md
-    - "Secret Trails": reference/secret-trails.md
     - "Set Defaults For Font, Numbering And Answer Lines": reference/set-defaults-for-font,-numbering-and-answer-lines.md
-    - "Shopping Problems": reference/shopping-problems.md
-    - "Shopping Problems Ii": reference/shopping-problems-ii.md
-    - "Simple Interest": reference/simple-interest.md
-    - "Simplifying Expressions": reference/simplifying-expressions.md
-    - "Sudoku": reference/sudoku.md
     - "Tables And Drills": reference/tables-and-drills.md
-    - "Temperature Conversion": reference/temperature-conversion.md
     - "Thesaurus": reference/thesaurus.md
-    - "Us Weights And Measures": reference/us-weights-and-measures.md
-    - "Volume": reference/volume.md
-    - "Volume Cubes": reference/volume-cubes.md
-    - "Wages": reference/wages.md
-    - "Xy Graphs": reference/xy-graphs.md
   - Tutorials:
     - "Add A Design Element": tutorials/add-a-design-element.md
     - "Add A Design Group": tutorials/add-a-design-group.md
@@ -268,3 +268,9 @@ nav:
     - "Design Elements": tutorials/design-elements.md
     - "Show Hide   Global Settings": tutorials/show-hide---global-settings.md
     - "Working With The Answer Sheet": tutorials/working-with-the-answer-sheet.md
+  - Options:
+    - "Answer Bank Display Options": options/answer-bank-display-options.md
+    - "Exercise Set Display Options": options/exercise-set-display-options.md
+    - "Instructions Display Options": options/instructions-display-options.md
+    - "Numbering Display Options": options/numbering-display-options.md
+    - "Title Display Options": options/title-display-options.md

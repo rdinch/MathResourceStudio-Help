@@ -1,4 +1,4 @@
-﻿---
+---
 title: What's New
 category: getting-started
 ---
@@ -11,30 +11,30 @@ With Math Resource Studio you can create targeted math practice materials to pro
 
 There a ????? editions of the Math program available, making it possible to pay for only those exercise sets, options and tools you really need:
 
-Â· Math Resource Studio 8: Basic Facts
+Â- Math Resource Studio 8: Basic Facts
 
-Â· Math Resource Studio 8: Starter
+Â- Math Resource Studio 8: Starter
 
-Â· Math Resource Studio 8: Basic
+Â- Math Resource Studio 8: Basic
 
-Â· Math Resource Studio 8: Professional (Professional edition provided for both Site and Enterprise licenses)
+Â- Math Resource Studio 8: Professional (Professional edition provided for both Site and Enterprise licenses)
 
 What's New in Version
 
 **New Exercise Sets**
 
-Â· blah blah
+Â- blah blah
 
 Â·
 
-Â· blah blah
+Â- blah blah
 
 Â·
 
 **Some New Features**
 
-Â· Answer Sheet View - When creating a math worksheet, an optional answer sheet is automatically created for the exercise set(s) that are added to the worksheet. The answer sheet provides an alternate way for the students to record their answers rather than on the actual math worksheet. The answer sheet has its own key and format options separate from the math worksheet.
+Â- Answer Sheet View - When creating a math worksheet, an optional answer sheet is automatically created for the exercise set(s) that are added to the worksheet. The answer sheet provides an alternate way for the students to record their answers rather than on the actual math worksheet. The answer sheet has its own key and format options separate from the math worksheet.
 
-Â· Marks
+Â- Marks
 
-Â· Multiple Choice Format
+Â- Multiple Choice Format

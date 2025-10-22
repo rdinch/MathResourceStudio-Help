@@ -7,47 +7,47 @@ category: activities
 
 For the Time Passages exercise set, students use clocks to calculate and display answers to these questions:
 
-· What time will it be?
+- What time will it be?
 
-· What time was it?
+- What time was it?
 
 Change the number of exercises
 
-1\. Click on the box labeled "Number of Exercises" in the options panel.
+1. Click on the box labeled "Number of Exercises" in the options panel.
 
-2\. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
+2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
 Change the number of exercises in a row
 
-1\. Select "Exercises per Row" in the options panel.
+1. Select "Exercises per Row" in the options panel.
 
-2\. Click the down arrow to choose a new number from the list or use Auto.
+2. Click the down arrow to choose a new number from the list or use Auto.
 
 Notes:
 
-· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+- If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+- For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the input field for the Row Spacing option in the options pane.
+1. Select the input field for the Row Spacing option in the options pane.
 
-2\. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
+2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
 Show title
 
-1\. To show the exercise set Title, select the check box for the Show Title option in the options pane.
+1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
-2\. To hide the exercise set title, deselect the check box.
+2. To hide the exercise set title, deselect the check box.
 
 Show instructions
 
-1\. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
+1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
-2\. To hide the exercise set instructions, deselect the check box.
+2. To hide the exercise set instructions, deselect the check box.
 
 Show duplicate warning
 
@@ -55,9 +55,9 @@ When this option is selected, a warning is displayed if there are any duplicate 
 
 Set the task
 
-1\. To change the task, select the the Task option in the options pane.
+1. To change the task, select the the Task option in the options pane.
 
-2\. Select the desired task.
+2. Select the desired task.
 
 Set the high and low range for hours
 
@@ -67,9 +67,9 @@ TIP: To have just minutes appear in the questions (no hours), set the high and l
 
 Set the increment of time
 
-1\. To set the increment of time, select the the Increments option in the options pane.
+1. To set the increment of time, select the the Increments option in the options pane.
 
-2\. Select the desired increment.
+2. Select the desired increment.
 
 NOTE : If an increment of 60 minutes is selected, only even hours like 12:00 or 10:00 will be generated. If an increment of 10 minutes is selected, times like 1:00, 5:30, 8:20, 12:20, 4:00 will be generated. The smaller the increment, the greater variety of times that will be generated.
 
@@ -77,17 +77,17 @@ Change the clock face
 
 Select standard, minimal, roman numeral, or no minute ticks clock faces.
 
-1\. To change the clock face, select the Clock Face option in the options pane.
+1. To change the clock face, select the Clock Face option in the options pane.
 
-2\. Select the check box adjacent to each of the desired clock faces.
+2. Select the check box adjacent to each of the desired clock faces.
 
 Set the clock diameter
 
 Sets the diameter of the clock in 100ths of an inch (25 = 1/4 inch, 40 = 1 cm).
 
-1\. Select the input field for the Clock Diameter option in the options pane.
+1. Select the input field for the Clock Diameter option in the options pane.
 
-2\. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 50 to 400.
+2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 50 to 400.
 
 Optional Settings
 

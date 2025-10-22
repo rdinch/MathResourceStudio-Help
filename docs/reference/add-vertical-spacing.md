@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add vertical spacing
 category: reference
 ---
@@ -13,6 +13,6 @@ Change the height
 
 Sets the height of the vertical spacing in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the input field for the Height option in the options pane.
+1. Select the input field for the Height option in the options pane.
 
-2\. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range: 1 to 100.
+2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range: 1 to 100.

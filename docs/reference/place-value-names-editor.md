@@ -1,4 +1,4 @@
-﻿---
+---
 title: Place Value Names Editor
 category: reference
 ---
@@ -7,11 +7,11 @@ category: reference
 
 The place value names used for the exercise set can be customized to use your local language.
 
-1\. With the Place Value Names editor open, double-click the cell for Name (plural variation) to put the cell in edit mode. Enter your custom text. Do the same for the Name (singular variation).
+1. With the Place Value Names editor open, double-click the cell for Name (plural variation) to put the cell in edit mode. Enter your custom text. Do the same for the Name (singular variation).
 
 TIP: When the cell is in edit mode, there is a right-click menu with the standard controls like Undo, Cut, Copy and Paste available. The keyboard combinations Ctrl-x (Cut), Ctrl-c (Copy) and Ctrl-v (Paste) will also work in cells in edit mode.
 
-2\. Use Save, or Save As, to save the place value names changes.
+2. Use Save, or Save As, to save the place value names changes.
 
 New
 

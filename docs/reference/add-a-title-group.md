@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a title group
 category: reference
 ---
@@ -13,9 +13,9 @@ Adjust the Top Padding or Bottom Padding
 
 Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the padding option in the options pane.
+1. Select the padding option in the options pane.
 
-2\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
 Picture
 
@@ -41,29 +41,29 @@ Change the title
 
 The default text for Title can be easily replaced.
 
-1\. Click in the Title Text box. Use Delete or Backspace on the keyboard to delete the default text, or highlight the text and type over the highlighted text.
+1. Click in the Title Text box. Use Delete or Backspace on the keyboard to delete the default text, or highlight the text and type over the highlighted text.
 
-2\. When you have finished entering your text either press Enter on the keyboard or click somewhere outside of the Title Text box to have the text update.
+2. When you have finished entering your text either press Enter on the keyboard or click somewhere outside of the Title Text box to have the text update.
 
 NOTE: If the text for Title Text is completely removed, the space for the Title field will be removed from the Title Group on the document, making more space for other Title Group elements. So to hide the Title element, delete all of the text for Title Text.
 
 Change the font
 
-1\. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
-4\. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Change the text alignment
 
@@ -73,7 +73,7 @@ Adjust the Top Padding or Bottom Padding
 
 Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the padding option in the options pane.
+1. Select the padding option in the options pane.
 
 2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
@@ -87,27 +87,27 @@ NOTE: You can remove the top, middle or bottom fields by deleting all of the tex
 
 Change the font
 
-1\. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
-4\. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Adjust the Top Padding or Bottom Padding
 
 Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the padding option in the options pane.
+1. Select the padding option in the options pane.
 
 2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
@@ -119,15 +119,15 @@ Check or uncheck the Visible check box to show or hide the lines.
 
 Change the line color
 
-1\. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker to select the preferred color.
+2. Use the color picker to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 Change the line width
 
-1\. Click on "Width" in the options panel.
+1. Click on "Width" in the options panel.
 
 2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
@@ -145,27 +145,27 @@ Select the Text option in the options pane and enter the text for the epigraph d
 
 Or,
 
-1\. Select the Text option in the options pane and press the ellipsis button to display the Epigraphs selector. The Epigraphs selector can also be accessed by double-clicking the epigraph text in the document.
+1. Select the Text option in the options pane and press the ellipsis button to display the Epigraphs selector. The Epigraphs selector can also be accessed by double-clicking the epigraph text in the document.
 
-2\. Select a new epigraph from the currently displayed collection by either pressing the Random Selection button to randomly select an epigraph from the active collection, or by selecting a specific epigraph from the list of epigraphs. You can also enter the text for a new epigraph directly into the epigraph text field.
+2. Select a new epigraph from the currently displayed collection by either pressing the Random Selection button to randomly select an epigraph from the active collection, or by selecting a specific epigraph from the list of epigraphs. You can also enter the text for a new epigraph directly into the epigraph text field.
 
-3\. Press OK to apply the change.
+3. Press OK to apply the change.
 
 Change the font
 
-1\. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
 Option A -
 Option B -
@@ -176,7 +176,7 @@ Adjust the Top Padding or Bottom Padding
 
 Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the padding option in the options pane.
+1. Select the padding option in the options pane.
 
 2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected.
 
@@ -190,25 +190,25 @@ Change the instructions text
 
 The default text for the Instructions can be easily replaced.
 
-1\. Click in the Instructions Text box. Select the down arrow to open the text editing box. Use Delete or Backspace on the keyboard to delete the default text, or highlight the text and type over the highlighted text.
+1. Click in the Instructions Text box. Select the down arrow to open the text editing box. Use Delete or Backspace on the keyboard to delete the default text, or highlight the text and type over the highlighted text.
 
-2\. When you have finished entering your text, select OK to close the text editing box. The updated instructions appear immediately in the title group on the document.
+2. When you have finished entering your text, select OK to close the text editing box. The updated instructions appear immediately in the title group on the document.
 
 Change the font
 
-1\. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
-4\. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 

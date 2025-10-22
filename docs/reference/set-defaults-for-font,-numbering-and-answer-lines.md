@@ -1,4 +1,4 @@
-﻿---
+---
 title: Set Defaults for Font, Numbering and Answer Lines
 category: reference
 ---
@@ -7,9 +7,9 @@ category: reference
 
 If you are using the program for the first time, or you have reset the default settings for the program using , you can customize some of the style aspects of a math worksheet before adding any questions to the document. Your new setting selections will become the new defaults when adding exercise sets or design elements to worksheets.
 
-1\. Open the program and select the New tile on the start screen. A math document will appear with only the current default header and footer.
+1. Open the program and select the New tile on the start screen. A math document will appear with only the current default header and footer.
 
-2\. Customize any or all of these features before selecting your first exercise set or design elements:
+2. Customize any or all of these features before selecting your first exercise set or design elements:
 
 Header, Footer and Background
 

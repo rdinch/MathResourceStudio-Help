@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a section to the document
 category: tutorials
 ---
@@ -17,10 +17,10 @@ Active, current, or inactive section
 
 A section can be active, current, or inactive.
 
-Â· To make a section Active, click in a blank space near the section line on the far left-hand side of the document.
+Â- To make a section Active, click in a blank space near the section line on the far left-hand side of the document.
 
-Â· An Active section is indicated by a solid dark blue line on the far left-hand side of the document (this line will not print on the document). A section must be active to change that section's options. The active section is also where design elements or exercise sets will be added.
+Â- An Active section is indicated by a solid dark blue line on the far left-hand side of the document (this line will not print on the document). A section must be active to change that section's options. The active section is also where design elements or exercise sets will be added.
 
-Â· A Current section is indicated by a solid pink line on the far left side of the document. A current section is where a design element or exercise set is active within the section (a light blue border indicates the active element or exercise set). In this case, the right-hand side options pane will display the settings for the active element or exercise set, not the section.
+Â- A Current section is indicated by a solid pink line on the far left side of the document. A current section is where a design element or exercise set is active within the section (a light blue border indicates the active element or exercise set). In this case, the right-hand side options pane will display the settings for the active element or exercise set, not the section.
 
-Â· An Inactive section is indicated by a solid light grey line on the far left-hand side of the document. In this case, neither the section nor any of the section's elements and exercise sets are active.
+Â- An Inactive section is indicated by a solid light grey line on the far left-hand side of the document. In this case, neither the section nor any of the section's elements and exercise sets are active.

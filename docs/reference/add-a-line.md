@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add a line
 category: reference
 ---
@@ -13,24 +13,24 @@ TIP: Do you have the exercise sets in two columns across the page but you would 
 
 Change the line color
 
-1\. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker to select the preferred color.
+2. Use the color picker to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 Change the line width
 
-1\. Click on "Width" in the options panel.
+1. Click on "Width" in the options panel.
 
-2\. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
+2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
 Adjust the padding
 
 Sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the Padding option in the options pane.
+1. Select the Padding option in the options pane.
 
-2\. Select a side (left, right, top, or bottom) to change the value for that side.
+2. Select a side (left, right, top, or bottom) to change the value for that side.
 
-3\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.

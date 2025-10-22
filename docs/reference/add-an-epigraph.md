@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add an epigraph
 category: reference
 ---
@@ -21,51 +21,51 @@ Or,
 
 Option B -
 
-1\. Select the Text option in the options pane and press the ellipsis button to display the Epigraphs selector. The Epigraphs selector can also be accessed by double-clicking the epigraph text in the document.
+1. Select the Text option in the options pane and press the ellipsis button to display the Epigraphs selector. The Epigraphs selector can also be accessed by double-clicking the epigraph text in the document.
 
-2\. Select a new epigraph from the currently displayed collection by either pressing the Random Selection button to randomly select an epigraph from the active collection, or by selecting a specific epigraph from the list of epigraphs. You can also enter the text for a new epigraph directly into the epigraph text field.
+2. Select a new epigraph from the currently displayed collection by either pressing the Random Selection button to randomly select an epigraph from the active collection, or by selecting a specific epigraph from the list of epigraphs. You can also enter the text for a new epigraph directly into the epigraph text field.
 
-3\. Press OK to apply the change.
+3. Press OK to apply the change.
 
 With the , you can also sort the epigraphs alphabetically to help locate a particular epigraph; or add, edit or create epigraphs collections to use on your worksheets.
 
 Change the font
 
-1\. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
-4\. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Change the background color
 
-1\. In the options panel, find and select "Background Color."
+1. In the options panel, find and select "Background Color."
 
-1\. Click the three dots (ellipsis) in the color box to open the color picker.
+1. Click the three dots (ellipsis) in the color box to open the color picker.
 
-2\. Choose the color you like.
+2. Choose the color you like.
 
-3\. Click "OK" to save your choice and apply the new color.
+3. Click "OK" to save your choice and apply the new color.
 
 Change the alignment
 
-1\. Click on "Alignment" in the options.
+1. Click on "Alignment" in the options.
 
-2\. Choose from Left, Center, or Right
+2. Choose from Left, Center, or Right
 
-1\. Select the Alignment option in the options pane.
+1. Select the Alignment option in the options pane.
 
-2\. Select Left, Center, or Right alignment.
+2. Select Left, Center, or Right alignment.
 
 **Add a Border**
 
@@ -73,19 +73,19 @@ To show a border around an object, click the Border option in the options panel.
 
 Change the color
 
-1\. In the options panel, find and select "Color."
+1. In the options panel, find and select "Color."
 
-2\. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-3\. Choose the color you like.
+3. Choose the color you like.
 
-4\. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Change the line width
 
-1\. Click on "Width" in the options panel.
+1. Click on "Width" in the options panel.
 
-2\. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
+2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
 Round the corners
 
@@ -95,8 +95,8 @@ Adjust the padding
 
 Sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the Padding option in the options pane.
+1. Select the Padding option in the options pane.
 
-2\. Select a side (left, right, top, or bottom) to change the value for that side.
+2. Select a side (left, right, top, or bottom) to change the value for that side.
 
-3\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.

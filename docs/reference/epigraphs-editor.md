@@ -1,4 +1,4 @@
-﻿---
+---
 title: Epigraphs Editor
 category: reference
 ---
@@ -11,45 +11,45 @@ The Epigraphs selector provides a way to create, edit, and combine epigraph\*\* 
 
 Create a new epigraphs collection
 
-1\. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
+1. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
 
-2\. Select New on the ribbon. A blank row will appear in the grid ready for you to add epigraphs.
+2. Select New on the ribbon. A blank row will appear in the grid ready for you to add epigraphs.
 
-3\. Type or paste in a epigraph, then use the Tab key on the keyboard to move to the next row. You can also use the mouse to click in each epigraph cell.
+3. Type or paste in a epigraph, then use the Tab key on the keyboard to move to the next row. You can also use the mouse to click in each epigraph cell.
 
-4\. Once you have entered all of the epigraphs you want for the epigraphs collection, click Spelling on the ribbon to check for spelling errors.
+4. Once you have entered all of the epigraphs you want for the epigraphs collection, click Spelling on the ribbon to check for spelling errors.
 
-5\. Save the epigraphs collection before closing the Epigraphs selector. The epigraphs collection is now ready to be used on your document.
+5. Save the epigraphs collection before closing the Epigraphs selector. The epigraphs collection is now ready to be used on your document.
 
 Edit an epigraphs collection
 
 To edit an epigraphs collection:
 
-1\. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
+1. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
 
-2\. To locate and open a different saved epigraphs collection, click the Open icon on the ribbon at the top of the editor window. A warning message will appear asking if you want to close the currently displayed epigraphs collection.
+2. To locate and open a different saved epigraphs collection, click the Open icon on the ribbon at the top of the editor window. A warning message will appear asking if you want to close the currently displayed epigraphs collection.
 
-3\. An Open dialog appears. Locate the epigraphs collection you want to edit and click the Open button. (All saved epigraphs files end in the extension .vqr .)
+3. An Open dialog appears. Locate the epigraphs collection you want to edit and click the Open button. (All saved epigraphs files end in the extension .vqr .)
 
-4\. The newly opened epigraphs collection will appear in the grid ready for editing.
+4. The newly opened epigraphs collection will appear in the grid ready for editing.
 
-5\. A variety of tools are available for editing a epigraphs collection -
+5. A variety of tools are available for editing a epigraphs collection -
 
-Â· To correct the text in any cell in the grid, double-click the text in the cell until the cursor appears. This is called edit mode. Cut, Copy and Paste can be used once a cell is in edit mode and some text has been highlighted.
+- To correct the text in any cell in the grid, double-click the text in the cell until the cursor appears. This is called edit mode. Cut, Copy and Paste can be used once a cell is in edit mode and some text has been highlighted.
 
-Â· To delete a single epigraph/row, highlight the row by clicking in the space by the number beside the row, then select Delete Row(s) on the Home ribbon. To remove a number of epigraphs/rows, hold down the Shift key on the keyboard while clicking to select adjacent rows; or hold down the Ctrl key on the keyboard while clicking to select non-adjacent rows. Once the rows are highlighted select Delete Row(s).
+- To delete a single epigraph/row, highlight the row by clicking in the space by the number beside the row, then select Delete Row(s) on the Home ribbon. To remove a number of epigraphs/rows, hold down the Shift key on the keyboard while clicking to select adjacent rows; or hold down the Ctrl key on the keyboard while clicking to select non-adjacent rows. Once the rows are highlighted select Delete Row(s).
 
-Â· To insert a single epigraph/row in a list of epigraphs, highlight the row by clicking in the space by the number beside the row where you want to insert a new blank row. Then select Insert Row Above on the Home ribbon . A new blank row will be inserted above the selected row.
+- To insert a single epigraph/row in a list of epigraphs, highlight the row by clicking in the space by the number beside the row where you want to insert a new blank row. Then select Insert Row Above on the Home ribbon . A new blank row will be inserted above the selected row.
 
 Combine epigraph collections
 
-1\. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
+1. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
 
-2\. Click the Open icon on the ribbon at the top of the Epigraphs editor window. A warning message will appear asking if you want to close the currently displayed epigraphs collection. Select No if you want to combine this epigraphs collection with other collections. Selecting No leaves the epigraphs collection in place so the data from another epigraphs collection is added to the currently displayed epigraphs collection.
+2. Click the Open icon on the ribbon at the top of the Epigraphs editor window. A warning message will appear asking if you want to close the currently displayed epigraphs collection. Select No if you want to combine this epigraphs collection with other collections. Selecting No leaves the epigraphs collection in place so the data from another epigraphs collection is added to the currently displayed epigraphs collection.
 
-3\. An Open dialog appears after the warning is dealt with. Locate and select the epigraphs collection you want to combine with the epigraphs already in the grid. Click the Open button. The opened epigraphs collection will appear in the grid at the bottom of the collection already opened.
+3. An Open dialog appears after the warning is dealt with. Locate and select the epigraphs collection you want to combine with the epigraphs already in the grid. Click the Open button. The opened epigraphs collection will appear in the grid at the bottom of the collection already opened.
 
-4\. Continue opening epigraphs collections until you have opened all of the epigraphs collections you want to combine. Finish up by editing the quotations. Then use Save As to save the newly combined collection of epigraphs; because you have opened and combined collections of epigraphs you will want to ensure you are saving the updated collection under the correct file name.
+4. Continue opening epigraphs collections until you have opened all of the epigraphs collections you want to combine. Finish up by editing the quotations. Then use Save As to save the newly combined collection of epigraphs; because you have opened and combined collections of epigraphs you will want to ensure you are saving the updated collection under the correct file name.
 
 Importing epigraphs from text files
 
@@ -63,15 +63,15 @@ What is a mathematician's favorite dessert? Pi!
 
 To import epigraphs saved as a text file (.txt):
 
-1\. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
+1. With the Math program open, select Design Items on the Home ribbon and select Epigraphs. The Epigraphs selector will appear with either the default epigraphs collection filling the grid, or the last epigraphs collection you were working with.
 
-2\. On the Home ribbon of the Epigraphs selector, select Import. A warning message will appear asking if you want to close the currently displayed epigraphs collection, then an Open dialog will appear.
+2. On the Home ribbon of the Epigraphs selector, select Import. A warning message will appear asking if you want to close the currently displayed epigraphs collection, then an Open dialog will appear.
 
-3\. Locate the text file (.txt) file you want to import from, then click Open. The imported epigraphs will appear in the grid.
+3. Locate the text file (.txt) file you want to import from, then click Open. The imported epigraphs will appear in the grid.
 
-4\. Edit the list. When the editing is complete, click Spelling to check the epigraphs for spelling errors.
+4. Edit the list. When the editing is complete, click Spelling to check the epigraphs for spelling errors.
 
-5\. Save the epigraphs collection before closing the Epigraphs selector.
+5. Save the epigraphs collection before closing the Epigraphs selector.
 
 Commands
 

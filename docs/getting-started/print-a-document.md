@@ -1,4 +1,4 @@
-﻿---
+---
 title: Print a document
 category: getting-started
 ---
@@ -13,11 +13,11 @@ Open the print document window and print
 
 The
 
-1\. With a math document open, click Print on the ribbon, or use the keyboard combination of Ctrl + P .
+1. With a math document open, click Print on the ribbon, or use the keyboard combination of Ctrl + P .
 
-2\. The Print Document window opens.
+2. The Print Document window opens.
 
-3\. Make your feature selections and select Print at the top of the window.
+3. Make your feature selections and select Print at the top of the window.
 
 NOTE: See for information about setting margins, paper size, and orientation.
 

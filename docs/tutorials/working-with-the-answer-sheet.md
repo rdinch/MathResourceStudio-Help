@@ -1,4 +1,4 @@
-﻿---
+---
 title: Working with the Answer Sheet
 category: tutorials
 ---
@@ -27,17 +27,17 @@ Increase or decrease the spacing between the rows of answers
 
 This option sets the vertical spacing between the rows of answers in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the Vertical Spacing option in the options pane.
+1. Select the Vertical Spacing option in the options pane.
 
-2\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
 Change the key color
 
-1\. Select the Key Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Key Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker - Basic or Web - to select the preferred color.
+2. Use the color picker - Basic or Web - to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 **Set Headings**
 
@@ -49,27 +49,27 @@ To show the Title, Marks or Page Number for each exercise set, click in the box 
 
 Change the heading font
 
-1\. Select the Heading Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Heading Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the heading color
 
-1\. Select the Heading Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Heading Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker - Basic or Web - to select the preferred color.
+2. Use the color picker - Basic or Web - to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 Adjust the bottom padding
 
 Sets the bottom padding (extra white space) below the set heading in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1\. Select the Bottom Padding option in the options pane.
+1. Select the Bottom Padding option in the options pane.
 
-2\. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
 **Numbering**
 
@@ -77,19 +77,19 @@ The numbering is automatically generated based on the exercise set's options use
 
 Change the font
 
-1\. Select the numbering Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the numbering Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the color
 
-1\. Select the numbering Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the numbering Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker - Basic or Web - to select the preferred color.
+2. Use the color picker - Basic or Web - to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 **Answers**
 
@@ -97,11 +97,11 @@ The answers are automatically generated based on the exercise set's options used
 
 Change the font
 
-1\. Select the answers Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the answers Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 **Multiple Choice Bubbles**
 
@@ -111,19 +111,19 @@ NOTE: Not every exercise set has the Multiple Choice option. The answer sheet wi
 
 Change the label font
 
-1\. Select the Label Font option in the options pane and press the ellipsis button to display the font selection dialog.
+1. Select the Label Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
-2\. Select the preferred font name, style, and size.
+2. Select the preferred font name, style, and size.
 
-3\. Click OK to close the dialog and apply the selected font.
+3. Click OK to close the dialog and apply the selected font.
 
 Change the label color
 
-1\. Select the Label Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Label Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker - Basic or Web - to select the preferred color.
+2. Use the color picker - Basic or Web - to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.
 
 Change the label style
 
@@ -131,8 +131,8 @@ Select between Lowercase or Uppercase letters for the choice bubbles.
 
 Change the fill color for the correct answers
 
-1\. Select the Fill Color option in the options pane and press the ellipsis button to display the color selection dialog.
+1. Select the Fill Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
-2\. Use the color picker - Basic or Web - to select the preferred color.
+2. Use the color picker - Basic or Web - to select the preferred color.
 
-3\. Click OK to close the dialog and apply the selected color.
+3. Click OK to close the dialog and apply the selected color.

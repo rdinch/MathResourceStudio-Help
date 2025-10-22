@@ -1,4 +1,4 @@
-﻿---
+---
 title: Simple Interest
 category: reference
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -111,11 +111,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 CHANGE PARAMETERS FOR THE TIME
 
@@ -128,3 +128,11 @@ To achieve values within a set range, set the the high end of the range and the 
 2\. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
 NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pre-Algebra Equations: One Side
 category: activities
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -88,3 +88,11 @@ Select one or a variety of letters to represent the variable in the equations.
 1\. To change the variable letters, select the drop-down arrow beside the Variable Letters option in the options pane.
 
 2\. Select the desired variable letters, then select OK to apply to the questions.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

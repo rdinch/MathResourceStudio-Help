@@ -1,4 +1,4 @@
-﻿---
+---
 title: Counting Money
 category: activities
 ---
@@ -90,3 +90,11 @@ Select the box for Unit Lines to display a line under each image for writing the
 Display answer as cents
 
 By default, the answers are displayed in dollar amounts (No is selected). To display answer as cents, select one of the options that best suits your local currency formatting.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Ratio Conversions
 category: reference
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -61,9 +61,9 @@ Change how the ratio is represented
 
 The option determines whether the ratio is a part-to-part or part-to-whole representation:
 
-Â· Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement â€œThere are 5 apples for every 7 oranges â€ expresses a part-to-part ratio.
+· Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement “There are 5 apples for every 7 oranges ” expresses a part-to-part ratio.
 
-Â· Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement â€œ3 out of 5 crayons are redâ€ expresses a part-to-whole ratio. The statement â€œ2 out of 5 crayons are blueâ€ also expresses a part-to-whole ratio.
+· Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement “3 out of 5 crayons are red” expresses a part-to-whole ratio. The statement “2 out of 5 crayons are blue” also expresses a part-to-whole ratio.
 
 1\. To change how the ratio is represented, select the Ratio As option in the options pane.
 
@@ -100,3 +100,11 @@ Set the width of the conversion table in 100ths of an inch (25 = 1/4 inch, 40 = 
 Customize the Column Titles
 
 By default, each column title has text that is defaulted. Click in the text box for each Column Title to either type in the desired text or to paste in text copied from another source.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

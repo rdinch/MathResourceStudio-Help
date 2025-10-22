@@ -1,4 +1,4 @@
-﻿---
+---
 title: Expanded Notation
 category: reference
 ---
@@ -7,25 +7,25 @@ category: reference
 
 The Expanded Notation exercise set has ten different tasks you can use for a set of questions:
 
-Â· Standard to Words - numbers are generated randomly, and the student writes the number in words
+· Standard to Words - numbers are generated randomly, and the student writes the number in words
 
-Â· Words to Standard - numbers written as words are generated randomly, and the student writes the correct number for each question
+· Words to Standard - numbers written as words are generated randomly, and the student writes the correct number for each question
 
-Â· Standard to Expanded - numbers are generated randomly, and the student writes the number in expanded notation form; i.e. 625 is written as 600 + 20 + 5
+· Standard to Expanded - numbers are generated randomly, and the student writes the number in expanded notation form; i.e. 625 is written as 600 + 20 + 5
 
-Â· Expanded to Standard - numbers in expanded notation format (i.e. 600 + 20 + 5) are generated randomly, and the student writes the correct number for each question
+· Expanded to Standard - numbers in expanded notation format (i.e. 600 + 20 + 5) are generated randomly, and the student writes the correct number for each question
 
-Â· Standard to Full Expanded - numbers are generated randomly, and the student writes the number in fully expanded notation form; i.e. 426 is written as 4 x 100 + 2 x 10 + 6 x 1
+· Standard to Full Expanded - numbers are generated randomly, and the student writes the number in fully expanded notation form; i.e. 426 is written as 4 x 100 + 2 x 10 + 6 x 1
 
-Â· Full Expanded to Standard - numbers in fully expanded notation format (i.e. 4 x 100 + 2 x 10 + 6 x 1) are generated randomly, and the student writes the correct number for each question
+· Full Expanded to Standard - numbers in fully expanded notation format (i.e. 4 x 100 + 2 x 10 + 6 x 1) are generated randomly, and the student writes the correct number for each question
 
-Â· Standard to Place Value - numbers are generated randomly, and the student writes the number in place value format; i.e. 6 hundreds 2 tens 5 ones
+· Standard to Place Value - numbers are generated randomly, and the student writes the number in place value format; i.e. 6 hundreds 2 tens 5 ones
 
-Â· Place Value to Standard - numbers in place value format (i.e. 6 hundreds 2 tens 5 ones) are generated randomly, and the student writes the correct number for each question
+· Place Value to Standard - numbers in place value format (i.e. 6 hundreds 2 tens 5 ones) are generated randomly, and the student writes the correct number for each question
 
-Â· Standard to Expanded Exponential - numbers are generated randomly, and the student writes the number in expanded exponential notation form; i.e. 5,728 is written as (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>)
+· Standard to Expanded Exponential - numbers are generated randomly, and the student writes the number in expanded exponential notation form; i.e. 5,728 is written as (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>)
 
-Â· Expanded Exponential to Standard - numbers in expanded exponential notation format - i.e. (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>) - are generated randomly, and the student writes the correct number for each question
+· Expanded Exponential to Standard - numbers in expanded exponential notation format - i.e. (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>) - are generated randomly, and the student writes the correct number for each question
 
 Change the number of exercises
 
@@ -41,9 +41,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -111,8 +111,16 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

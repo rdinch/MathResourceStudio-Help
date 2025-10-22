@@ -1,4 +1,4 @@
-﻿---
+---
 title: Circles
 category: reference
 ---
@@ -23,9 +23,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -97,11 +97,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 Set the circle display size
 
@@ -124,3 +124,11 @@ Change the measurement units
 1\. To set the units of measure, select the drop-down arrow for the Measurement Units option in the options pane.
 
 2\. Select the desired units of measure, then press OK to apply the selected units.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

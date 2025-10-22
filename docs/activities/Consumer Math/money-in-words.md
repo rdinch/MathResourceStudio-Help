@@ -1,4 +1,4 @@
-﻿---
+---
 title: Money in Words
 category: activities
 ---
@@ -23,9 +23,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -92,3 +92,11 @@ When checked, the option Conjunction - Hundreds and Tens will include a conjunct
 Use a conjunction between integers and decimals
 
 When checked, the option Conjunction - Integers and Decimals will include a conjunction between integer values and decimal values. Example: $18.75 - eighteen dollars *and* seventy-five cents. When unchecked, the conjunction is left out.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

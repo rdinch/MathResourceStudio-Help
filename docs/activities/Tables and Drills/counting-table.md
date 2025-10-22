@@ -1,4 +1,4 @@
-﻿---
+---
 title: Counting Table
 category: reference
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -100,3 +100,11 @@ To change the value the counting sequence is incremented by (the amount by which
 1\. To set either the high or low end of the range, select the input field for the appropriate option in the options pane.
 
 2\. Type a new number in the field. Valid range is -1,000 to 1,000.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Number Lines - Decimals
 category: activities
 ---
@@ -102,3 +102,11 @@ Change the line labels color
 2\. Use the color picker to select the preferred color.
 
 3\. Click OK to close the dialog and apply the selected color. This option will change the color of the labels on the axes.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

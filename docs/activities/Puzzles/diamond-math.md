@@ -1,4 +1,4 @@
-﻿---
+---
 title: Diamond Math
 category: reference
 ---
@@ -9,9 +9,9 @@ Diamond Math is a great exercise for supporting your students in understanding t
 
 There are two options for this exercise set:
 
-Â· for early learners, the right and left numbers are given and the students must calculate the top number using multiplication and the bottom number using addition
+· for early learners, the right and left numbers are given and the students must calculate the top number using multiplication and the bottom number using addition
 
-Â· for a more challenging questions, the top and bottom numbers are given and students have to find two numbers that when added together equal the bottom sum while when multiplied together equal the top product
+· for a more challenging questions, the top and bottom numbers are given and students have to find two numbers that when added together equal the bottom sum while when multiplied together equal the top product
 
 Change the number of exercises
 
@@ -27,9 +27,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -83,11 +83,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 Diamond Size
 
@@ -96,3 +96,11 @@ The size the diamond can be set in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 1\. Select the input field for the Diamond Size option in the options pane.
 
 2\. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range: 50 to 200.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Mixed Advanced Operations
 category: reference
 ---
@@ -7,11 +7,11 @@ category: reference
 
 With Mixed Advanced Operations you can create a random mixture of operations using:
 
-Â· multiple digits - up to 9,999,999,999,999,999
+· multiple digits - up to 9,999,999,999,999,999
 
-Â· decimals or currency settings
+· decimals or currency settings
 
-Â· negative numbers
+· negative numbers
 
 Note: Many of the options available for single operation advanced exercises sets are available for Mixed Advanced Operations, but not all. In some cases you may want to use the single operation exercise sets.
 
@@ -29,9 +29,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -113,12 +113,12 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 **Subtraction**
 
@@ -152,11 +152,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 Control for Negative Answers
 
@@ -193,11 +193,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 Round the values
 
@@ -232,11 +232,11 @@ Use or change decimal values
 
 NOTE: Examples - If you have a number like 256
 
-Â· select 1 decimal place, the number will become 25.6
+· select 1 decimal place, the number will become 25.6
 
-Â· select 2 decimal places and the number will become 2.56
+· select 2 decimal places and the number will become 2.56
 
-Â· select 4 decimal places and the number will become 0.0256
+· select 4 decimal places and the number will become 0.0256
 
 Round the values
 
@@ -249,3 +249,10 @@ Round answers to
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 This option sets the maximum number of decimal places the answer values should be rounded to. Enter a number within the range established for the exercise set or use the up or down arrows (check the definition area at the bottom of the options pane when this option is selected).
 
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

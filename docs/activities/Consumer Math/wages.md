@@ -1,4 +1,4 @@
-﻿---
+---
 title: Wages
 category: reference
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -108,3 +108,11 @@ Set the range of values for deductions in the problems as a percent of gross pay
 3\. Decimals - Set the number of decimal places to be used for the deductions values.
 
 TIP: For a specific percent (e.g. 17.5%), set the high and low range to the same value and set Decimals to the appropriate place. Example: To set the deductions to 17.5%, set Range High to 175, Range Low to 175 and Decimals to 1. The program now knows that one decimal place should be set for the number 175, giving you 17.5%.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

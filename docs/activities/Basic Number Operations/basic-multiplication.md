@@ -1,4 +1,4 @@
-﻿---
+---
 title: Basic Multiplication
 category: activities
 ---
@@ -23,9 +23,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -81,11 +81,11 @@ The No Regrouping option can be used to generate multiplication questions that r
 
 2\. To generate questions that require no regrouping, select between these options:
 
-Â· 2 digits x 1 digit - example: 23 x 3
+· 2 digits x 1 digit - example: 23 x 3
 
-Â· 3 digits x 1 digit - example: 413 x 2
+· 3 digits x 1 digit - example: 413 x 2
 
-Â· 4 digits x 1 digit - example: 2102 x 4
+· 4 digits x 1 digit - example: 2102 x 4
 
 Multiplicand and Multiplier
 
@@ -104,3 +104,11 @@ Change the distribution of values
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

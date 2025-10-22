@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magic Squares
 category: reference
 ---
@@ -25,9 +25,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -86,3 +86,11 @@ Sets the cell size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 Change the magic number label text
 
 To change the magic number label text, select the Magic Number Label Text option in the options pane and enter the desired text directly into the input field.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

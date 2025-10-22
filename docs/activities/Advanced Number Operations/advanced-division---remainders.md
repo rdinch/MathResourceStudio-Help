@@ -1,4 +1,4 @@
-﻿---
+---
 title: Advanced Division - Remainders
 category: activities
 ---
@@ -7,9 +7,9 @@ category: activities
 
 The Advanced Division - Remainders exercise set provides an opportunity to create challenging division questions using:
 
-Â· multiple digits - up to 9,999,999,999,999
+· multiple digits - up to 9,999,999,999,999
 
-Â· negative numbers
+· negative numbers
 
 Advanced Division - Remainders is limited to questions with whole number remainders in the answers
 
@@ -27,9 +27,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -86,3 +86,11 @@ To set the distribution of values, select the desired distribution option (Norma
 Round the values
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Fractions and Decimals
 category: activities
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -71,9 +71,9 @@ Change the denominators
 
 Answers in lowest terms
 
-Â· To make sure answers are shown in their simplest form, check the box labeled "Answers in Lowest Terms" in the options panel.
+· To make sure answers are shown in their simplest form, check the box labeled "Answers in Lowest Terms" in the options panel.
 
-Â· If you want to allow answers that are equivalent but not simplified, uncheck the "Answers in Lowest Terms" box in the options panel.
+· If you want to allow answers that are equivalent but not simplified, uncheck the "Answers in Lowest Terms" box in the options panel.
 
 Control the answer decimals
 
@@ -97,6 +97,14 @@ To change the lowest number allowed:
 
 Notes:
 
-Â· To find the allowed range for any option, look at the definition area at the bottom of the options panel when the option is selected.
+· To find the allowed range for any option, look at the definition area at the bottom of the options panel when the option is selected.
 
-Â· Some activities let you use negative numbers. To do this, type a hyphen before the number (like -10, -999, or -1000).
+· Some activities let you use negative numbers. To do this, type a hyphen before the number (like -10, -999, or -1000).
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

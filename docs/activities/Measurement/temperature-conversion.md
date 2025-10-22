@@ -1,4 +1,4 @@
-﻿---
+---
 title: Temperature Conversion
 category: reference
 ---
@@ -21,9 +21,9 @@ Change the number of exercises in a row
 
 Notes:
 
-Â· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
+· If you are using the default auto settings, the number of questions per row will change automatically when you adjust the font size or the low/high number ranges.
 
-Â· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
+· For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
 Change the row spacing
 
@@ -74,3 +74,11 @@ NOTES: To locate the range for any particular option, check the definition area 
 Round answers to
 
 This option sets the maximum number of decimal places the answer values should be rounded to. Enter a number within the range established for the exercise set or use the up or down arrows (check the definition area at the bottom of the options pane when this option is selected).
+
+Optional Settings
+
+- [Exercise Set Display](../../options/exercise-set-display-options.md)
+- [Title](../../options/title-display-options.md)
+- [Instructions](../../options/instructions-display-options.md)
+- [Numbering](../../options/numbering-display-options.md)
+- [Answer Bank](../../options/answer-bank-display-options.md)

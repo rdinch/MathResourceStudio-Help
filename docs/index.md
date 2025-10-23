@@ -6,19 +6,19 @@ Last updated: October 20, 2025
 
 ## Quick Navigation
 
-### ?? [Getting Started](getting-started/create-a-new-document.md)
+### [Getting Started](getting-started/create-a-new-document.md)
 
 Learn the basics of creating and managing math documents.
 
-### ?? [Activities](exercise-sets/Basic Number Operations/basic-addition.md)
+### [Activities](exercise-sets/Advanced Number Operations/advanced-addition.md)
 
 Explore all **76 different math exercise types** - from basic arithmetic to advanced algebra.
 
-### ??? [Tutorials](tutorials/add-an-exercise-set.md)
+### [Tutorials](tutorials/add-an-exercise-set.md)
 
 Step-by-step guides for working with the software features.
 
-### ?? [Reference](reference/reference.md)
+### [Reference](reference/reference.md)
 
 Detailed reference information for all **130+ features and options**.
 
@@ -31,11 +31,11 @@ Detailed reference information for all **130+ features and options**.
 
 ## Key Features
 
-- ?? **76+ Activity Types** - Basic operations, fractions, algebra, geometry, and more
-- ?? **Customizable Worksheets** - Control layout, fonts, colors, and spacing
-- ? **Automatic Answer Keys** - Generate answer sheets with customizable colors
-- ?? **Design Elements** - Add headers, footers, borders, and background grids
-- ?? **Multiple Formats** - Print, PDF, or use as templates
+- **76+ Activity Types** - Basic operations, fractions, algebra, geometry, and more
+- **Customizable Worksheets** - Control layout, fonts, colors, and spacing
+- **Automatic Answer Keys** - Generate answer sheets with customizable colors
+- **Design Elements** - Add headers, footers, borders, and background grids
+- **Multiple Formats** - Print, PDF, or use as templates
 
 ## Need Help?
 

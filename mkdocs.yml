@@ -1,4 +1,4 @@
-﻿site_name: Math Resource Studio Help
+site_name: Math Resource Studio
 site_url: https://rdinch.github.io/MathResourceStudio-Help/
 site_description: Complete help documentation for Math Resource Studio 8
 
@@ -48,184 +48,185 @@ nav:
     - "Save And Open A Document": getting-started/save-and-open-a-document.md
     - "Save Your Options Settings": getting-started/save-your-options-settings.md
     - "What's New": getting-started/what's-new.md
-  - Activities:
+  - Exercise Sets:
     - ADVANCED NUMBER OPERATIONS:
-      - "Advanced Addition": activities/Advanced Number Operations/advanced-addition.md
-      - "Advanced Division": activities/Advanced Number Operations/advanced-division.md
-      - "Advanced Division: No Remainders": activities/Advanced Number Operations/advanced-division---no-remainders.md
-      - "Advanced Division: Remainders": activities/Advanced Number Operations/advanced-division---remainders.md
-      - "Advanced Division Selected Divisors": activities/Advanced Number Operations/advanced-division-selected-divisors.md
-      - "Advanced Multiplication": activities/Advanced Number Operations/advanced-multiplication.md
-      - "Advanced Multiplication: Selected Multipliers": activities/Advanced Number Operations/advanced-multiplication---selected-multipliers.md
-      - "Advanced Subtraction": activities/Advanced Number Operations/advanced-subtraction.md
-      - "Mixed Advanced Operations": activities/Advanced Number Operations/mixed-advanced-operations.md
-      - "Multiple Addends": activities/Advanced Number Operations/multiple-addends.md
-      - "Multiple Operations": activities/Advanced Number Operations/multiple-operations.md
-      - "Multiple Operations Missing Operations": activities/Advanced Number Operations/multiple-operations-missing-operations.md
-      - "Powers Of Ten": activities/Advanced Number Operations/powers-of-ten.md
+      - "Advanced Addition": exercise-sets/Advanced Number Operations/advanced-addition.md
+      - "Advanced Division": exercise-sets/Advanced Number Operations/advanced-division.md
+      - "Advanced Division: No Remainders": exercise-sets/Advanced Number Operations/advanced-division---no-remainders.md
+      - "Advanced Division: Remainders": exercise-sets/Advanced Number Operations/advanced-division---remainders.md
+      - "Advanced Division Selected Divisors": exercise-sets/Advanced Number Operations/advanced-division-selected-divisors.md
+      - "Advanced Multiplication": exercise-sets/Advanced Number Operations/advanced-multiplication.md
+      - "Advanced Multiplication: Selected Multipliers": exercise-sets/Advanced Number Operations/advanced-multiplication---selected-multipliers.md
+      - "Advanced Subtraction": exercise-sets/Advanced Number Operations/advanced-subtraction.md
+      - "Mixed Advanced Operations": exercise-sets/Advanced Number Operations/mixed-advanced-operations.md
+      - "Multiple Addends": exercise-sets/Advanced Number Operations/multiple-addends.md
+      - "Multiple Operations": exercise-sets/Advanced Number Operations/multiple-operations.md
+      - "Multiple Operations Missing Operations": exercise-sets/Advanced Number Operations/multiple-operations-missing-operations.md
+      - "Powers Of Ten": exercise-sets/Advanced Number Operations/powers-of-ten.md
     - ALGEBRA:
-      - "Equations: Defined Variable": activities/Algebra/equations---defined-variable.md
-      - "Equations: Single Variable (One Side)": activities/Algebra/equations---single-variable-(one-side).md
-      - "Inequalities": activities/Algebra/inequalities.md
-      - "Number Problems": activities/Algebra/number-problems.md
-      - "Pre Algebra Equations One Side": activities/Algebra/pre-algebra-equations-one-side.md
-      - "Pre Algebra Equations Two Sides": activities/Algebra/pre-algebra-equations-two-sides.md
-      - "Simplifying Expressions": activities/Algebra/simplifying-expressions.md
+      - "Equations: Defined Variable": exercise-sets/Algebra/equations---defined-variable.md
+      - "Equations: Single Variable (One Side)": exercise-sets/Algebra/equations---single-variable-(one-side).md
+      - "Inequalities": exercise-sets/Algebra/inequalities.md
+      - "Number Problems": exercise-sets/Algebra/number-problems.md
+      - "Pre Algebra Equations One Side": exercise-sets/Algebra/pre-algebra-equations-one-side.md
+      - "Pre Algebra Equations Two Sides": exercise-sets/Algebra/pre-algebra-equations-two-sides.md
+      - "Simplifying Expressions": exercise-sets/Algebra/simplifying-expressions.md
     - BASIC NUMBER OPERATIONS:
-      - "Basic Addition": activities/Basic Number Operations/basic-addition.md
-      - "Basic Addition And Regrouping": activities/Basic Number Operations/basic-addition-and-regrouping.md
-      - "Basic Addition: Doubles": activities/Basic Number Operations/basic-addition---doubles.md
-      - "Basic Addition Fixed Addend": activities/Basic Number Operations/basic-addition-fixed-addend.md
-      - "Basic Division": activities/Basic Number Operations/basic-division.md
-      - "Basic Multiplication": activities/Basic Number Operations/basic-multiplication.md
-      - "Basic Multiplication Fixed Factor": activities/Basic Number Operations/basic-multiplication-fixed-factor.md
-      - "Basic Subtraction": activities/Basic Number Operations/basic-subtraction.md
-      - "Basic Subtraction And Regrouping": activities/Basic Number Operations/basic-subtraction-and-regrouping.md
-      - "Fact Families": activities/Basic Number Operations/fact-families.md
-      - "Input Output": activities/Basic Number Operations/input-output.md
-      - "Make Sum": activities/Basic Number Operations/make-sum.md
-      - "Match Ups": activities/Basic Number Operations/match-ups.md
-      - "Mixed Basic Operations": activities/Basic Number Operations/mixed-basic-operations.md
-      - "Multiple Operations Addition Subtraction": activities/Basic Number Operations/multiple-operations-addition-subtraction.md
-      - "Pictorial Addition": activities/Basic Number Operations/pictorial-addition.md
-      - "Quick Facts": activities/Basic Number Operations/quick-facts.md
-      - "Word Problems: Addition": activities/Basic Number Operations/word-problems---addition.md
-      - "Word Problems: Division": activities/Basic Number Operations/word-problems---division.md
-      - "Word Problems: Multiplication": activities/Basic Number Operations/word-problems---multiplication.md
-      - "Word Problems: Subtraction": activities/Basic Number Operations/word-problems---subtraction.md
+      - "Basic Addition": exercise-sets/Basic Number Operations/basic-addition.md
+      - "Basic Addition And Regrouping": exercise-sets/Basic Number Operations/basic-addition-and-regrouping.md
+      - "Basic Addition: Doubles": exercise-sets/Basic Number Operations/basic-addition---doubles.md
+      - "Basic Addition Fixed Addend": exercise-sets/Basic Number Operations/basic-addition-fixed-addend.md
+      - "Basic Division": exercise-sets/Basic Number Operations/basic-division.md
+      - "Basic Multiplication": exercise-sets/Basic Number Operations/basic-multiplication.md
+      - "Basic Multiplication Fixed Factor": exercise-sets/Basic Number Operations/basic-multiplication-fixed-factor.md
+      - "Basic Subtraction": exercise-sets/Basic Number Operations/basic-subtraction.md
+      - "Basic Subtraction And Regrouping": exercise-sets/Basic Number Operations/basic-subtraction-and-regrouping.md
+      - "Fact Families": exercise-sets/Basic Number Operations/fact-families.md
+      - "Input Output": exercise-sets/Basic Number Operations/input-output.md
+      - "Make Sum": exercise-sets/Basic Number Operations/make-sum.md
+      - "Match Ups": exercise-sets/Basic Number Operations/match-ups.md
+      - "Mixed Basic Operations": exercise-sets/Basic Number Operations/mixed-basic-operations.md
+      - "Multiple Operations Addition Subtraction": exercise-sets/Basic Number Operations/multiple-operations-addition-subtraction.md
+      - "Pictorial Addition": exercise-sets/Basic Number Operations/pictorial-addition.md
+      - "Quick Facts": exercise-sets/Basic Number Operations/quick-facts.md
+      - "Word Problems: Addition": exercise-sets/Basic Number Operations/word-problems---addition.md
+      - "Word Problems: Division": exercise-sets/Basic Number Operations/word-problems---division.md
+      - "Word Problems: Multiplication": exercise-sets/Basic Number Operations/word-problems---multiplication.md
+      - "Word Problems: Subtraction": exercise-sets/Basic Number Operations/word-problems---subtraction.md
     - CONSUMER MATH:
-      - "Compound Interest": activities/Consumer Math/compound-interest.md
-      - "Counting Money": activities/Consumer Math/counting-money.md
-      - "Money In Words": activities/Consumer Math/money-in-words.md
-      - "Shopping Problems": activities/Consumer Math/shopping-problems.md
-      - "Shopping Problems Ii": activities/Consumer Math/shopping-problems-ii.md
-      - "Simple Interest": activities/Consumer Math/simple-interest.md
-      - "Wages": activities/Consumer Math/wages.md
+      - "Compound Interest": exercise-sets/Consumer Math/compound-interest.md
+      - "Counting Money": exercise-sets/Consumer Math/counting-money.md
+      - "Money In Words": exercise-sets/Consumer Math/money-in-words.md
+      - "Shopping Problems": exercise-sets/Consumer Math/shopping-problems.md
+      - "Shopping Problems Ii": exercise-sets/Consumer Math/shopping-problems-ii.md
+      - "Simple Interest": exercise-sets/Consumer Math/simple-interest.md
+      - "Wages": exercise-sets/Consumer Math/wages.md
     - COORDINATES:
-      - "Cartesian Coordinates: Four Quadrants": activities/Coordinates/cartesian-coordinates---four-quadrants.md
-      - "Cartesian Coordinates: Single Quadrant": activities/Coordinates/cartesian-coordinates---single-quadrant.md
-      - "Plot Lines": activities/Coordinates/plot-lines.md
+      - "Cartesian Coordinates: Four Quadrants": exercise-sets/Coordinates/cartesian-coordinates---four-quadrants.md
+      - "Cartesian Coordinates: Single Quadrant": exercise-sets/Coordinates/cartesian-coordinates---single-quadrant.md
+      - "Plot Lines": exercise-sets/Coordinates/plot-lines.md
     - CUSTOM:
-      - "Custom Questions": activities/Custom/custom-questions.md
-      - "Custom Word Problems": activities/Custom/custom-word-problems.md
+      - "Custom Questions": exercise-sets/Custom/custom-questions.md
+      - "Custom Word Problems": exercise-sets/Custom/custom-word-problems.md
     - FRACTIONS:
-      - "Comparing Fractions": activities/Fractions/comparing-fractions.md
-      - "Division With Whole Numbers": activities/Fractions/division-with-whole-numbers.md
-      - "Equivalent Fractions": activities/Fractions/equivalent-fractions.md
-      - "Fraction Identification: Grids": activities/Fractions/fraction-identification---grids.md
-      - "Fraction Identification: Rectangles": activities/Fractions/fraction-identification---rectangles.md
-      - "Fractions Addition": activities/Fractions/fractions-addition.md
-      - "Fractions And Decimals": activities/Fractions/fractions-and-decimals.md
-      - "Fractions Division": activities/Fractions/fractions-division.md
-      - "Fractions Multiple Operations": activities/Fractions/fractions-multiple-operations.md
-      - "Fractions Multiplication": activities/Fractions/fractions-multiplication.md
-      - "Fractions Subtraction": activities/Fractions/fractions-subtraction.md
-      - "Mixed Numbers And Improper Fractions": activities/Fractions/mixed-numbers-and-improper-fractions.md
-      - "Mixed Operations With Fractions": activities/Fractions/mixed-operations-with-fractions.md
-      - "Multiplication With Whole Numbers": activities/Fractions/multiplication-with-whole-numbers.md
-      - "Order Fractional Values": activities/Fractions/order-fractional-values.md
-      - "Simplifying Fractions": activities/Fractions/simplifying-fractions.md
-      - "Word Problems Fractions Addition": activities/Fractions/word-problems-fractions-addition.md
-      - "Word Problems Fractions Division": activities/Fractions/word-problems-fractions-division.md
-      - "Word Problems Fractions Multiplication": activities/Fractions/word-problems-fractions-multiplication.md
-      - "Word Problems Fractions Subtraction": activities/Fractions/word-problems-fractions-subtraction.md
+      - "Comparing Fractions": exercise-sets/Fractions/comparing-fractions.md
+      - "Division With Whole Numbers": exercise-sets/Fractions/division-with-whole-numbers.md
+      - "Equivalent Fractions": exercise-sets/Fractions/equivalent-fractions.md
+      - "Fraction Identification: Grids": exercise-sets/Fractions/fraction-identification---grids.md
+      - "Fraction Identification: Rectangles": exercise-sets/Fractions/fraction-identification---rectangles.md
+      - "Fractions Addition": exercise-sets/Fractions/fractions-addition.md
+      - "Fractions And Decimals": exercise-sets/Fractions/fractions-and-decimals.md
+      - "Fractions Division": exercise-sets/Fractions/fractions-division.md
+      - "Fractions Multiple Operations": exercise-sets/Fractions/fractions-multiple-operations.md
+      - "Fractions Multiplication": exercise-sets/Fractions/fractions-multiplication.md
+      - "Fractions Subtraction": exercise-sets/Fractions/fractions-subtraction.md
+      - "Mixed Numbers And Improper Fractions": exercise-sets/Fractions/mixed-numbers-and-improper-fractions.md
+      - "Mixed Operations With Fractions": exercise-sets/Fractions/mixed-operations-with-fractions.md
+      - "Multiplication With Whole Numbers": exercise-sets/Fractions/multiplication-with-whole-numbers.md
+      - "Order Fractional Values": exercise-sets/Fractions/order-fractional-values.md
+      - "Simplifying Fractions": exercise-sets/Fractions/simplifying-fractions.md
+      - "Word Problems Fractions Addition": exercise-sets/Fractions/word-problems-fractions-addition.md
+      - "Word Problems Fractions Division": exercise-sets/Fractions/word-problems-fractions-division.md
+      - "Word Problems Fractions Multiplication": exercise-sets/Fractions/word-problems-fractions-multiplication.md
+      - "Word Problems Fractions Subtraction": exercise-sets/Fractions/word-problems-fractions-subtraction.md
     - GEOMETRY:
-      - "Angles": activities/Geometry/angles.md
-      - "Area Shapes": activities/Geometry/area-shapes.md
-      - "Circles": activities/Geometry/circles.md
-      - "Measuring Lines": activities/Geometry/measuring-lines.md
-      - "Measuring Rectangles": activities/Geometry/measuring-rectangles.md
-      - "Perimeter And Area": activities/Geometry/perimeter-and-area.md
-      - "Polygons": activities/Geometry/polygons.md
-      - "Pythagorean Theorem": activities/Geometry/pythagorean-theorem.md
-      - "Volume": activities/Geometry/volume.md
-      - "Volume Cubes": activities/Geometry/volume-cubes.md
+      - "Angles": exercise-sets/Geometry/angles.md
+      - "Area Shapes": exercise-sets/Geometry/area-shapes.md
+      - "Circles": exercise-sets/Geometry/circles.md
+      - "Measuring Lines": exercise-sets/Geometry/measuring-lines.md
+      - "Measuring Rectangles": exercise-sets/Geometry/measuring-rectangles.md
+      - "Perimeter And Area": exercise-sets/Geometry/perimeter-and-area.md
+      - "Polygons": exercise-sets/Geometry/polygons.md
+      - "Pythagorean Theorem": exercise-sets/Geometry/pythagorean-theorem.md
+      - "Volume": exercise-sets/Geometry/volume.md
+      - "Volume Cubes": exercise-sets/Geometry/volume-cubes.md
     - GRAPH PAPER:
-      - "Bar Graphs": activities/Graph Paper/bar-graphs.md
-      - "Line Graphs": activities/Graph Paper/line-graphs.md
-      - "Xy Graphs": activities/Graph Paper/xy-graphs.md
+      - "Bar Graphs": exercise-sets/Graph Paper/bar-graphs.md
+      - "Line Graphs": exercise-sets/Graph Paper/line-graphs.md
+      - "Xy Graphs": exercise-sets/Graph Paper/xy-graphs.md
     - GRAPHING:
-      - "Make A Bar Graph": activities/Graphing/make-a-bar-graph.md
-      - "Make A Line Graph": activities/Graphing/make-a-line-graph.md
+      - "Make A Bar Graph": exercise-sets/Graphing/make-a-bar-graph.md
+      - "Make A Line Graph": exercise-sets/Graphing/make-a-line-graph.md
     - MEASUREMENT:
-      - "Metric Conversion": activities/Measurement/metric-conversion.md
-      - "Metric Weights And Measures": activities/Measurement/metric-weights-and-measures.md
-      - "Reading Thermometers": activities/Measurement/reading-thermometers.md
-      - "Temperature Conversion": activities/Measurement/temperature-conversion.md
-      - "Us Weights And Measures": activities/Measurement/us-weights-and-measures.md
+      - "Metric Conversion": exercise-sets/Measurement/metric-conversion.md
+      - "Metric Weights And Measures": exercise-sets/Measurement/metric-weights-and-measures.md
+      - "Reading Thermometers": exercise-sets/Measurement/reading-thermometers.md
+      - "Temperature Conversion": exercise-sets/Measurement/temperature-conversion.md
+      - "Us Weights And Measures": exercise-sets/Measurement/us-weights-and-measures.md
     - NUMBER CONCEPTS:
-      - "Exponents": activities/Number Concepts/exponents.md
-      - "Mean Median Mode Range": activities/Number Concepts/mean-median-mode-range.md
-      - "Roman Arabic Comparison": activities/Number Concepts/roman-arabic-comparison.md
-      - "Roman Numerals": activities/Number Concepts/roman-numerals.md
-      - "Roots": activities/Number Concepts/roots.md
-      - "Scientific Notation": activities/Number Concepts/scientific-notation.md
+      - "Exponents": exercise-sets/Number Concepts/exponents.md
+      - "Mean Median Mode Range": exercise-sets/Number Concepts/mean-median-mode-range.md
+      - "Roman Arabic Comparison": exercise-sets/Number Concepts/roman-arabic-comparison.md
+      - "Roman Numerals": exercise-sets/Number Concepts/roman-numerals.md
+      - "Roots": exercise-sets/Number Concepts/roots.md
+      - "Scientific Notation": exercise-sets/Number Concepts/scientific-notation.md
     - NUMBER LINES:
-      - "Number Lines: Decimals": activities/Number Lines/number-lines---decimals.md
-      - "Number Lines: Fractions": activities/Number Lines/number-lines---fractions.md
-      - "Number Lines: Integers": activities/Number Lines/number-lines---integers.md
+      - "Number Lines: Decimals": exercise-sets/Number Lines/number-lines---decimals.md
+      - "Number Lines: Fractions": exercise-sets/Number Lines/number-lines---fractions.md
+      - "Number Lines: Integers": exercise-sets/Number Lines/number-lines---integers.md
     - NUMERATION:
-      - "Associative Property": activities/Numeration/associative-property.md
-      - "Before After Between": activities/Numeration/before-after-between.md
-      - "Circle The Numbers": activities/Numeration/circle-the-numbers.md
-      - "Commutative Property": activities/Numeration/commutative-property.md
-      - "Comparing Numbers": activities/Numeration/comparing-numbers.md
-      - "Count How Many": activities/Numeration/count-how-many.md
-      - "Counting Patterns": activities/Numeration/counting-patterns.md
-      - "Count Up And Down": activities/Numeration/count-up-and-down.md
-      - "Distributive Property": activities/Numeration/distributive-property.md
-      - "Expanded Notation": activities/Numeration/expanded-notation.md
-      - "Factors": activities/Numeration/factors.md
-      - "Greatest Common Factor": activities/Numeration/greatest-common-factor.md
-      - "Lowest Common Multiple": activities/Numeration/lowest-common-multiple.md
-      - "Multiples": activities/Numeration/multiples.md
-      - "Ordering Numbers": activities/Numeration/ordering-numbers.md
-      - "Place Value": activities/Numeration/place-value.md
-      - "Prime Numbers": activities/Numeration/prime-numbers.md
-      - "Rounding Numbers": activities/Numeration/rounding-numbers.md
+      - "Associative Property": exercise-sets/Numeration/associative-property.md
+      - "Before After Between": exercise-sets/Numeration/before-after-between.md
+      - "Circle The Numbers": exercise-sets/Numeration/circle-the-numbers.md
+      - "Commutative Property": exercise-sets/Numeration/commutative-property.md
+      - "Comparing Numbers": exercise-sets/Numeration/comparing-numbers.md
+      - "Count How Many": exercise-sets/Numeration/count-how-many.md
+      - "Counting Patterns": exercise-sets/Numeration/counting-patterns.md
+      - "Count Up And Down": exercise-sets/Numeration/count-up-and-down.md
+      - "Distributive Property": exercise-sets/Numeration/distributive-property.md
+      - "Expanded Notation": exercise-sets/Numeration/expanded-notation.md
+      - "Factors": exercise-sets/Numeration/factors.md
+      - "Greatest Common Factor": exercise-sets/Numeration/greatest-common-factor.md
+      - "Lowest Common Multiple": exercise-sets/Numeration/lowest-common-multiple.md
+      - "Multiples": exercise-sets/Numeration/multiples.md
+      - "Ordering Numbers": exercise-sets/Numeration/ordering-numbers.md
+      - "Place Value": exercise-sets/Numeration/place-value.md
+      - "Prime Numbers": exercise-sets/Numeration/prime-numbers.md
+      - "Rounding Numbers": exercise-sets/Numeration/rounding-numbers.md
     - PROBABILITY:
-      - "Probability Spinner": activities/Probability/probability-spinner.md
+      - "Probability Spinner": exercise-sets/Probability/probability-spinner.md
     - PUZZLES:
-      - "Across Downs": activities/Puzzles/across-downs.md
-      - "Addition Box": activities/Puzzles/addition-box.md
-      - "Diamond Math": activities/Puzzles/diamond-math.md
-      - "Magic Squares": activities/Puzzles/magic-squares.md
-      - "Magic Stars": activities/Puzzles/magic-stars.md
-      - "Multiplication Box": activities/Puzzles/multiplication-box.md
-      - "Number Patterns": activities/Puzzles/number-patterns.md
-      - "Secret Trails": activities/Puzzles/secret-trails.md
-      - "Sudoku": activities/Puzzles/sudoku.md
+      - "Across Downs": exercise-sets/Puzzles/across-downs.md
+      - "Addition Box": exercise-sets/Puzzles/addition-box.md
+      - "Diamond Math": exercise-sets/Puzzles/diamond-math.md
+      - "Magic Squares": exercise-sets/Puzzles/magic-squares.md
+      - "Magic Stars": exercise-sets/Puzzles/magic-stars.md
+      - "Multiplication Box": exercise-sets/Puzzles/multiplication-box.md
+      - "Number Patterns": exercise-sets/Puzzles/number-patterns.md
+      - "Secret Trails": exercise-sets/Puzzles/secret-trails.md
+      - "Sudoku": exercise-sets/Puzzles/sudoku.md
     - RATIO AND PERCENT:
-      - "Percent And Decimals": activities/Ratio and Percent/percent-and-decimals.md
-      - "Percent Of Numbers: Advanced": activities/Ratio and Percent/percent-of-numbers---advanced.md
-      - "Percent Of Numbers: Basic": activities/Ratio and Percent/percent-of-numbers---basic.md
-      - "Ratio Conversions": activities/Ratio and Percent/ratio-conversions.md
-      - "Word Problems Percent": activities/Ratio and Percent/word-problems-percent.md
+      - "Percent And Decimals": exercise-sets/Ratio and Percent/percent-and-decimals.md
+      - "Percent Of Numbers: Advanced": exercise-sets/Ratio and Percent/percent-of-numbers---advanced.md
+      - "Percent Of Numbers: Basic": exercise-sets/Ratio and Percent/percent-of-numbers---basic.md
+      - "Ratio Conversions": exercise-sets/Ratio and Percent/ratio-conversions.md
+      - "Word Problems Percent": exercise-sets/Ratio and Percent/word-problems-percent.md
     - TABLES AND DRILLS:
-      - "Circle Drill Addition": activities/Tables and Drills/circle-drill-addition.md
-      - "Circle Drill Division": activities/Tables and Drills/circle-drill-division.md
-      - "Circle Drill Multiplication": activities/Tables and Drills/circle-drill-multiplication.md
-      - "Circle Drill Subtraction": activities/Tables and Drills/circle-drill-subtraction.md
-      - "Counting Table": activities/Tables and Drills/counting-table.md
-      - "Table Drill Addition": activities/Tables and Drills/table-drill-addition.md
-      - "Table Drill Division": activities/Tables and Drills/table-drill-division.md
-      - "Table Drill Multiplication": activities/Tables and Drills/table-drill-multiplication.md
-      - "Table Drill Subtraction": activities/Tables and Drills/table-drill-subtraction.md
+      - "Circle Drill Addition": exercise-sets/Tables and Drills/circle-drill-addition.md
+      - "Circle Drill Division": exercise-sets/Tables and Drills/circle-drill-division.md
+      - "Circle Drill Multiplication": exercise-sets/Tables and Drills/circle-drill-multiplication.md
+      - "Circle Drill Subtraction": exercise-sets/Tables and Drills/circle-drill-subtraction.md
+      - "Counting Table": exercise-sets/Tables and Drills/counting-table.md
+      - "Table Drill Addition": exercise-sets/Tables and Drills/table-drill-addition.md
+      - "Table Drill Division": exercise-sets/Tables and Drills/table-drill-division.md
+      - "Table Drill Multiplication": exercise-sets/Tables and Drills/table-drill-multiplication.md
+      - "Table Drill Subtraction": exercise-sets/Tables and Drills/table-drill-subtraction.md
     - TIME:
-      - "Telling Time": activities/Time/telling-time.md
-      - "Time Conversions": activities/Time/time-conversions.md
-      - "Time Passages": activities/Time/time-passages.md
+      - "Telling Time": exercise-sets/Time/telling-time.md
+      - "Time Conversions": exercise-sets/Time/time-conversions.md
+      - "Time Passages": exercise-sets/Time/time-passages.md
+  - Design Elements:
+    - "Add a Background Picture": design-elements/add-a-background-picture.md
+    - "Add a Fraction Line": design-elements/add-a-fraction-line.md
+    - "Add a Line": design-elements/add-a-line.md
+    - "Add a Number Line": design-elements/add-a-number-line.md
+    - "Add a Picture": design-elements/add-a-picture.md
+    - "Add a Title": design-elements/add-a-title.md
+    - "Add a Title Group": design-elements/add-a-title-group.md
+    - "Add n Epigraph": design-elements/add-an-epigraph.md
+    - "Add Text": design-elements/add-text.md
+    - "Add Vertical Spacing": design-elements/add-vertical-spacing.md
   - Reference:
-    - "Add A Background Picture": reference/add-a-background-picture.md
-    - "Add A Fraction Line": reference/add-a-fraction-line.md
-    - "Add A Line": reference/add-a-line.md
-    - "Add An Epigraph": reference/add-an-epigraph.md
-    - "Add A Number Line": reference/add-a-number-line.md
-    - "Add A Picture": reference/add-a-picture.md
-    - "Add A Title": reference/add-a-title.md
-    - "Add A Title Group": reference/add-a-title-group.md
-    - "Add Text": reference/add-text.md
-    - "Add Vertical Spacing": reference/add-vertical-spacing.md
     - "Advanced Number Operations": reference/advanced-number-operations.md
     - "Answers   Show Key, Answer Banks, Key Color And Answer Lines": reference/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
     - "Basic Number Operations": reference/basic-number-operations.md

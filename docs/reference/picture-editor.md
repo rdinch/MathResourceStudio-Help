@@ -69,12 +69,12 @@ Options
 
 Select Options in the Picture editor to set image size and image quality.
 
-Â- Image Size - Use this option to set the default size for importing pictures. Images will be reduced to this maximum size when imported to the Picture editor. Default size is 800. Maximum size is 2000.
+- Image Size - Use this option to set the default size for importing pictures. Images will be reduced to this maximum size when imported to the Picture editor. Default size is 800. Maximum size is 2000.
 
-Â- Image Quality - The default is 220 ppi (pixels per inch); the maximum setting is High Fidelity. Using a resolution other than high fidelity may lose pixels. High fidelity resolution preserves picture quality BUT may increase the file of your documents. The default resolution of 220 ppi is a good balance between good print quality and file size.
+- Image Quality - The default is 220 ppi (pixels per inch); the maximum setting is High Fidelity. Using a resolution other than high fidelity may lose pixels. High fidelity resolution preserves picture quality BUT may increase the file of your documents. The default resolution of 220 ppi is a good balance between good print quality and file size.
 
 NOTE: Once a maximum resolution has been applied to a picture the resolution cannot subsequently be increased.
 
 IMPORTANT NOTE: If you have created and saved math documents with a number of pictures that are of a large size, you can check the option "Apply selected resolution to pictures in saved math documents when opened." Once this option is applied and the math document saved with the new image quality settings, there is no way to undo this option. We recommend working with a copy of math document to see the result of the updated image quality changes.
 
-Â- Background - Adjust the checkerboard background in the picture preview area. Select from five options including a Light Grey or Dark Grey.
+- Background - Adjust the checkerboard background in the picture preview area. Select from five options including a Light Grey or Dark Grey.

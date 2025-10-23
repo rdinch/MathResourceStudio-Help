@@ -11,13 +11,13 @@ Navigation
 
 To move from page to page of a multi-page document, you can use either the navigation arrows or the Go To Page feature. Click a navigation arrow to move to the first page, next page, previous page, or last page, or use the following keyboard shortcuts:
 
-Â- Alt + Home - moves to the first page
+- Alt + Home - moves to the first page
 
-Â- Alt + End - moves to the last page
+- Alt + End - moves to the last page
 
-Â- Alt + Left Arrow - moves to the previous page
+- Alt + Left Arrow - moves to the previous page
 
-Â- Alt + Right Arrow - moves to the next page
+- Alt + Right Arrow - moves to the next page
 
 If you know the page you want to view, enter the page number in the Go To Page box and click the arrow by the box or press Enter on the keyboard.
 

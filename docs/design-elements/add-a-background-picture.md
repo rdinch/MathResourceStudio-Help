@@ -31,8 +31,8 @@ Stretch background
 
 Select from three different sizing settings:
 
-Â- margins - the image stretches out to the margin settings, which can appear beyond the printed area of the page in some cases
+- margins - the image stretches out to the margin settings, which can appear beyond the printed area of the page in some cases
 
-Â- printable area - the image appears behind just the printed area of the page
+- printable area - the image appears behind just the printed area of the page
 
-Â- page edges - the image is stretched out to the page edges, but is only possible for prints that have this feature, and in most cases, borderless printing must be set for the printer properties
+- page edges - the image is stretched out to the page edges, but is only possible for prints that have this feature, and in most cases, borderless printing must be set for the printer properties

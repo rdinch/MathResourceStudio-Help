@@ -38,16 +38,38 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Getting Started:
-    - "Change Page Setup   Margins, Orientation, Paper Size": getting-started/change-page-setup---margins,-orientation,-paper-size.md
-    - "Close A Document": getting-started/close-a-document.md
-    - "Create A New Document": getting-started/create-a-new-document.md
-    - "Creating Math Documents": getting-started/creating-math-documents.md
-    - "Print A Document": getting-started/print-a-document.md
-    - "Save, Open And Edit A Template": getting-started/save,-open-and-edit-a-template.md
-    - "Save And Open A Document": getting-started/save-and-open-a-document.md
-    - "Save Your Options Settings": getting-started/save-your-options-settings.md
-    - "What's New": getting-started/what's-new.md
+  - What's New: what's-new.md
+  - Creating Math Documents:
+    - "Add A Design Element": creating-math-documents/add-a-design-element.md
+    - "Add A Footer": creating-math-documents/add-a-footer.md
+    - "Add A Header": creating-math-documents/add-a-header.md
+    - "Add An Exercise Set": creating-math-documents/add-an-exercise-set.md
+    - "Answer Sheets": creating-math-documents/answer-sheets.md
+    - "Answers   Show Key, Answer Banks, Key Color And Answer Lines": creating-math-documents/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
+    - "Change Page Setup   Margins, Orientation, Paper Size": creating-math-documents/change-page-setup---margins,-orientation,-paper-size.md
+    - "Change The Document Numbering": creating-math-documents/change-the-document-numbering.md
+    - "Check Your Spelling": creating-math-documents/check-your-spelling.md
+    - "Close A Document": creating-math-documents/close-a-document.md
+    - "Create A New Document": creating-math-documents/create-a-new-document.md
+    - "Customize The Questions   Generate Or Manual Edit": creating-math-documents/customize-the-questions---generate-or-manual-edit.md
+    - "Just The Answers   Answer Block": creating-math-documents/just-the-answers---answer-block.md
+    - "Navigation Bar Plus Serial Number": creating-math-documents/navigation-bar-plus-serial-number.md
+    - "Print A Document": creating-math-documents/print-a-document.md
+    - "Save, Open And Edit A Template": creating-math-documents/save,-open-and-edit-a-template.md
+    - "Save And Open A Document": creating-math-documents/save-and-open-a-document.md
+    - "Save Your Options Settings": creating-math-documents/save-your-options-settings.md
+    - "Set Defaults For Font, Numbering And Answer Lines": creating-math-documents/set-defaults-for-font,-numbering-and-answer-lines.md
+    - "Show Hide   Global Settings": creating-math-documents/show-hide---global-settings.md
+    - "Working With The Answer Sheet": creating-math-documents/working-with-the-answer-sheet.md
+    - Design Groups:
+      - "Add A Design Group": creating-math-documents/design-groups/add-a-design-group.md
+      - "Create A Design Group": creating-math-documents/design-groups/create-a-design-group.md
+      - "Delete A Design Group": creating-math-documents/design-groups/delete-a-design-group.md
+    - Document Sections:
+      - "Add A Section To The Document": creating-math-documents/document_sections/add-a-section-to-the-document.md
+      - "Add A Section With One Column": creating-math-documents/document_sections/add-a-section-with-one-column.md
+      - "Add A Section With Two Auto Flow Columns": creating-math-documents/document_sections/add-a-section-with-two-auto-flow-columns.md
+      - "Add A Section With Two Manual Columns": creating-math-documents/document_sections/add-a-section-with-two-manual-columns.md
   - Exercise Sets:
     - ADVANCED NUMBER OPERATIONS:
       - "Advanced Addition": exercise-sets/Advanced Number Operations/advanced-addition.md
@@ -227,17 +249,9 @@ nav:
     - "Add Text": design-elements/add-text.md
     - "Add Vertical Spacing": design-elements/add-vertical-spacing.md
   - Reference:
-    - "Advanced Number Operations": reference/advanced-number-operations.md
-    - "Answers   Show Key, Answer Banks, Key Color And Answer Lines": reference/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
-    - "Basic Number Operations": reference/basic-number-operations.md
     - "Basic Number Operations Word Problem Templates": reference/basic-number-operations-word-problem-templates.md
-    - "Change The Document Numbering": reference/change-the-document-numbering.md
     - "Change The Program Options": reference/change-the-program-options.md
-    - "Check Your Spelling": reference/check-your-spelling.md
-    - "Consumer Math": reference/consumer-math.md
-    - "Coordinates": reference/coordinates.md
     - "Currency Collection": reference/currency-collection.md
-    - "Custom": reference/custom.md
     - "Custom Questions Editor": reference/custom-questions-editor.md
     - "Custom Word Problem Templates": reference/custom-word-problem-templates.md
     - "Delete, Cut, Copy, Paste Or Move Sections And Elements": reference/delete,-cut,-copy,-paste-or-move-sections-and-elements.md
@@ -247,41 +261,13 @@ nav:
     - "Edit Word Problem Names": reference/edit-word-problem-names.md
     - "Edit Word Problem Objects": reference/edit-word-problem-objects.md
     - "Epigraphs Editor": reference/epigraphs-editor.md
-    - "Exercise Sets": reference/exercise-sets.md
     - "Global Colors   Set The Font Colors": reference/global-colors---set-the-font-colors.md
     - "Global Fonts   Set The Font": reference/global-fonts---set-the-font.md
-    - "Graphing": reference/graphing.md
     - "Graph Lines In Slope Intercept Form": reference/graph-lines-in-slope-intercept-form.md
-    - "Graph Paper": reference/graph-paper.md
     - "Image Collection": reference/image-collection.md
-    - "Just The Answers   Answer Block": reference/just-the-answers---answer-block.md
-    - "Navigation Bar Plus Serial Number": reference/navigation-bar-plus-serial-number.md
-    - "Number Concepts": reference/number-concepts.md
-    - "Numeration": reference/numeration.md
     - "Picture Editor": reference/picture-editor.md
     - "Place Value Names Editor": reference/place-value-names-editor.md
-    - "Probability": reference/probability.md
-    - "Puzzles": reference/puzzles.md
-    - "Reference": reference/reference.md
-    - "Set Defaults For Font, Numbering And Answer Lines": reference/set-defaults-for-font,-numbering-and-answer-lines.md
-    - "Tables And Drills": reference/tables-and-drills.md
     - "Thesaurus": reference/thesaurus.md
-  - Tutorials:
-    - "Add A Design Element": tutorials/add-a-design-element.md
-    - "Add A Design Group": tutorials/add-a-design-group.md
-    - "Add A Footer": tutorials/add-a-footer.md
-    - "Add A Header": tutorials/add-a-header.md
-    - "Add An Exercise Set": tutorials/add-an-exercise-set.md
-    - "Add A Section To The Document": tutorials/add-a-section-to-the-document.md
-    - "Add A Section With One Column": tutorials/add-a-section-with-one-column.md
-    - "Add A Section With Two Auto Flow Columns": tutorials/add-a-section-with-two-auto-flow-columns.md
-    - "Add A Section With Two Manual Columns": tutorials/add-a-section-with-two-manual-columns.md
-    - "Create A Design Group": tutorials/create-a-design-group.md
-    - "Customize The Questions   Generate Or Manual Edit": tutorials/customize-the-questions---generate-or-manual-edit.md
-    - "Delete A Design Group": tutorials/delete-a-design-group.md
-    - "Design Elements": tutorials/design-elements.md
-    - "Show Hide   Global Settings": tutorials/show-hide---global-settings.md
-    - "Working With The Answer Sheet": tutorials/working-with-the-answer-sheet.md
   - Options:
     - "Answer Bank Display Options": options/answer-bank-display-options.md
     - "Exercise Set Display Options": options/exercise-set-display-options.md

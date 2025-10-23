@@ -29,5 +29,5 @@ Customize the selected activity or worksheet element:
 
 ## Next Steps
 
-- [Learn about worksheet properties](worksheets/properties.md)
+- [Learn about answer sheets](creating-math-documents/answer-sheets.md)
 - [Explore basic addition activities](exercise-sets/Basic Number Operations/basic-addition.md)

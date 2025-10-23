@@ -6,7 +6,7 @@ Last updated: October 20, 2025
 
 ## Quick Navigation
 
-### [Getting Started](getting-started/create-a-new-document.md)
+### [Getting Started](creating-math-documents/create-a-new-document.md)
 
 Learn the basics of creating and managing math documents.
 
@@ -14,11 +14,11 @@ Learn the basics of creating and managing math documents.
 
 Explore all **76 different math exercise types** - from basic arithmetic to advanced algebra.
 
-### [Tutorials](tutorials/add-an-exercise-set.md)
+### [Tutorials](creating-math-documents/add-an-exercise-set.md)
 
 Step-by-step guides for working with the software features.
 
-### [Reference](reference/reference.md)
+### [Reference](reference/change-the-program-options.md)
 
 Detailed reference information for all **130+ features and options**.
 
@@ -40,6 +40,6 @@ Detailed reference information for all **130+ features and options**.
 ## Need Help?
 
 - Browse activities by category in the navigation menu
-- Check our [tutorials](tutorials/add-an-exercise-set.md) for step-by-step guides
+- Check our [tutorials](creating-math-documents/add-an-exercise-set.md) for step-by-step guides
 - Use the search function to find specific topics
 - Press `F1` in the software for context-sensitive help

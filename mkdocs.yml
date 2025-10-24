@@ -4,6 +4,7 @@ site_description: Complete help documentation for Math Resource Studio 8
 
 theme:
   name: material
+  logo: assets/schoolhouse-logo.svg
   features:
     - navigation.tabs
     - navigation.sections
@@ -29,7 +30,7 @@ theme:
         name: Switch to light mode
 
 extra_css:
-  - stylesheets/extra.css?v=2
+  - stylesheets/extra.css?v=3
 
 plugins:
   - search

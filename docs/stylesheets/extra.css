@@ -13,3 +13,19 @@
 .md-header__title:hover {
   color: #8A2828;
 }
+
+/* Custom logo sizing - 4cm x 1.96cm (approximately 151px x 74px) */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  width: 151px;
+  height: 74px;
+  max-width: none;
+  max-height: none;
+}
+
+/* Ensure logo container accommodates the custom size */
+.md-header__button.md-logo {
+  width: auto;
+  height: auto;
+  padding: 0.2rem;
+}

@@ -2,44 +2,38 @@
 
 This is a comprehensive help guide for Math Resource Studio 8, a powerful tool for creating customizable math worksheets and exercises.
 
-Last updated: October 20, 2025
+With Math Resource Studio you can create targeted math practice materials to provide students with the precise skills development and math practice they need as part of a differentiated numeracy program. Individual or class sets of professional worksheets, workbooks, or tests can be created quickly and effortlessly saving valuable preparation time and resources.
+
+There are three editions of the Math program available, making it possible to pay for only those exercise sets, options and tools you really need:
+
+- Math Resource Studio 8: Basic Facts (Free)
+
+- Math Resource Studio 8: Basic
+
+- Math Resource Studio 8: Professional (Professional edition provided for both Site and Enterprise licenses.)
+
+What's New in Version 8
+
+## New Exercise Sets
+
+## New Features
+
+- Answer Sheet View - When creating a math worksheet, an optional answer sheet is automatically created for the exercise set(s) that are added to the worksheet. The answer sheet provides an alternate way for the students to record their answers rather than on the actual math worksheet. The answer sheet has its own key and format options separate from the math worksheet.
+
+- Marks
+
+- Multiple Choice Format
 
 ## Quick Navigation
 
 ### [Getting Started](creating-math-documents/create-a-new-document.md)
 
-Learn the basics of creating and managing math documents.
+Learn the basics of creating and managing math worksheet documents.
 
-### [Activities](exercise-sets/Advanced Number Operations/advanced-addition.md)
+### [Exercise Sets](exercise-sets/Advanced Number Operations/advanced-addition.md)
 
-Explore all **76 different math exercise types** - from basic arithmetic to advanced algebra.
+Explore all **147 different math exercise types** - from basic arithmetic to math puzzles.
 
-### [Tutorials](creating-math-documents/add-an-exercise-set.md)
+### [Tutorials](tutorials/change-the-program-options.md)
 
-Step-by-step guides for working with the software features.
-
-### [Reference](reference/change-the-program-options.md)
-
-Detailed reference information for all **130+ features and options**.
-
-## Popular Activities
-
-- **Basic Operations**: [Addition](exercise-sets/Basic Number Operations/basic-addition.md) | [Subtraction](exercise-sets/Basic Number Operations/basic-subtraction.md) | [Multiplication](exercise-sets/Basic Number Operations/basic-multiplication.md) | [Division](exercise-sets/Basic Number Operations/basic-division.md)
-- **Fractions**: [Fraction Addition](exercise-sets/Fractions/fractions-addition.md) | [Equivalent Fractions](exercise-sets/Fractions/equivalent-fractions.md)
-- **Word Problems**: [Addition Word Problems](exercise-sets/Basic Number Operations/word-problems---addition.md) | [Subtraction Word Problems](exercise-sets/Basic Number Operations/word-problems---subtraction.md)
-- **Time & Money**: [Telling Time](exercise-sets/Time/telling-time.md) | [Counting Money](exercise-sets/Consumer Math/counting-money.md)
-
-## Key Features
-
-- **76+ Activity Types** - Basic operations, fractions, algebra, geometry, and more
-- **Customizable Worksheets** - Control layout, fonts, colors, and spacing
-- **Automatic Answer Keys** - Generate answer sheets with customizable colors
-- **Design Elements** - Add headers, footers, borders, and background grids
-- **Multiple Formats** - Print, PDF, or use as templates
-
-## Need Help?
-
-- Browse activities by category in the navigation menu
-- Check our [tutorials](creating-math-documents/add-an-exercise-set.md) for step-by-step guides
-- Use the search function to find specific topics
-- Press `F1` in the software for context-sensitive help
+Step-by-step guides for working with the software features and dialogs.

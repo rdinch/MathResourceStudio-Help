@@ -44,8 +44,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - What's New: what's-new.md
-  - Creating Math Documents:
+  - Getting Started:
     - "Add A Design Element": creating-math-documents/add-a-design-element.md
     - "Add A Footer": creating-math-documents/add-a-footer.md
     - "Add A Header": creating-math-documents/add-a-header.md
@@ -254,29 +253,30 @@ nav:
     - "Add n Epigraph": design-elements/add-an-epigraph.md
     - "Add Text": design-elements/add-text.md
     - "Add Vertical Spacing": design-elements/add-vertical-spacing.md
-  - Reference:
-    - "Basic Number Operations Word Problem Templates": reference/basic-number-operations-word-problem-templates.md
-    - "Change The Program Options": reference/change-the-program-options.md
-    - "Currency Collection": reference/currency-collection.md
-    - "Custom Questions Editor": reference/custom-questions-editor.md
-    - "Custom Word Problem Templates": reference/custom-word-problem-templates.md
-    - "Delete, Cut, Copy, Paste Or Move Sections And Elements": reference/delete,-cut,-copy,-paste-or-move-sections-and-elements.md
-    - "Edit Equation Patterns": reference/edit-equation-patterns.md
-    - "Edit Problem Templates With Solve For Option": reference/edit-problem-templates-with-solve-for-option.md
-    - "Edit Shopping Items": reference/edit-shopping-items.md
-    - "Edit Word Problem Names": reference/edit-word-problem-names.md
-    - "Edit Word Problem Objects": reference/edit-word-problem-objects.md
-    - "Epigraphs Editor": reference/epigraphs-editor.md
-    - "Global Colors   Set The Font Colors": reference/global-colors---set-the-font-colors.md
-    - "Global Fonts   Set The Font": reference/global-fonts---set-the-font.md
-    - "Graph Lines In Slope Intercept Form": reference/graph-lines-in-slope-intercept-form.md
-    - "Image Collection": reference/image-collection.md
-    - "Picture Editor": reference/picture-editor.md
-    - "Place Value Names Editor": reference/place-value-names-editor.md
-    - "Thesaurus": reference/thesaurus.md
+  - Tutorials:
+    - "Basic Number Operations Word Problem Templates": tutorials/basic-number-operations-word-problem-templates.md
+    - "Change The Program Options": tutorials/change-the-program-options.md
+    - "Currency Collection": tutorials/currency-collection.md
+    - "Custom Questions Editor": tutorials/custom-questions-editor.md
+    - "Custom Word Problem Templates": tutorials/custom-word-problem-templates.md
+    - "Delete, Cut, Copy, Paste Or Move Sections And Elements": tutorials/delete,-cut,-copy,-paste-or-move-sections-and-elements.md
+    - "Edit Equation Patterns": tutorials/edit-equation-patterns.md
+    - "Edit Problem Templates With Solve For Option": tutorials/edit-problem-templates-with-solve-for-option.md
+    - "Edit Shopping Items": tutorials/edit-shopping-items.md
+    - "Edit Word Problem Names": tutorials/edit-word-problem-names.md
+    - "Edit Word Problem Objects": tutorials/edit-word-problem-objects.md
+    - "Epigraphs Editor": tutorials/epigraphs-editor.md
+    - "Global Colors   Set The Font Colors": tutorials/global-colors---set-the-font-colors.md
+    - "Global Fonts   Set The Font": tutorials/global-fonts---set-the-font.md
+    - "Graph Lines In Slope Intercept Form": tutorials/graph-lines-in-slope-intercept-form.md
+    - "Image Collection": tutorials/image-collection.md
+    - "Picture Editor": tutorials/picture-editor.md
+    - "Place Value Names Editor": tutorials/place-value-names-editor.md
+    - "Thesaurus": tutorials/thesaurus.md
   - Options:
-    - "Answer Bank Display Options": options/answer-bank-display-options.md
     - "Exercise Set Display Options": options/exercise-set-display-options.md
-    - "Instructions Display Options": options/instructions-display-options.md
-    - "Numbering Display Options": options/numbering-display-options.md
     - "Title Display Options": options/title-display-options.md
+    - "Instructions Display Options": options/instructions-display-options.md 
+    - "Numbering Display Options": options/numbering-display-options.md       
+    - "Answer Bank Display Options": options/answer-bank-display-options.md    
+    

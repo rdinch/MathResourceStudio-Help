@@ -3,7 +3,39 @@ title: Create a new document
 category: getting-started
 ---
 
-# Create a new document
+## Creating Your First Worksheet: the Basics
+
+1. Click **File > New** or press `Ctrl+N`
+2. In the **Activities** panel (left side), select an activity type
+3. Double-click an activity to add it to your worksheet
+4. Configure options in the **Options** panel (right side)
+5. Click **Generate** to create problems
+
+## Understanding the Interface
+
+### Activities Panel (Left)
+
+Browse and select math activities organized by category:
+
+- Number Operations (addition, subtraction, etc.)
+- Fractions & Decimals
+- Geometry
+- And more...
+
+### Document Area (Center)
+
+Preview your worksheet as it will appear when printed.
+
+### Options Panel (Right)
+
+Customize the selected activity or worksheet element:
+
+- Problem difficulty
+- Number ranges
+- Display options
+- Answer visibility
+
+## Creating Your First Worksheet: the Details
 
 Are you creating your first worksheet in Math Resource Studio? This is a quick overview for getting started. We also have some introductory video tutorials in the on our website and on our channel.
 
@@ -13,15 +45,16 @@ There are variety of ways to get started with the program. Because design elemen
 
 2. On left side of the main program window is a pane called Exercise Sets. Expand any topic by clicking the greater than sign ( **&gt;** ) beside the topic name. The exercise sets available for that topic will be displayed. Click once on an exercise set to add it to your worksheet.
 
-NOTE: The exercise set is automatically added to a One Column section. See to use a different type of section.
+    !!! note
+        The exercise set is automatically added to a One Column section. See to use a different type of section.
 
 3. When the exercise set questions appear on the page, the set will have a light blue border around the group of questions. The border will not print on your worksheet. The border is an indicator that this is the active element on the page, so changes can be made to the questions to customize them.
 
 4. On the far right side of the program is an options pane; the name of the exercise set is at the top of the pane. These are the options that effect the exercise set that has the light blue border around it. Click on any of the options in that pane to customize the questions. Changes are displayed immediately on the page. Examples:
 
-- Want more questions? Click Number of Exercises in the options pane, and use the up and down arrows to increase or decrease the number of questions in the exercise set.
+   - Want more questions? Click Number of Exercises in the options pane, and use the up and down arrows to increase or decrease the number of questions in the exercise set.
 
-- Want a bigger font for the questions? Click the plus sign ( **+** ) by Exercise Set Display in the options pane. Select the Font option, then click the ellipsis button (has three dots at the bottom of the button) that appears at the far right of the box. When the Make Font changes window appears, make your font, style and size selections then click OK. The font changes will appear on the page immediately.
+   - Want a bigger font for the questions? Click the plus sign ( **+** ) by Exercise Set Display in the options pane. Select the Font option, then click the ellipsis button (has three dots at the bottom of the button) that appears at the far right of the box. When the Make Font changes window appears, make your font, style and size selections then click OK. The font changes will appear on the page immediately.
 
 5. Click the Show|Hide Key icon on the main ribbon - the large red check mark - to display the answers on the page to ensure everything looks as you expect.
 

@@ -3,3 +3,13 @@
   --md-primary-fg-color--light: #B54040;
   --md-primary-fg-color--dark: #8A2828;
 }
+
+/* Site name/title color */
+.md-header__title {
+  color: #B54040; /* Change this to your desired color */
+}
+
+/* Site name color on hover (optional) */
+.md-header__title:hover {
+  color: #8A2828;
+}

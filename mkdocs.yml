@@ -45,17 +45,17 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
+    - "Create A New Document": creating-math-documents/create-a-new-document.md 
+    - "Add An Exercise Set": creating-math-documents/add-an-exercise-set.md       
     - "Add A Design Element": creating-math-documents/add-a-design-element.md
     - "Add A Footer": creating-math-documents/add-a-footer.md
     - "Add A Header": creating-math-documents/add-a-header.md
-    - "Add An Exercise Set": creating-math-documents/add-an-exercise-set.md
     - "Answer Sheets": creating-math-documents/answer-sheets.md
-    - "Answers   Show Key, Answer Banks, Key Color And Answer Lines": creating-math-documents/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
+    - "Answers  Show Key, Answer Banks, Key Color And Answer Lines": creating-math-documents/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
     - "Change Page Setup   Margins, Orientation, Paper Size": creating-math-documents/change-page-setup---margins,-orientation,-paper-size.md
     - "Change The Document Numbering": creating-math-documents/change-the-document-numbering.md
     - "Check Your Spelling": creating-math-documents/check-your-spelling.md
     - "Close A Document": creating-math-documents/close-a-document.md
-    - "Create A New Document": creating-math-documents/create-a-new-document.md
     - "Customize The Questions   Generate Or Manual Edit": creating-math-documents/customize-the-questions---generate-or-manual-edit.md
     - "Just The Answers   Answer Block": creating-math-documents/just-the-answers---answer-block.md
     - "Navigation Bar Plus Serial Number": creating-math-documents/navigation-bar-plus-serial-number.md

@@ -1,4 +1,4 @@
----
+﻿---
 title: Word Problems: Fractions Subtraction
 category: activities
 ---
@@ -9,7 +9,8 @@ Word Problems: Fractions Subtraction provides a way for you to create custom fra
 
 By building your own word problem templates, you have control over both the language and skill level required to solve the word problems. You can also customize the Objects and Names used in the word problems to engage your students' interests.
 
-TIP: The word problem samples defaulted for this exercise set are in English, but you can use your local language to create word problems.
+!!! tip
+    The word problem samples defaulted for this exercise set are in English, but you can use your local language to create word problems.
 
 Change the number of exercises
 
@@ -89,7 +90,8 @@ Enforce common denominators
 
 2. To allow mixed denominators in each exercise, deselect the check box for the Common Denominators option in the options pane.
 
-Note: If there are two or more options for Denominators for an exercise set - i.e. Addend 1, Addend 2 - when Common Denominators is checked, only the first Denominators values will be used for the questions. Example: Fractions Addition, if the denominators for Addend 1 are set to 3|6|9 and the denominators for Addend 2 are set to 4|5|10, only the 3|6|9 denominators will be used when Common Denominators is checked.
+!!! note
+    If there are two or more options for Denominators for an exercise set - i.e. Addend 1, Addend 2 - when Common Denominators is checked, only the first Denominators values will be used for the questions. Example: Fractions Addition, if the denominators for Addend 1 are set to 3|6|9 and the denominators for Addend 2 are set to 4|5|10, only the 3|6|9 denominators will be used when Common Denominators is checked.
 
 Show answers in lowest terms
 

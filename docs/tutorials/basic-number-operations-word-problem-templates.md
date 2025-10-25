@@ -1,4 +1,4 @@
----
+﻿---
 title: Basic Number Operations Word Problem Templates
 category: reference
 ---
@@ -29,7 +29,8 @@ Template Tags
 
 A variety of tags are offered to turn a word problem into a template. Each operation has some specific math tags (i.e. multiplication has factors - &lt;f1&gt;, &lt;f2&gt; - and product - &lt;p&gt;); the other tags are similar between the templates (i.e. object - &lt;obj&gt;; male name - &lt;nm1&gt;, &lt;nm2&gt;).
 
-TIP: Enter an example of the word problem you want to use; don't worry about the tags at this point. Once you are happy with the word problem setup, select a word or number in the word problem and highlight it. Then press the appropriate tag button below the template box. The highlighted word or number will be replaced with the selected tag.
+!!! tip
+    Enter an example of the word problem you want to use; don't worry about the tags at this point. Once you are happy with the word problem setup, select a word or number in the word problem and highlight it. Then press the appropriate tag button below the template box. The highlighted word or number will be replaced with the selected tag.
 
 New
 
@@ -47,7 +48,8 @@ Remove Rows
 
 Select one or more rows of word templates in the grid and press Remove Row(s) to remove the rows.
 
-TIP: To select more than one row at a time:
+!!! tip
+    To select more than one row at a time:
 
 - To select multiple templates, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the template rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a line
 category: reference
 ---
@@ -9,7 +9,8 @@ The Line element inserts a line in the math document. Lines can be used to highl
 
 Select Line from the list of Design Elements located on the Home ribbon to insert a line below the currently selected element in the document.
 
-TIP: Do you have the exercise sets in two columns across the page but you would like a line in one column across the page? If so, add a new One Column Section first and then add a Line in the new section.
+!!! tip
+    Do you have the exercise sets in two columns across the page but you would like a line in one column across the page? If so, add a new One Column Section first and then add a Line in the new section.
 
 Change the line color
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a title
 category: reference
 ---
@@ -9,7 +9,8 @@ The Title design element inserts a title area in the math document. Titles can b
 
 Select Title from the list of Design Elements located on the Home ribbon to insert a title below the currently selected element in the document.
 
-TIP: Do you have the exercise sets in two columns across the page but you would like a title in one column across the page? If so, add a new One Column section first and then add a Title to the new section.
+!!! tip
+    Do you have the exercise sets in two columns across the page but you would like a title in one column across the page? If so, add a new One Column section first and then add a Title to the new section.
 
 Change the Text
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Image Collection
 category: reference
 ---
@@ -7,7 +7,8 @@ category: reference
 
 Add, edit and organize the image collections used with exercise sets such as and .
 
-NOTE: Should you delete the default image collection file by mistake - small image collection.xml - close all documents and select . In the Options window, select Folders. On the Folders tab, click the green arrows icon by the Small Images box - Restore Default Small Image Collection. The default file of images will be replaced.
+!!! note
+    Should you delete the default image collection file by mistake - small image collection.xml - close all documents and select . In the Options window, select Folders. On the Folders tab, click the green arrows icon by the Small Images box - Restore Default Small Image Collection. The default file of images will be replaced.
 
 To edit or create your own image collection:
 
@@ -17,7 +18,8 @@ To edit or create your own image collection:
 
 3. Double-click the picture icon under Image to open the to add an image.
 
-TIP: You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
+!!! tip
+    You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
 
 4. Continue adding images, then use Save As to save your new image collection.
 
@@ -39,7 +41,8 @@ Remove Item
 
 Select one or more rows in the grid and press Remove Row(s) to remove the rows.
 
-TIP: To select more than one row at a time:
+!!! tip
+    To select more than one row at a time:
 
 - To select multiple rows, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 

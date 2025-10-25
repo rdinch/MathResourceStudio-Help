@@ -1,4 +1,4 @@
----
+﻿---
 title: Add text
 category: reference
 ---
@@ -9,7 +9,8 @@ The Text design element provides you with an opportunity to add a block of text 
 
 Select Text from the list of Design Elements located on the Home ribbon to insert a text block below the currently selected element in the document.
 
-TIP: Do you have the exercise sets in two columns across the page but you would like a block of text in one column across the page? If so, add a new One Column Section first and then add the Text in the new section.
+!!! tip
+    Do you have the exercise sets in two columns across the page but you would like a block of text in one column across the page? If so, add a new One Column Section first and then add the Text in the new section.
 
 Change the Text
 

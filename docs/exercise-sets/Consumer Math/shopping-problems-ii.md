@@ -1,4 +1,4 @@
----
+﻿---
 title: Shopping Problems II
 category: reference
 ---
@@ -9,7 +9,8 @@ Create custom shopping word problems for your students with the Shopping Problem
 
 By building your own word problem templates, you have control over both the language and skill level required to solve the word problems. You can also customize the Shopping Items and Names used in the word problems to engage your students' interests.
 
-TIP: The word problem samples defaulted for this exercise set are in English, but you can use your local language to create word problems.
+!!! tip
+    The word problem samples defaulted for this exercise set are in English, but you can use your local language to create word problems.
 
 Change the number of exercises
 
@@ -81,7 +82,8 @@ Use a custom set of names in the problems
 
 3. Save your changes, then click OK to close the editor and apply the changes to the math document
 
-TIP: Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
+!!! tip
+    Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
 
 Round prices to
 
@@ -99,15 +101,18 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Select the format for numbers
 
 This option provides a variety choices for how numbers are displayed in the problems: all numerals, all words, or a mixture of words and numerals depending on whether the numbers are below ten or up to twenty.
 
-NOTE: Currency, decimal and fractional values are not currently included in number formatting as words.
+!!! note
+    Currency, decimal and fractional values are not currently included in number formatting as words.
 
-TIP: Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
+!!! tip
+    Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
 
 **DISCOUNT AND SALES TAX**
 
@@ -119,7 +124,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Use or change decimal values
 
@@ -129,13 +135,14 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Optional Settings
 

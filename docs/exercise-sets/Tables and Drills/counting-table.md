@@ -1,4 +1,4 @@
----
+﻿---
 title: Counting Table
 category: reference
 ---
@@ -83,7 +83,8 @@ Show the first number and last number in the table
 
 Check this feature to display the first and last numbers of the table.
 
-TIP: This feature can be used in combination with Hints to help out early learners.
+!!! tip
+    This feature can be used in combination with Hints to help out early learners.
 
 Change the start number
 

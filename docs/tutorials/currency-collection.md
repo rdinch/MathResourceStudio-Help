@@ -1,4 +1,4 @@
----
+﻿---
 title: Currency Collection
 category: reference
 ---
@@ -19,7 +19,8 @@ To create your own currency collection:
 
 4. Next, double-click the picture icon under Obverse Image (front) and then Reverse Image (back) to open the to add the images for the currency.
 
-TIP: You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
+!!! tip
+    You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
 
 5. Continue adding currency images and values as needed, then use Save As to save your new currency collection.
 
@@ -41,7 +42,8 @@ Remove Item
 
 Select one or more rows in the grid and press Remove Row(s) to remove the rows.
 
-TIP: To select more than one row at a time:
+!!! tip
+    To select more than one row at a time:
 
 - To select multiple rows, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 

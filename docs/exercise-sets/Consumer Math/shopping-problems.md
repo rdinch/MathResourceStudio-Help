@@ -1,4 +1,4 @@
----
+﻿---
 title: Shopping Problems
 category: reference
 ---
@@ -75,25 +75,29 @@ Edit the shoppers
 
 2. In the editor, select, edit and create new shoppers.
 
-TIP: Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
+!!! tip
+    Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
 
 Round pricing
 
 To round pricing for the shopping items, select one of the choices for the Round Prices To option in the options pane.
 
-TIP: Select 1.00 if you want prices to have no cents - $10.00, $5.00. Select 0.25 for prices that end in no cents, or .25 or .50 or .75 - $2.50, $12.75.
+!!! tip
+    Select 1.00 if you want prices to have no cents - $10.00, $5.00. Select 0.25 for prices that end in no cents, or .25 or .50 or .75 - $2.50, $12.75.
 
 Set the sales tax
 
 For those questions that have sales tax as part of the problem, enter a tax rate that will be used. To set the sales tax percentage, select the input field for the Sales Tax option in the options pane and enter a new value. Valid range is 1.0 to 99.0.
 
-NOTE: If you do not want questions that use sales tax, use Select Problems in the options pane, and uncheck any problem template that uses sales tax.
+!!! note
+    If you do not want questions that use sales tax, use Select Problems in the options pane, and uncheck any problem template that uses sales tax.
 
 Set a discount
 
 For those questions that have a discount as part of the problem, enter a rate that will be used. To set the discount percentage, select the input field for the Discount option in the options pane and enter a new value. Valid range is 1.0 to 99.0.
 
-NOTE: If you do not want questions that use discounts, use Select Problems in the options pane, and uncheck any problem template that uses discounts.
+!!! note
+    If you do not want questions that use discounts, use Select Problems in the options pane, and uncheck any problem template that uses discounts.
 
 Adjust the number of Items used
 

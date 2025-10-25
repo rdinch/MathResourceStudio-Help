@@ -1,4 +1,4 @@
-# Exercise Set Display Options
+﻿# Exercise Set Display Options
 
 **Exercise Set Display Options**
 
@@ -54,7 +54,8 @@ Change the background color
 
 For many exercise sets answer lines are shown by default. These lines can be customized or hidden depending on the exercise set.
 
-Note: If the answer lines are hidden, the answer space remains. You can also adjust "Row Spacing" to make the space between exercises larger for students to show their calculations.
+!!! note
+    If the answer lines are hidden, the answer space remains. You can also adjust "Row Spacing" to make the space between exercises larger for students to show their calculations.
 
 Visible
 
@@ -124,7 +125,8 @@ Sets the padding \(extra white space\) around the element in 100ths of an inch \
 
 Try adding a background grid to your exercise set to help students line up their written work in the space provided.
 
-TIP: You provide a large calculating space for questions like multi-digit division or multiplication by increasing row spacing and hiding the answer lines. The background grid helps younger learners organize their work.
+!!! tip
+    You provide a large calculating space for questions like multi-digit division or multiplication by increasing row spacing and hiding the answer lines. The background grid helps younger learners organize their work.
 
 Visible
 
@@ -160,7 +162,8 @@ Choose one of these types of background lines:
 
 - Dotted
 
-TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
+!!! tip
+    Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
 - Dashed
 
 ## Additional Display Options
@@ -169,7 +172,8 @@ TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courie
 
 For many exercise sets answer lines are shown by default. These lines can be customized or hidden depending on the exercise set.
 
-Note: If the answer lines are hidden, the answer space remains. You can also adjust "Row Spacing" to make the space between exercises larger for students to show their calculations.
+!!! note
+    If the answer lines are hidden, the answer space remains. You can also adjust "Row Spacing" to make the space between exercises larger for students to show their calculations.
 
 Visible
 
@@ -229,7 +233,8 @@ Click in the check box for "Rounded" in the options panel. Uncheck the box to se
 
 Try adding a background grid to your exercise set to help students line up their written work in the space provided.
 
-TIP: You provide a large calculating space for questions like multi-digit division or multiplication by increasing row spacing and hiding the answer lines. The background grid helps younger learners organize their work.
+!!! tip
+    You provide a large calculating space for questions like multi-digit division or multiplication by increasing row spacing and hiding the answer lines. The background grid helps younger learners organize their work.
 
 Visible
 
@@ -265,6 +270,7 @@ Choose one of these types of background lines:
 
 - Dotted
 
-TIP: Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
+!!! tip
+    Use monospaced fonts for better spacing. Good examples are: Courier, Courier New, Lucida Console, Monaco, and Consolas.
 - Dashed
 

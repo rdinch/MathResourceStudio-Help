@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a picture
 category: reference
 ---
@@ -31,7 +31,8 @@ Change how the picture is sized
 
 2. Select Normal mode (which maintains the picture's aspect ratio) or Stretch mode (mode stretches the picture width to fill the picture frame).
 
-TIP: Stretch mode can be used to create an interesting art-line across a page or column. Select Stretch for Size Mode and then adjust Picture Size to about 20 to make the picture both wide and narrow.
+!!! tip
+    Stretch mode can be used to create an interesting art-line across a page or column. Select Stretch for Size Mode and then adjust Picture Size to about 20 to make the picture both wide and narrow.
 
 Adjust the size of the picture
 
@@ -41,7 +42,8 @@ Sets the height of the picture in 100ths of an inch (25 = 1/4 inch, 40 = 1 cm).
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range: 10 to 800.
 
-NOTE: The picture width is automatically adjusted to maintain the image's aspect ratio. This setting is only an adjustment and does not change the actual size of the image in the Picture editor.
+!!! note
+    The picture width is automatically adjusted to maintain the image's aspect ratio. This setting is only an adjustment and does not change the actual size of the image in the Picture editor.
 
 Change the alignment
 

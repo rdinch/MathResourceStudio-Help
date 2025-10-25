@@ -1,4 +1,4 @@
----
+﻿---
 title: Circles
 category: reference
 ---
@@ -7,7 +7,8 @@ category: reference
 
 The Circles exercise set provides practice in finding the circumference and area of circles.
 
-NOTE: The circles are not scaled to the size of the measurements.
+!!! note
+    The circles are not scaled to the size of the measurements.
 
 Change the number of exercises
 
@@ -79,7 +80,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -95,13 +97,14 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Set the circle display size
 
@@ -111,7 +114,8 @@ Sets the size of the circles in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values are 50 to 500.
 
-NOTE: The circles are not scaled to the size of the measurements.
+!!! note
+    The circles are not scaled to the size of the measurements.
 
 Set the displayed values
 

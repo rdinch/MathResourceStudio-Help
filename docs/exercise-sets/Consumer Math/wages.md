@@ -1,4 +1,4 @@
----
+﻿---
 title: Wages
 category: reference
 ---
@@ -71,7 +71,8 @@ Use a custom set of names in the problems
 
 3. Save your changes, then click OK to close the editor and apply the changes to the math document
 
-TIP: Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
+!!! tip
+    Problem Names are shared between exercise sets that use names in the word problems. When you add names to a list in the Problem Names editor, those names will be available from that list for any word problems that uses names.
 
 CHANGE HOURLY RATE PARAMETERS
 
@@ -83,7 +84,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Choose how the hourly rate will be rounded
 
@@ -107,7 +109,8 @@ Set the range of values for deductions in the problems as a percent of gross pay
 
 3. Decimals - Set the number of decimal places to be used for the deductions values.
 
-TIP: For a specific percent (e.g. 17.5%), set the high and low range to the same value and set Decimals to the appropriate place. Example: To set the deductions to 17.5%, set Range High to 175, Range Low to 175 and Decimals to 1. The program now knows that one decimal place should be set for the number 175, giving you 17.5%.
+!!! tip
+    For a specific percent (e.g. 17.5%), set the high and low range to the same value and set Decimals to the appropriate place. Example: To set the deductions to 17.5%, set Range High to 175, Range Low to 175 and Decimals to 1. The program now knows that one decimal place should be set for the number 175, giving you 17.5%.
 
 Optional Settings
 

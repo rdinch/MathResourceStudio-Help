@@ -1,4 +1,4 @@
----
+﻿---
 title: Answers - Show Key, Answer Banks, Key Color and Answer Lines
 category: reference
 ---
@@ -25,7 +25,8 @@ Answer Lines
 
 Hide or customize the look of the answer lines for a math document.
 
-NOTE: If this is the first time you are using the program, this customization will apply to all new exercise sets you add to a math document.
+!!! note
+    If this is the first time you are using the program, this customization will apply to all new exercise sets you add to a math document.
 
 1. With a math document open, select the Home tab and then click Answer Lines in the Answer Key section of the ribbon. The Answer Lines editor will appear. A Preview box at the bottom of the editor displays the effect of each change
 

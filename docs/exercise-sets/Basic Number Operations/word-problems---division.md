@@ -1,4 +1,4 @@
----
+﻿---
 title: Word Problems - Division
 category: activities
 ---
@@ -85,9 +85,11 @@ Select the number format for the problems
 
 The Number Format option provides a variety of choices for how numbers are displayed in the problems: all numerals, all words, or a mixture of words and numerals depending on whether the numbers are below ten or up to twenty.
 
-NOTE: Currency, decimal and fractional values are not currently included in number formatting as words.
+!!! note
+    Currency, decimal and fractional values are not currently included in number formatting as words.
 
-TIP: Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
+!!! tip
+    Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
 
 DIVISOR AND QUOTIENT
 
@@ -99,7 +101,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Optional Settings
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Number Lines - Fractions
 category: activities
 ---
@@ -67,7 +67,8 @@ Set the start point for the numbers on the lines
 
 2. To set the high end of the range, select the input field for the Start Point High option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: Range is from -9999 to 9999. Use the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    Range is from -9999 to 9999. Use the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 **Line Format**
 

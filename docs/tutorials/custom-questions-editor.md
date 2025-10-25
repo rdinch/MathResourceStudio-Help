@@ -1,4 +1,4 @@
----
+﻿---
 title: Custom Questions Editor
 category: reference
 ---
@@ -21,7 +21,8 @@ NOTES:
 
 - To remove a custom question from the collection, click the red X by a question in the grid. A warning will appear before the question and answer removed as this removal action is final and cannot be undone.
 
-TIP: When working with text in the Question or Answer boxes, there is a right-click menu with the standard controls like Cut, Copy and Paste available. The keyboard combinations Ctrl-x (Cut), Ctrl-c (Copy) and Ctrl-p (Paste) will also work in the text boxes.
+!!! tip
+    When working with text in the Question or Answer boxes, there is a right-click menu with the standard controls like Cut, Copy and Paste available. The keyboard combinations Ctrl-x (Cut), Ctrl-c (Copy) and Ctrl-p (Paste) will also work in the text boxes.
 
 New
 

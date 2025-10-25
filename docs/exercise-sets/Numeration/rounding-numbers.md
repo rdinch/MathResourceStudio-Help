@@ -1,4 +1,4 @@
----
+﻿---
 title: Rounding Numbers
 category: reference
 ---
@@ -71,7 +71,8 @@ Change the place values to round to
 
 2. In the Round To window, select the desired place values to round to and press OK to apply to the exercise set.
 
-NOTE: The values to round to must fall within the generated numeric vales so that a digit (the value to round) is underline in every question. If the number generated does not contain an underlined value to round to, the answer will simple be the unrounded number.
+!!! note
+    The values to round to must fall within the generated numeric vales so that a digit (the value to round) is underline in every question. If the number generated does not contain an underlined value to round to, the answer will simple be the unrounded number.
 
 Change the range of values
 
@@ -81,7 +82,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -97,19 +99,21 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Use currency format
 
 The currency option automatically formats each number into currency format and will override any settings for decimals. To use or not use the currency format, select or deselect the check box for the Currency option in the options pane.
 
-NOTE: The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
+!!! note
+    The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
 
 Optional Settings
 

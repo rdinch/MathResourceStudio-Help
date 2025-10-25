@@ -1,4 +1,4 @@
----
+﻿---
 title: Create a design group
 category: tutorials
 ---
@@ -19,4 +19,5 @@ A forms the basis for a design group. Any section - one column, two columns manu
 
 5. When the Add Design Group window opens, enter a name for your design group and click OK. Your design object is now saved and can be inserted in any math document.
 
-NOTE: Only items in a single section can be saved as a design group. Multiple sections cannot be saved together.
+!!! note
+    Only items in a single section can be saved as a design group. Multiple sections cannot be saved together.

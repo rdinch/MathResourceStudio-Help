@@ -1,4 +1,4 @@
----
+﻿---
 title: Plot Lines
 category: reference
 ---
@@ -59,7 +59,8 @@ Set the maximum number of coordinate points displayed
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values: 2 to 6.
 
-NOTE: This setting is the **maximum** number of coordinate points displayed. The actual number of points to be identified or plotted are determined by the slope of the line, which means some questions will have fewer points displayed than the selected maximum.
+!!! note
+    This setting is the **maximum** number of coordinate points displayed. The actual number of points to be identified or plotted are determined by the slope of the line, which means some questions will have fewer points displayed than the selected maximum.
 
 **Grid Options**
 

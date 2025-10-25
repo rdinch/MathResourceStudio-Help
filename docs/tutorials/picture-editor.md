@@ -1,4 +1,4 @@
----
+﻿---
 title: Picture Editor
 category: reference
 ---
@@ -11,7 +11,8 @@ Preview Area
 
 The preview area displays the selected picture along with any adjustments made to the picture when using the features in the tools pane. This picture area is blank except for a checkerboard grid if a picture has not been selected. Pictures can be copied from another source (example: a web page) and pasted into the preview area, or selected from the picture selection pane.
 
-NOTE: The following types of picture files can be used for the vocabulary document: .bmp, .gif, .jpg, .png, .tif and .wmf.
+!!! note
+    The following types of picture files can be used for the vocabulary document: .bmp, .gif, .jpg, .png, .tif and .wmf.
 
 Just below the preview area to the right side of the window is a zoom slide and zoom settings. This is just an image viewing zoom and will not change the size of the image.
 
@@ -19,17 +20,20 @@ Picture Selection Pane
 
 The picture selection pane displays the image files that are located in the selected picture/clip art folder. Select the image you want to use from the picture files pane and it will appear in the preview pane.
 
-NOTE: The following types of picture files can be used for the vocabulary document: .bmp, .gif, .jpg, .png, .tif and .wmf.
+!!! note
+    The following types of picture files can be used for the vocabulary document: .bmp, .gif, .jpg, .png, .tif and .wmf.
 
 Tools Pane
 
 At the top of the tools pane are the basic Open Image, Save Image, Undo and Redo commands.
 
-NOTE: The Save Image command will save the image displayed in the preview area to a save location on the computer; this does not save the image to the math document you are working with.
+!!! note
+    The Save Image command will save the image displayed in the preview area to a save location on the computer; this does not save the image to the math document you are working with.
 
 Below the basic tools commands are a wide variety of standard image sizing and enhancement tools. Generally a separate command window is opened for each tool. As you make changes, the image will be updated immediately so you can view the changes. Keep the changes by clicking the X in the top right of a command window, or click Reset to refresh the image and close the command window.
 
-NOTE: **Use the Resize command with care.** Pictures lose clarity each time they are re-sized. Text and line heavy images will become blurry with even minor re-sizing. Most elements in the program that use images (i.e. Title Group) have a size adjustment option as part of the element. The element size adjustment option is the best way to adjust the size of the image for the document.
+!!! note
+    **Use the Resize command with care.** Pictures lose clarity each time they are re-sized. Text and line heavy images will become blurry with even minor re-sizing. Most elements in the program that use images (i.e. Title Group) have a size adjustment option as part of the element. The element size adjustment option is the best way to adjust the size of the image for the document.
 
 **The Ribbon**
 
@@ -51,7 +55,8 @@ Paste
 
 Pastes a copied image or copied image file into the Preview pane.
 
-TIP: You can copy pictures from other sources (e.g. Microsoft Word; websites; image files in another location on your computer), and paste them into the preview pane as long as they are one of these file types: .bmp, .gif, .jpg, .png, .tif and .wmf.
+!!! tip
+    You can copy pictures from other sources (e.g. Microsoft Word; websites; image files in another location on your computer), and paste them into the preview pane as long as they are one of these file types: .bmp, .gif, .jpg, .png, .tif and .wmf.
 
 Cut
 
@@ -73,7 +78,8 @@ Select Options in the Picture editor to set image size and image quality.
 
 - Image Quality - The default is 220 ppi (pixels per inch); the maximum setting is High Fidelity. Using a resolution other than high fidelity may lose pixels. High fidelity resolution preserves picture quality BUT may increase the file of your documents. The default resolution of 220 ppi is a good balance between good print quality and file size.
 
-NOTE: Once a maximum resolution has been applied to a picture the resolution cannot subsequently be increased.
+!!! note
+    Once a maximum resolution has been applied to a picture the resolution cannot subsequently be increased.
 
 IMPORTANT NOTE: If you have created and saved math documents with a number of pictures that are of a large size, you can check the option "Apply selected resolution to pictures in saved math documents when opened." Once this option is applied and the math document saved with the new image quality settings, there is no way to undo this option. We recommend working with a copy of math document to see the result of the updated image quality changes.
 

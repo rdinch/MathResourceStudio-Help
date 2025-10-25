@@ -1,4 +1,4 @@
----
+﻿---
 title: Edit Word Problem Names
 category: reference
 ---
@@ -33,7 +33,8 @@ Remove Item
 
 Select one or more rows of names in the grid and press Remove Row(s) to remove the rows.
 
-TIP: To select more than one row at a time:
+!!! tip
+    To select more than one row at a time:
 
 - To select multiple names, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the Name rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 

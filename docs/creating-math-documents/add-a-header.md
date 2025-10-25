@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a header
 category: tutorials
 ---
@@ -7,7 +7,8 @@ category: tutorials
 
 The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two. To access the Header dialog, a math document must be open. Select Header in the Document area of the ribbon to open the dialog.
 
-TIP: When the header is displayed on a page, double-click anywhere in the header to open the Header dialog.
+!!! tip
+    When the header is displayed on a page, double-click anywhere in the header to open the Header dialog.
 
 Collapse All or Expand All Options
 
@@ -61,13 +62,15 @@ Change the picture
 
 Select Image in the options, then press the ellipsis button to display the to choose a different picture.
 
-TIP: When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
 
 Adjust the size of the picture
 
 Adjusted Image Height re-sizes the image based on the height setting. Original Image Height (obtained from the Picture editor) is provided as a reference The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the element (header or footer), the actual size of the image is is taken from the .
 
-TIP: When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
 
 Text Fields
 

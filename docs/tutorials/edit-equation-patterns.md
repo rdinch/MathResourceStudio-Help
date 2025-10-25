@@ -1,4 +1,4 @@
----
+﻿---
 title: Edit Equation Patterns
 category: reference
 ---
@@ -7,11 +7,13 @@ category: reference
 
 Add, edit and organize the equation patterns to be used for the exercise set questions.
 
-NOTE: Each exercise set that uses the Patterns editor for creating and editing equation patterns has it's own editor, though they all work similarly. The equation patterns cannot be mixed between exercise sets. For example, equation patterns for are very different from .
+!!! note
+    Each exercise set that uses the Patterns editor for creating and editing equation patterns has it's own editor, though they all work similarly. The equation patterns cannot be mixed between exercise sets. For example, equation patterns for are very different from .
 
 1. Enter an equation pattern in the Pattern box above the grid. You can use the equation symbols buttons below the Pattern box located below the box, or you can enter equation symbols using the keyboard.
 
-TIP: If you are unsure what each equation symbol button does, hover your mouse over the button to display a tool tip.
+!!! tip
+    If you are unsure what each equation symbol button does, hover your mouse over the button to display a tool tip.
 
 2. When the equation pattern is complete, select the green check mark to open a Preview of the equation. A sample problem will appear, giving you an opportunity to ensure the equation pattern appears and performs as you expect. Make any additional edits to the pattern that are needed.
 
@@ -39,7 +41,8 @@ Remove Patterns
 
 Select one or more rows of equation patterns in the grid and press Remove Row(s) to remove the rows.
 
-TIP: To select more than one row at a time:
+!!! tip
+    To select more than one row at a time:
 
 - To select multiple patterns, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a number line
 category: reference
 ---
@@ -29,7 +29,8 @@ Set the increment
 
 2. Type a new value in the input field. Valid range are is 1 to 1000.
 
-TIP: For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10 and enter an Increment of 1.
+!!! tip
+    For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10 and enter an Increment of 1.
 
 Show the unit numbers
 

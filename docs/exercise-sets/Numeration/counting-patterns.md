@@ -1,4 +1,4 @@
----
+﻿---
 title: Counting Patterns
 category: reference
 ---
@@ -7,7 +7,8 @@ category: reference
 
 The Counting Patterns exercise set provides short counting sequences for students to fill in the missing numbers. The exercises reinforce number positioning and relationships. This is also a great exercise set for introducing the order of negative integers.
 
-TIP: You can customize the text that appears just above the counting pattern boxes. Double-click the text just above the boxes and an Edit Exercise box appears. Update the text for Pattern Instructions then click OK to close the editor and apply your text changes. This custom text will be saved if the document is saved, but if you click Generate the text will be updated again with the program's default text, so customize the text last before printing or saving the document.
+!!! tip
+    You can customize the text that appears just above the counting pattern boxes. Double-click the text just above the boxes and an Edit Exercise box appears. Update the text for Pattern Instructions then click OK to close the editor and apply your text changes. This custom text will be saved if the document is saved, but if you click Generate the text will be updated again with the program's default text, so customize the text last before printing or saving the document.
 
 Change the number of exercises
 
@@ -89,7 +90,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Optional Settings
 

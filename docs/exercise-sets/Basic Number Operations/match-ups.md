@@ -1,4 +1,4 @@
----
+﻿---
 title: Match-Ups
 category: reference
 ---
@@ -49,7 +49,8 @@ Change the number of match-ups in each exercise
 
 2. Type a new number in the field or use the up and down arrows to increase or decrease the value. Valid range is 1 to 30.
 
-TIP: The matching questions will not flow over multiple pages, so number of match-ups, font size and row spacing may have to be adjusted to fit all matches on a single page.
+!!! tip
+    The matching questions will not flow over multiple pages, so number of match-ups, font size and row spacing may have to be adjusted to fit all matches on a single page.
 
 Adjust the spacing between the match items
 
@@ -77,7 +78,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change how matches are indicated
 

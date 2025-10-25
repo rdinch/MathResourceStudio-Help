@@ -1,4 +1,4 @@
----
+﻿---
 title: Mixed Basic Operations
 category: reference
 ---
@@ -7,7 +7,8 @@ category: reference
 
 With Mixed Basic Operations you can create a random mixture of basic operations equations.
 
-Note: Many of the options available for single operation basic exercises sets are available for Mixed Basic Operations, but not all. In some cases you may want to use the single operation exercise sets.
+!!! note
+    Many of the options available for single operation basic exercises sets are available for Mixed Basic Operations, but not all. In some cases you may want to use the single operation exercise sets.
 
 Change the number of exercises
 
@@ -61,7 +62,8 @@ Select the operations for the exercise set
 
 By default, only Addition questions are selected. Click in a check box by an operation name to include that operation in the mix of operations for the exercise set.
 
-NOTE: The settings for each operation are listed further down the options pane, but an operation name must be checked in order for that operation to be included in the mix of equations.
+!!! note
+    The settings for each operation are listed further down the options pane, but an operation name must be checked in order for that operation to be included in the mix of equations.
 
 Change the question orientation
 
@@ -79,7 +81,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -91,9 +94,11 @@ Apply sum limits
 
 To limit the sums as defined by the Minimum Sum and Maximum Sum options, select the check box for the Apply Limits option in the options pane.
 
-NOTE: In some cases, this option may override settings for addends.
+!!! note
+    In some cases, this option may override settings for addends.
 
-TIP: If you would like all questions to add up to 10, set both the Minimum Sum and Maximum Sum to 10.
+!!! tip
+    If you would like all questions to add up to 10, set both the Minimum Sum and Maximum Sum to 10.
 
 Set the minimum sum
 
@@ -120,7 +125,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -132,7 +138,8 @@ Apply sum limits
 
 To limit the differences as defined by the Minimum Difference and Maximum Difference options, select the check box for the Apply Limits option in the options pane.
 
-NOTE: In some cases, this option may override the setting for the Subtrahend to ensure no subtraction question has a difference outside the desired limits.
+!!! note
+    In some cases, this option may override the setting for the Subtrahend to ensure no subtraction question has a difference outside the desired limits.
 
 Set the minimum difference
 
@@ -145,7 +152,8 @@ Set the maximum sum
 1. To set the maximum difference, select the input field for the Maximum Difference option in the options pane.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-TIP: If you would like all questions to have a difference of 10, set both the Minimum Difference and Maximum Difference to 10.
+!!! tip
+    If you would like all questions to have a difference of 10, set both the Minimum Difference and Maximum Difference to 10.
 2. Type a new value in the field. Valid range is 0 to 9999.
 
 **Multiplication**
@@ -174,7 +182,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -194,7 +203,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 

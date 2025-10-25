@@ -1,4 +1,4 @@
----
+﻿---
 title: Custom Word Problem Templates
 category: reference
 ---
@@ -9,15 +9,18 @@ The Custom Word Problem Templates editor provides a way to add, edit and organiz
 
 Depending on how you like to organize your material, build one large collection of custom word problem templates, or build a variety of collections that can be selected as needed.
 
-TIP: If you want to create simple single-operation word problems, you may want to consider working with the basic word problem templates for , , and . There are more solution controls built-into these word problems for developing basic operations skill development.
+!!! tip
+    If you want to create simple single-operation word problems, you may want to consider working with the basic word problem templates for , , and . There are more solution controls built-into these word problems for developing basic operations skill development.
 
-TIP: Enter the text of a word problem in the Question Template box, but don't worry about tags at this point. Once you are happy with the text, grammar and punctuation of the word problem, then start entering number, object and name tags by selecting the number or name or object in the word problem text and then pressing the appropriate tag to replace it.
+!!! tip
+    Enter the text of a word problem in the Question Template box, but don't worry about tags at this point. Once you are happy with the text, grammar and punctuation of the word problem, then start entering number, object and name tags by selecting the number or name or object in the word problem text and then pressing the appropriate tag to replace it.
 
 1. To create new a new collection of word problem templates, or to add & edit custom word problem templates to the current collection, select the Edit Problem Templates option in the options pane and press the ellipsis button. When the Custom Word Problems Templates editor appears you can begin adding a new word problem to the current collection, or select New to open a new blank collection.
 
 2. Enter word problem text to the Question Template box. Then use the tag buttons below the Question Template box to replace the problem numbers, names or objects.
 
-NOTE: It is not necessary to place name and object tags in a word problem template if you would prefer that names or objects are not randomly filled from the Problem Names and Problem Objects collections.
+!!! note
+    It is not necessary to place name and object tags in a word problem template if you would prefer that names or objects are not randomly filled from the Problem Names and Problem Objects collections.
 
 3. As number tags are placed in the Template box, those tags will automatically be placed in the Answer Formula box. In the Answer Formula box you will set up the formula for the word problem template using the equation symbols located below the box (you can also enter equation symbols using the keyboard if you prefer).
 
@@ -39,7 +42,8 @@ A variety of tags and equation symbols are provided to turn a word problem, answ
 
 The number tags that are placed in the Answer Formula box do not require the number range that is entered in the Question Template box. For example, you may have a number tag in the Question Template box that looks like this - &lt;num1(2:15)&gt;; in the Answer Formula box only the tag &lt;num1&gt; is required for the formula to be set up.
 
-NOTE: It is possible that as you edit the word problem template you may add too many number tags to the Answer Formula box. You can delete and edit any of the tags in the formula box to ensure they match-up correctly with the word problem.
+!!! note
+    It is possible that as you edit the word problem template you may add too many number tags to the Answer Formula box. You can delete and edit any of the tags in the formula box to ensure they match-up correctly with the word problem.
 
 Remove a template and answer formula
 

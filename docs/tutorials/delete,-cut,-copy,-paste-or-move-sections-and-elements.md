@@ -1,4 +1,4 @@
----
+﻿---
 title: Delete, cut, copy, paste or move sections and elements
 category: reference
 ---
@@ -7,7 +7,8 @@ category: reference
 
 After adding a number of elements (i.e. number line, title, exercise sets, picture) to a document, you may find that you want to re-organize the order of the items or remove some elements entirely.
 
-TIP: A copied or cut element or section can be pasted within the same document, or pasted to a different document.
+!!! tip
+    A copied or cut element or section can be pasted within the same document, or pasted to a different document.
 
 Cut, Copy, Delete, or Move an exercise set or design element
 
@@ -23,9 +24,11 @@ Cut, Copy, Delete, or Move an exercise set or design element
 
 - Move Up or Move Down - These commands move the active element above or below the next closest element just above or just below it. This is a very easy way to re-position an exercise set or design element within a document.
 
-NOTE: If using this command is used with elements in a Two Columns Manual section, the elements cannot move between columns, but only up and down with the column they have been placed. Use cut and paste to move an element between the two manual columns.
+!!! note
+    If using this command is used with elements in a Two Columns Manual section, the elements cannot move between columns, but only up and down with the column they have been placed. Use cut and paste to move an element between the two manual columns.
 
-TIP: Undo (Ctrl + z) and Redo (Ctrl + y) are available on the Quick Access Toolbar. If you delete or move an item in error, you can undo or redo an action.
+!!! tip
+    Undo (Ctrl + z) and Redo (Ctrl + y) are available on the Quick Access Toolbar. If you delete or move an item in error, you can undo or redo an action.
 
 Cut, Copy, or Delete a section
 
@@ -43,4 +46,5 @@ Do you have a whole section that needs to be moved? No need to move each exercis
 
 - Move Up or Move Down - These commands DO NOT apply to sections.
 
-TIP: Undo (Ctrl + z) and Redo (Ctrl + y) are available on the Quick Access Toolbar. If you delete or move an item in error, you can undo or redo an action.
+!!! tip
+    Undo (Ctrl + z) and Redo (Ctrl + y) are available on the Quick Access Toolbar. If you delete or move an item in error, you can undo or redo an action.

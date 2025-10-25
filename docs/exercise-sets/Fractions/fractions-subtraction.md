@@ -1,4 +1,4 @@
----
+﻿---
 title: Fractions Subtraction
 category: activities
 ---
@@ -61,7 +61,8 @@ Enforce common denominators
 
 2. To allow mixed denominators in each exercise, deselect the check box for the Common Denominators option in the options pane.
 
-Note: If there are two or more options for Denominators for an exercise set - i.e. Addend 1, Addend 2 - when Common Denominators is checked, only the first Denominators values will be used for the questions. Example: Fractions Addition, if the denominators for Addend 1 are set to 3|6|9 and the denominators for Addend 2 are set to 4|5|10, only the 3|6|9 denominators will be used when Common Denominators is checked.
+!!! note
+    If there are two or more options for Denominators for an exercise set - i.e. Addend 1, Addend 2 - when Common Denominators is checked, only the first Denominators values will be used for the questions. Example: Fractions Addition, if the denominators for Addend 1 are set to 3|6|9 and the denominators for Addend 2 are set to 4|5|10, only the 3|6|9 denominators will be used when Common Denominators is checked.
 
 Show answers in lowest terms
 
@@ -85,7 +86,8 @@ Select whether to have the questions appear in vertical or horizontal orientatio
 
 MINUEND AND SUBTRAHEND
 
-NOTE: Minuend and subtrahend settings will be ignored or adjusted to ensure that no negative differences are produced.
+!!! note
+    Minuend and subtrahend settings will be ignored or adjusted to ensure that no negative differences are produced.
 
 Change the denominators
 
@@ -119,7 +121,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Optional Settings
 

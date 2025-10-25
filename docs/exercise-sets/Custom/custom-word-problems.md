@@ -1,4 +1,4 @@
----
+﻿---
 title: Custom Word Problems
 category: reference
 ---
@@ -85,9 +85,11 @@ Select the number format for the problems
 
 The Number Format option provides a variety of choices for how numbers are displayed in the problems: all numerals, all words, or a mixture of words and numerals depending on whether the numbers are below ten or up to twenty.
 
-NOTE: Currency, decimal and fractional values are not currently included in number formatting as words.
+!!! note
+    Currency, decimal and fractional values are not currently included in number formatting as words.
 
-TIP: Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
+!!! tip
+    Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
 
 Optional Settings
 

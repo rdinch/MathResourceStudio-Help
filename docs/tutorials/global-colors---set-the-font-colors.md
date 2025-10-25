@@ -1,4 +1,4 @@
----
+﻿---
 title: Global Colors - Set the font colors
 category: reference
 ---
@@ -7,20 +7,24 @@ category: reference
 
 You can use Global Colors to change the colors of various font options for an existing math document, or to change the default font colors used when creating new math documents.
 
-NOTE: If you are using the program for the first time, or you have reset the default settings for the program using , you should set the default font colors before adding any questions to the math document.
+!!! note
+    If you are using the program for the first time, or you have reset the default settings for the program using , you should set the default font colors before adding any questions to the math document.
 
 1. With a blank math document open (first use, before adding any exercises sets or design elements) or an existing document open, select the global Colors settings on the Home tab. The Global Color Changes window opens.
 
-NOTE: If you are using the program for the first time, or you have reset the default settings for the program using , you should set the default font colors before adding any questions or design elements to the math document.
+!!! note
+    If you are using the program for the first time, or you have reset the default settings for the program using , you should set the default font colors before adding any questions or design elements to the math document.
 
 2. Make your selections for the font color at the top of the window. The Preview box displays a sample of what the color will look like.
 
 3. Select between Apply Color to All Items or Apply Color to Selected Items.
 
-TIP: If you want to change the color for just selected items, click the element name or the blank by the row of the first element you want to select; then hold down CTRL on the keyboard while you click the element or the blank by the row for each element that you want to add to the selection.
+!!! tip
+    If you want to change the color for just selected items, click the element name or the blank by the row of the first element you want to select; then hold down CTRL on the keyboard while you click the element or the blank by the row for each element that you want to add to the selection.
 
 4. Next, for each element you want to update, select the box under Change to have the font color changes applied. Or to quickly select all of the boxes check the Select All Items box.
 
 5. Finally click OK to apply the new font color settings to the document.
 
-TIP: If you want to change the color for just one element, you can double-click a Color cell beside an Element cell in the grid, then click the ellipsis button that appears at the end of the color cell. The ellipsis opens a Color dialog. Make your color selection and click OK to apply the changes to just that element's color. Ensure the Change box by the element name is checked before clicking OK to apply the color changes.
+!!! tip
+    If you want to change the color for just one element, you can double-click a Color cell beside an Element cell in the grid, then click the ellipsis button that appears at the end of the color cell. The ellipsis opens a Color dialog. Make your color selection and click OK to apply the changes to just that element's color. Ensure the Change box by the element name is checked before clicking OK to apply the color changes.

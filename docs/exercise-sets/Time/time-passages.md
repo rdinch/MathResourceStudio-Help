@@ -1,4 +1,4 @@
----
+﻿---
 title: Time Passages
 category: activities
 ---
@@ -63,7 +63,8 @@ Set the high and low range for hours
 
 To set the high and low ranges for the hours, select the input field for Hours Range High and Hours Range Low in the options pane and type a new value in the field. Valid range is 0 to 23.
 
-TIP: To have just minutes appear in the questions (no hours), set the high and low ranges to 0 (zero).
+!!! tip
+    To have just minutes appear in the questions (no hours), set the high and low ranges to 0 (zero).
 
 Set the increment of time
 

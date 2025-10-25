@@ -1,4 +1,4 @@
----
+﻿---
 title: Mixed Advanced Operations
 category: reference
 ---
@@ -13,7 +13,8 @@ With Mixed Advanced Operations you can create a random mixture of operations usi
 
 - negative numbers
 
-Note: Many of the options available for single operation advanced exercises sets are available for Mixed Advanced Operations, but not all. In some cases you may want to use the single operation exercise sets.
+!!! note
+    Many of the options available for single operation advanced exercises sets are available for Mixed Advanced Operations, but not all. In some cases you may want to use the single operation exercise sets.
 
 Change the number of exercises
 
@@ -67,7 +68,8 @@ Select the operations for the exercise set
 
 By default, only Addition questions are selected. Click in a check box by an operation name to include that operation in the mix of operations for the exercise set.
 
-NOTE: The settings for each operation are listed further down the options pane, but an operation name must be checked in order for that operation to be included in the mix of equations.
+!!! note
+    The settings for each operation are listed further down the options pane, but an operation name must be checked in order for that operation to be included in the mix of equations.
 
 Change the question orientation
 
@@ -77,7 +79,8 @@ Use currency format
 
 The currency option automatically formats each number into currency format and will override any settings for decimals. To use or not use the currency format, select or deselect the check box for the Currency option in the options pane.
 
-NOTE: The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
+!!! note
+    The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
 
 **Addition**
 
@@ -91,7 +94,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -111,11 +115,12 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 - select 4 decimal places and the number will become 0.0256
@@ -132,7 +137,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -150,20 +156,22 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Control for Negative Answers
 
 Select this option if you want negative differences are allowed. To allow or not allow negative differences, select or deselect the check box for the Allow Negative Differences in the options pane.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-NOTE: If this option is unchecked and the range for the Subtrahend does not support non-negative solutions, the range for the Minuend will take precedence.
+!!! note
+    If this option is unchecked and the range for the Subtrahend does not support non-negative solutions, the range for the Minuend will take precedence.
 
 **Multiplication**
 
@@ -177,7 +185,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -191,13 +200,14 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Round the values
 
@@ -216,7 +226,8 @@ To achieve values within a set range, set the the high end of the range and the 
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-NOTES: To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
+!!! note
+    To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 Change the distribution of values
 
@@ -230,13 +241,14 @@ Use or change decimal values
 
 3. Click OK to apply the selected values.
 
-NOTE: Examples - If you have a number like 256
+!!! note
+    Examples - If you have a number like 256
 
-- select 1 decimal place, the number will become 25.6
+    - select 1 decimal place, the number will become 25.6
 
-- select 2 decimal places and the number will become 2.56
+    - select 2 decimal places and the number will become 2.56
 
-- select 4 decimal places and the number will become 0.0256
+    - select 4 decimal places and the number will become 0.0256
 
 Round the values
 

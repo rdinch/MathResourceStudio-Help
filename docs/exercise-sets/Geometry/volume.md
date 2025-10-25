@@ -1,4 +1,4 @@
----
+﻿---
 title: Volume
 category: reference
 ---
@@ -73,7 +73,8 @@ Fractional Values
 
 The values used for the shapes calculations can include decimal or common fractions, or be set to None so that only whole numbers are used.
 
-NOTE: Triangular prisms will necessarily almost always have fractional values for hypotenuse sides.
+!!! note
+    Triangular prisms will necessarily almost always have fractional values for hypotenuse sides.
 
 Select the measurement units
 

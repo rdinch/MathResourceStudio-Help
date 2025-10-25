@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a title group
 category: reference
 ---
@@ -23,7 +23,8 @@ Display or hide the picture
 
 Change the picture
 
-TIP: When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
 
 Change the alignment
 
@@ -33,7 +34,8 @@ Check Visible to display a picture in the title group. Uncheck Visible to hide t
 Select Picture in the options, then press the ellipsis button to display the to choose a different picture.
 Select between the following alignments for the picture: Left or Right.
 Size Adjustment adjusts the height of the picture. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the title group, the actual size of the image is not changed.
-TIP: When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
 
 Title
 
@@ -45,7 +47,8 @@ The default text for Title can be easily replaced.
 
 2. When you have finished entering your text either press Enter on the keyboard or click somewhere outside of the Title Text box to have the text update.
 
-NOTE: If the text for Title Text is completely removed, the space for the Title field will be removed from the Title Group on the document, making more space for other Title Group elements. So to hide the Title element, delete all of the text for Title Text.
+!!! note
+    If the text for Title Text is completely removed, the space for the Title field will be removed from the Title Group on the document, making more space for other Title Group elements. So to hide the Title element, delete all of the text for Title Text.
 
 Change the font
 
@@ -83,7 +86,8 @@ Change the field text
 
 Select a field option (Top Left, Top Right, Middle Left, Middle Right, Bottom Left, Bottom Right) in the options pane and enter the desired field text directly into the input field. Use the &lt;d&gt; tag or &lt;D&gt; tag to add an auto date. Example: &lt;d&gt; = 06/06/2013 &lt;D&gt; = June 6, 2013. You can also add days to the date: examples - &lt;d+2&gt;, &lt;D+5&gt;; the +2 would add two days, the +5 would add 5 days. Saved file names and the path to the saved file can be added to the fields using &lt;f&gt; for file and &lt;F&gt; for the file path. A number can also be added to the title group using the tag &lt;sn&gt;. Serial numbers are generated automatically and can be adjusted manually from the navigation bar located just above the worksheet document. A can also be added to a text field using the tag &lt;v&gt;. The version number can be manually adjusted by clicking the up or down arrow by Version number on the navigation bar, or by using Regenerate Between Copies when the document.
 
-NOTE: You can remove the top, middle or bottom fields by deleting all of the text for both the left and right parts of the field. The text and lines will be removed moving up the remainder of the title group elements.
+!!! note
+    You can remove the top, middle or bottom fields by deleting all of the text for both the left and right parts of the field. The text and lines will be removed moving up the remainder of the title group elements.
 
 Change the font
 

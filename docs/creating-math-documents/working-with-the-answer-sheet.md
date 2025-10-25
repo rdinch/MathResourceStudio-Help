@@ -1,4 +1,4 @@
----
+﻿---
 title: Working with the Answer Sheet
 category: tutorials
 ---
@@ -107,7 +107,8 @@ Change the font
 
 If you have used the Multiple Choice option for an exercise set, the choices for the questions are automatically generated based on the exercise set options used when creating the math document in Worksheet View. The look of the multiple choice bubbles can be customized for the answer sheet.
 
-NOTE: Not every exercise set has the Multiple Choice option. The answer sheet will display the appropriate answer response based on the options selected in Worksheet View. It is possible for an answer sheet to have a mixture of answer lines and multiple choice bubbles.
+!!! note
+    Not every exercise set has the Multiple Choice option. The answer sheet will display the appropriate answer response based on the options selected in Worksheet View. It is possible for an answer sheet to have a mixture of answer lines and multiple choice bubbles.
 
 Change the label font
 

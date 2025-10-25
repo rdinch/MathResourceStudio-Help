@@ -1,4 +1,4 @@
----
+﻿---
 title: Add a footer
 category: tutorials
 ---
@@ -7,7 +7,8 @@ category: tutorials
 
 The Footer area is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one. To access the Footer dialog, a math document must be open. Select Footer in the Document area of the ribbon to open the dialog.
 
-TIP: When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
+!!! tip
+    When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
 
 Saving and Applying Options
 
@@ -125,10 +126,12 @@ Change the picture
 
 Select Image in the options, then press the ellipsis button to display the to choose a different picture.
 
-TIP: When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
 
 Adjust the size of the picture
 
 Adjusted Image Height re-sizes the image based on the height setting. Original Image Height (obtained from the Picture editor) is provided as a reference The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the element (header or footer), the actual size of the image is is taken from the .
 
-TIP: When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+!!! tip
+    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.

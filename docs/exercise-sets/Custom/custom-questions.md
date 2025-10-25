@@ -1,4 +1,4 @@
----
+﻿---
 title: Custom Questions
 category: reference
 ---
@@ -65,7 +65,8 @@ Picture Alignment
 
 If pictures are present in the questions or answers, select from the following alignments: Below Text; To Right of Text; or Above Text.
 
-NOTE: This setting applies to all custom questions in the exercise set.
+!!! note
+    This setting applies to all custom questions in the exercise set.
 
 Optional Settings
 

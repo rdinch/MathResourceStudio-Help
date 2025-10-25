@@ -17,8 +17,8 @@
 /* Custom logo sizing - 4cm x 1.96cm (approximately 151px x 74px) */
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  width: 151px;
-  height: 74px;
+  width: 126px;
+  height: 77px;
   max-width: none;
   max-height: none;
 }

@@ -4,7 +4,7 @@ site_description: Complete help documentation for Math Resource Studio 8
 
 theme:
   name: material
-  logo: assets/schoolhouse-logo.svg
+  logo: assets/schoolhouse-logo-210x129.png
   features:
     - navigation.tabs
     - navigation.sections

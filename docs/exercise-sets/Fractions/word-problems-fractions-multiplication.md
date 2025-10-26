@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems: Fractions Multiplication
-category: activities
----
-
 # Word Problems: Fractions Multiplication
 
 Word Problems: Fractions Multiplication provides a way for you to create custom fractions multiplication word problems for your students.

@@ -1,8 +1,3 @@
----
-title: Perimeter and Area
-category: reference
----
-
 # Perimeter and Area
 
 Create worksheets for students to calculate the area and perimeter for a variety of polygons (i.e. rectangles, triangles, trapezoids).

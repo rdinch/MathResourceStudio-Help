@@ -1,8 +1,3 @@
-﻿---
-title: Volume
-category: reference
----
-
 # Volume
 
 Create a wide variety of 3D volume and surface questions for your students using the Volume exercise set.

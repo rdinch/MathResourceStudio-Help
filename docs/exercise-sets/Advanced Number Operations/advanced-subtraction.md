@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Subtraction
-category: activities
----
-
 # Advanced Subtraction
 
 The Advanced Subtraction exercise set provides an opportunity to create challenging subtraction questions using:

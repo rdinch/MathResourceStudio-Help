@@ -1,8 +1,3 @@
-﻿---
-title: Temperature Conversion
-category: reference
----
-
 # Temperature Conversion
 
 The Temperature Conversion exercise sets provides options to convert Fahrenheit to Celsius, Celsius to Fahrenheit, or a mixture of both conversions.

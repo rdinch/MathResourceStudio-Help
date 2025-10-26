@@ -1,8 +1,3 @@
-﻿---
-title: Image Collection
-category: reference
----
-
 # Image Collection
 
 Add, edit and organize the image collections used with exercise sets such as and .

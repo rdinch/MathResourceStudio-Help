@@ -1,8 +1,3 @@
----
-title: XY Graphs
-category: reference
----
-
 # XY Graphs
 
 Use the XY Graphs exercise set to create customized XY graphs for your students to use.

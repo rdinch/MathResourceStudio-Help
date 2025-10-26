@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Division - Remainders
-category: activities
----
-
 # Advanced Division - Remainders
 
 The Advanced Division - Remainders exercise set provides an opportunity to create challenging division questions using:

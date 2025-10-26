@@ -1,8 +1,3 @@
-﻿---
-title: Edit Word Problem Objects
-category: reference
----
-
 # Edit Word Problem Objects
 
 Add, edit and organize the objects you want to use with the various word problem exercise sets.

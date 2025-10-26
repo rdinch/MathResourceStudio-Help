@@ -1,8 +1,3 @@
-﻿---
-title: Delete, cut, copy, paste or move sections and elements
-category: reference
----
-
 # Delete, cut, copy, paste or move sections and elements
 
 After adding a number of elements (i.e. number line, title, exercise sets, picture) to a document, you may find that you want to re-organize the order of the items or remove some elements entirely.

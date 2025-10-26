@@ -1,8 +1,3 @@
-﻿---
-title: US Weights and Measures
-category: reference
----
-
 # US Weights and Measures
 
 The US Weights and Measures exercise set provides students with a variety of US conversion questions.

@@ -1,8 +1,3 @@
-﻿---
-title: Currency Collection
-category: reference
----
-
 # Currency Collection
 
 Add, edit and organize the currency images and values to be used with questions.

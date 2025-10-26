@@ -1,8 +1,3 @@
-﻿---
-title: Percent of Numbers - Basic
-category: activities
----
-
 # Percent of Numbers - Basic
 
 Practice for finding the percent of numbers. Example: 10% of 200 = 20; 16% of 750 = 120.

@@ -1,8 +1,3 @@
-﻿---
-title: Edit Shopping Items
-category: reference
----
-
 # Edit Shopping Items
 
 Add, edit and organize the items you want to use with the exercise sets.

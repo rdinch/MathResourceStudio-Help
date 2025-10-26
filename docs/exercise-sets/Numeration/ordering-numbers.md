@@ -1,8 +1,3 @@
-﻿---
-title: Ordering Numbers
-category: reference
----
-
 # Ordering Numbers
 
 The Ordering Numbers exercise set presents students with a set of numbers and has them rewrite the numbers in the correct order.

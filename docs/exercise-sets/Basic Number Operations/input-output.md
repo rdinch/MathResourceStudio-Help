@@ -1,8 +1,3 @@
-﻿---
-title: Input Output
-category: reference
----
-
 # Input Output
 
 The Input Output exercise set works well as a pre-algebra tool for basic operations.

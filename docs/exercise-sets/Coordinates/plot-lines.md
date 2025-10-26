@@ -1,8 +1,3 @@
-﻿---
-title: Plot Lines
-category: reference
----
-
 # Plot Lines
 
 Plot Lines provides two exercise sets in one: plot points to draw a line; or identify a set of points plotted along a line.

@@ -1,8 +1,3 @@
-﻿---
-title: Edit Problem Templates with Solve For Option
-category: reference
----
-
 # Edit Problem Templates with Solve For Option
 
 Add, edit and organize problem templates with a solve for option used for , , , and .

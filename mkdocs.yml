@@ -46,36 +46,36 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
-    - "Create A New Document": creating-math-documents/create-a-new-document.md 
-    - "Add An Exercise Set": creating-math-documents/add-an-exercise-set.md       
-    - "Add A Design Element": creating-math-documents/add-a-design-element.md
-    - "Add A Footer": creating-math-documents/add-a-footer.md
-    - "Add A Header": creating-math-documents/add-a-header.md
-    - "Answer Sheets": creating-math-documents/answer-sheets.md
-    - "Answers  Show Key, Answer Banks, Key Color And Answer Lines": creating-math-documents/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
-    - "Change Page Setup   Margins, Orientation, Paper Size": creating-math-documents/change-page-setup---margins,-orientation,-paper-size.md
-    - "Change The Document Numbering": creating-math-documents/change-the-document-numbering.md
-    - "Check Your Spelling": creating-math-documents/check-your-spelling.md
-    - "Close A Document": creating-math-documents/close-a-document.md
-    - "Customize The Questions   Generate Or Manual Edit": creating-math-documents/customize-the-questions---generate-or-manual-edit.md
-    - "Just The Answers   Answer Block": creating-math-documents/just-the-answers---answer-block.md
-    - "Navigation Bar Plus Serial Number": creating-math-documents/navigation-bar-plus-serial-number.md
-    - "Print A Document": creating-math-documents/print-a-document.md
-    - "Save, Open And Edit A Template": creating-math-documents/save,-open-and-edit-a-template.md
-    - "Save And Open A Document": creating-math-documents/save-and-open-a-document.md
-    - "Save Your Options Settings": creating-math-documents/save-your-options-settings.md
-    - "Set Defaults For Font, Numbering And Answer Lines": creating-math-documents/set-defaults-for-font,-numbering-and-answer-lines.md
-    - "Show Hide   Global Settings": creating-math-documents/show-hide---global-settings.md
-    - "Working With The Answer Sheet": creating-math-documents/working-with-the-answer-sheet.md
+    - "Create A New Document": getting-started/create-a-new-document.md 
+    - "Add An Exercise Set": getting-started/add-an-exercise-set.md       
+    - "Add A Design Element": getting-started/add-a-design-element.md
+    - "Add A Footer": getting-started/add-a-footer.md
+    - "Add A Header": getting-started/add-a-header.md
+    - "Answer Sheets": getting-started/answer-sheets.md
+    - "Answers  Show Key, Answer Banks, Key Color And Answer Lines": getting-started/answers---show-key,-answer-banks,-key-color-and-answer-lines.md
+    - "Change Page Setup   Margins, Orientation, Paper Size": getting-started/change-page-setup---margins,-orientation,-paper-size.md
+    - "Change The Document Numbering": getting-started/change-the-document-numbering.md
+    - "Check Your Spelling": getting-started/check-your-spelling.md
+    - "Close A Document": getting-started/close-a-document.md
+    - "Customize The Questions   Generate Or Manual Edit": getting-started/customize-the-questions---generate-or-manual-edit.md
+    - "Just The Answers   Answer Block": getting-started/just-the-answers---answer-block.md
+    - "Navigation Bar Plus Serial Number": getting-started/navigation-bar-plus-serial-number.md
+    - "Print A Document": getting-started/print-a-document.md
+    - "Save, Open And Edit A Template": getting-started/save,-open-and-edit-a-template.md
+    - "Save And Open A Document": getting-started/save-and-open-a-document.md
+    - "Save Your Options Settings": getting-started/save-your-options-settings.md
+    - "Set Defaults For Font, Numbering And Answer Lines": getting-started/set-defaults-for-font,-numbering-and-answer-lines.md
+    - "Show Hide   Global Settings": getting-started/show-hide---global-settings.md
+    - "Working With The Answer Sheet": getting-started/working-with-the-answer-sheet.md
     - Design Groups:
-      - "Add A Design Group": creating-math-documents/design-groups/add-a-design-group.md
-      - "Create A Design Group": creating-math-documents/design-groups/create-a-design-group.md
-      - "Delete A Design Group": creating-math-documents/design-groups/delete-a-design-group.md
+      - "Add A Design Group": getting-started/design-groups/add-a-design-group.md
+      - "Create A Design Group": getting-started/design-groups/create-a-design-group.md
+      - "Delete A Design Group": getting-started/design-groups/delete-a-design-group.md
     - Document Sections:
-      - "Add A Section To The Document": creating-math-documents/document_sections/add-a-section-to-the-document.md
-      - "Add A Section With One Column": creating-math-documents/document_sections/add-a-section-with-one-column.md
-      - "Add A Section With Two Auto Flow Columns": creating-math-documents/document_sections/add-a-section-with-two-auto-flow-columns.md
-      - "Add A Section With Two Manual Columns": creating-math-documents/document_sections/add-a-section-with-two-manual-columns.md
+      - "Add A Section To The Document": getting-started/document_sections/add-a-section-to-the-document.md
+      - "Add A Section With One Column": getting-started/document_sections/add-a-section-with-one-column.md
+      - "Add A Section With Two Auto Flow Columns": getting-started/document_sections/add-a-section-with-two-auto-flow-columns.md
+      - "Add A Section With Two Manual Columns": getting-started/document_sections/add-a-section-with-two-manual-columns.md
   - Exercise Sets:
     - ADVANCED NUMBER OPERATIONS:
       - "Advanced Addition": exercise-sets/Advanced Number Operations/advanced-addition.md

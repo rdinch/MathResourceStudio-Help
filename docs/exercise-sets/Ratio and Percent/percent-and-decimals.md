@@ -1,8 +1,3 @@
-﻿---
-title: Percent and Decimals
-category: activities
----
-
 # Percent and Decimals
 
 The Percent and Decimals exercise set provides practice in converting percents to decimals, or decimals to percents. Focus on a single conversion, or randomly mix the conversions in the set to provide more of a challenge.

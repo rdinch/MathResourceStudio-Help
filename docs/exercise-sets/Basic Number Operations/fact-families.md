@@ -1,8 +1,3 @@
-﻿---
-title: Fact Families
-category: reference
----
-
 # Fact Families
 
 This exercise set reinforces the relationship between adding and subtracting, and between multiplication and division.

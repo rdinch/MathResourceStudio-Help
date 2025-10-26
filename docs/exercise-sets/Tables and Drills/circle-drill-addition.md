@@ -1,8 +1,3 @@
-﻿---
-title: Circle Drill Addition
-category: activities
----
-
 # Circle Drill Addition
 
 The Circle Drills Addition exercise set is the perfect way for focusing on addition equations while still having fun.

@@ -1,8 +1,3 @@
-﻿---
-title: Multiple Addends
-category: reference
----
-
 # Multiple Addends
 
 The Multiple Addends exercise set provides teachers with an opportunity to create addition questions with more than 2 addends using:

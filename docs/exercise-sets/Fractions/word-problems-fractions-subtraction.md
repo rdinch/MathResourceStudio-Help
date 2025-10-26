@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems: Fractions Subtraction
-category: activities
----
-
 # Word Problems: Fractions Subtraction
 
 Word Problems: Fractions Subtraction provides a way for you to create custom fractions subtraction word problems for your students.

@@ -1,8 +1,3 @@
----
-title: Bar Graphs
-category: reference
----
-
 # Bar Graphs
 
 Use the Bar Graphs exercise set to create customized bar graphs for your students to use.

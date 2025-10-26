@@ -1,8 +1,3 @@
-﻿---
-title: Lowest Common Multiple
-category: reference
----
-
 # Lowest Common Multiple
 
 The Lowest Common Multiple (LCM) is the smallest nonzero number that is a multiple of two or more numbers, so the smallest number that they both divide into evenly.

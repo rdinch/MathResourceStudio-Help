@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems: Fractions Addition
-category: activities
----
-
 # Word Problems: Fractions Addition
 
 Word Problems: Fractions Addition provides a way for you to create custom fractions addition word problems for your students.

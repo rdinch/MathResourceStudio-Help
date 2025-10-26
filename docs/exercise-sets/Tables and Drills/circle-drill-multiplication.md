@@ -1,8 +1,3 @@
-﻿---
-title: Circle Drill Multiplication
-category: activities
----
-
 # Circle Drill Multiplication
 
 The Circle Drills Multiplication exercise set is the perfect way for focusing on multiplication equations while still having fun.

@@ -1,8 +1,3 @@
-﻿---
-title: Number Lines - Decimals
-category: activities
----
-
 # Number Lines - Decimals
 
 Have your students order a set of decimal numbers by placing them on a number line.

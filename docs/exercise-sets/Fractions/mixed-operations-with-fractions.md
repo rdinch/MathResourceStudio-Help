@@ -1,8 +1,3 @@
-﻿---
-title: Mixed Operations with Fractions
-category: activities
----
-
 # Mixed Operations with Fractions
 
 Create fraction addition, subtraction, multiplication and division questions using the Mixed Operations with Fractions exercise set. Select either a single operation to focus on, or increase the level of difficulty by mixing the operations on a worksheet.

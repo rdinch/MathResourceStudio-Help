@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems - Multiplication
-category: activities
----
-
 # Word Problems - Multiplication
 
 Using Word Problems - Multiplication you can create custom basic multiplication word problems for your students.

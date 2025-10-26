@@ -1,8 +1,3 @@
-﻿---
-title: Circle Drill Subtraction
-category: activities
----
-
 # Circle Drill Subtraction
 
 The Circle Drills Subtraction exercise set is the perfect way for focusing on subtraction equations while still having fun.

@@ -1,8 +1,3 @@
----
-title: Volume Cubes
-category: reference
----
-
 # Volume Cubes
 
 Introduce the volume of three-dimensional figures to your students through counting unit cubes. Select from three different challenge levels as your students develop their skills.

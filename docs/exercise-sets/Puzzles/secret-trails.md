@@ -1,8 +1,3 @@
-﻿---
-title: Secret Trails
-category: reference
----
-
 # Secret Trails
 
 Need a fun activity for students to practice their addition and subtraction skills? Try the Secret Trails exercise set.

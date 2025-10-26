@@ -1,8 +1,3 @@
-﻿---
-title: Reading Thermometers
-category: reference
----
-
 # Reading Thermometers
 
 This is a great exercise for reinforcing lessons on reading the temperature from a thermometer.

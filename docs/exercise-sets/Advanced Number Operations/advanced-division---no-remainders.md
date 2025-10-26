@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Division - No Remainders
-category: activities
----
-
 # Advanced Division - No Remainders
 
 The Advanced Division - No Remainders exercise set provides an opportunity to create challenging division questions using:

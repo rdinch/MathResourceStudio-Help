@@ -1,8 +1,3 @@
-﻿---
-title: Shopping Problems
-category: reference
----
-
 # Shopping Problems
 
 The Shopping Problems exercise set provides students with a variety of word problems to be solved.

@@ -1,8 +1,3 @@
-﻿---
-title: Fractions Subtraction
-category: activities
----
-
 # Fractions Subtraction
 
 The Fractions Subtraction exercise set creates an infinite number of activities that focus on subtracting fractions.

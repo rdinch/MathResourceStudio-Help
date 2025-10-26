@@ -1,8 +1,3 @@
-﻿---
-title: Circle the Numbers
-category: reference
----
-
 # Circle the Numbers
 
 Do your students need practice in identifying certain kinds of numbers in a grouping of numbers?

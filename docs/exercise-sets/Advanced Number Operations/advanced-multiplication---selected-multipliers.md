@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Multiplication - Selected Multipliers
-category: activities
----
-
 # Advanced Multiplication - Selected Multipliers
 
 With Advanced Multiplication: Selected Multipliers, you select a range for the multiplicand and then select from a variety of specific multipliers. With this setup, you can focus on multipliers like x2, x5, x10, x20, etc.. Further focus the exercise set by selecting just one multiplier; or challenge your students by mixing a few selected multipliers.

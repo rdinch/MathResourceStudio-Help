@@ -1,13 +1,8 @@
-﻿---
-title: Place Value
-category: reference
----
-
 # Place Value
 
 Have students identify the place value of a digit in a number using the Place Value exercise set.
 
-A set of numbers is generated. For each number, one digit is underlined. Students write out the value for the digit (i.e. 9<u>5</u>1 – 5 tens).
+A set of numbers is generated. For each number, one digit is underlined. Students write out the value for the digit (i.e. 9<u>5</u>1 � 5 tens).
 
 !!! tip
     The default place value names for this exercise set are in English, but you can use your local language to customize the list using the .

@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems - Subtraction
-category: activities
----
-
 # Word Problems - Subtraction
 
 Using Word Problems - Subtraction you can create custom basic subtraction word problems for your students.

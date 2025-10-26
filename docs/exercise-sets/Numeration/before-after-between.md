@@ -1,8 +1,3 @@
-﻿---
-title: Before After Between
-category: reference
----
-
 # Before After Between
 
 Here is a great exercise set to introduce students to the order of numbers. The Before, After, Between exercise set can be used for early numeracy work, or for introducing integers and the concept of negative numbers.

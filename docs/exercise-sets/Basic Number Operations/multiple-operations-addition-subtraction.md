@@ -1,8 +1,3 @@
-﻿---
-title: Multiple Operations: Addition Subtraction
-category: activities
----
-
 # Multiple Operations: Addition Subtraction
 
 Multiple Operations: Addition Subtraction provides students with practice in adding and subtracting across multiple operations.

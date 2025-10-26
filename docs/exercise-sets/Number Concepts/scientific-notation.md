@@ -1,8 +1,3 @@
-﻿---
-title: Scientific Notation
-category: reference
----
-
 # Scientific Notation
 
 Scientific Notation is a method for making very large numbers much easier to work with.

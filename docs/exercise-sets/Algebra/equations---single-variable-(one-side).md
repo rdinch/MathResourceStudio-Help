@@ -1,8 +1,3 @@
-﻿---
-title: Equations - Single Variable (One Side)
-category: reference
----
-
 # Equations - Single Variable (One Side)
 
 The Equations: Single Variable, One Side exercise set provides you with an opportunity to create a variety of algebra equations. Use exponents and decimals to add complexity.

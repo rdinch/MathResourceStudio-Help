@@ -1,8 +1,3 @@
-﻿---
-title: Division with Whole Numbers
-category: activities
----
-
 # Division with Whole Numbers
 
 The Dividing Fractions with Whole Numbers exercise set is an excellent worksheet for first introducing students to dividing whole numbers by fractions and fractions by whole numbers.

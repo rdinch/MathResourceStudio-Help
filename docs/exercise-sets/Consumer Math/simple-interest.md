@@ -1,8 +1,3 @@
-﻿---
-title: Simple Interest
-category: reference
----
-
 # Simple Interest
 
 Reinforce simple interest calculation using word problems. Choose from a variety of problems by selecting Edit Problem Templates, or create your own problem templates.

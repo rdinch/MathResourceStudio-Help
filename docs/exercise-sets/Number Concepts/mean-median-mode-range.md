@@ -1,8 +1,3 @@
-﻿---
-title: Mean Median Mode Range
-category: reference
----
-
 # Mean Median Mode Range
 
 Studying about mean, median, mode and range? Give your students extra practice using this exercise set.

@@ -1,8 +1,3 @@
-﻿---
-title: Add a picture
-category: reference
----
-
 # Add a picture
 
 The Picture design element provides a method for adding pictures to the math document.

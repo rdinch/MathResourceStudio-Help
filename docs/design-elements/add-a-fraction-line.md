@@ -1,8 +1,3 @@
----
-title: Add a fraction line
-category: activities
----
-
 # Add a fraction line
 
 The Fraction Line design element provides students with a graphical representation of number ordering. The units are divided into smaller sections depending on the Fraction number entered.

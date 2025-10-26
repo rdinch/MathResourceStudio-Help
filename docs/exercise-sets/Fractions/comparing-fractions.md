@@ -1,8 +1,3 @@
-﻿---
-title: Comparing Fractions
-category: activities
----
-
 # Comparing Fractions
 
 The Comparing Fractions exercise set provides students with practice identifying whether a fraction is smaller (&lt;), larger (&gt;) or equal (=) to the second fraction listed.

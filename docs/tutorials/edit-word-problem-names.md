@@ -1,8 +1,3 @@
-﻿---
-title: Edit Word Problem Names
-category: reference
----
-
 # Edit Word Problem Names
 
 Add, edit and organize the names you want to use with the various word problem exercise sets.

@@ -1,8 +1,3 @@
-﻿---
-title: Time Conversions
-category: activities
----
-
 # Time Conversions
 
 This exercise set provides a variety of time conversions: seconds, minutes, hours, days, weeks and years.

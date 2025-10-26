@@ -1,8 +1,3 @@
-﻿---
-title: Metric Weights and Measures
-category: reference
----
-
 # Metric Weights and Measures
 
 The Metric Weights and Measures exercise set provides students with a variety of metric conversion questions.

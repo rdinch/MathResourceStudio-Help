@@ -1,8 +1,3 @@
-﻿---
-title: Basic Addition - Doubles
-category: activities
----
-
 # Basic Addition - Doubles
 
 Use this exercise set to reinforce the addition strategy of adding doubles, doubles plus 1, and doubles plus 2.

@@ -1,8 +1,3 @@
-﻿---
-title: Fractions Division
-category: activities
----
-
 # Fractions Division
 
 The Fractions Division exercise set creates an infinite number of activities that focus on dividing fractions.

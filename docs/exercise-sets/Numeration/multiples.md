@@ -1,8 +1,3 @@
-﻿---
-title: Multiples
-category: reference
----
-
 # Multiples
 
 Create a multiples practice sheet quickly with the Multiples exercise set.

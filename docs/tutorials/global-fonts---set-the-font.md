@@ -1,8 +1,3 @@
-﻿---
-title: Global Fonts - Set the font
-category: reference
----
-
 # Global Fonts - Set the font
 
 You can use Global Fonts to change the font for all exercise sets for an existing math document, or to change the default font used when creating new math documents.

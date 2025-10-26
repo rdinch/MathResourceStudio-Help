@@ -1,8 +1,3 @@
----
-title: Cartesian Coordinates - Single Quadrant
-category: reference
----
-
 # Cartesian Coordinates - Single Quadrant
 
 This exercise set provides your students with practice in either identifying or plotting Cartesian coordinates on a single quadrant of a graph.

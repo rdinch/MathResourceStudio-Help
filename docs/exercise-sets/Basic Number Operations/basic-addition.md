@@ -1,8 +1,3 @@
----
-title: Basic Addition
-category: activities
----
-
 # Basic Addition
 
 Basic Addition creates basic addition questions. Try out the Limit Sums feature for additional control over the range of questions generated.

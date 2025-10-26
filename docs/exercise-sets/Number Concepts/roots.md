@@ -1,8 +1,3 @@
-﻿---
-title: Roots
-category: reference
----
-
 # Roots
 
 Do your students need practice in finding the square root or cube root of numbers? Use the Roots worksheet to quickly provide them with a sheet of questions.

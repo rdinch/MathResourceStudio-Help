@@ -1,8 +1,3 @@
----
-title: Number Patterns
-category: reference
----
-
 # Number Patterns
 
 Introduce number logic and problem solving skills to students with the Number Patterns exercise set.

@@ -1,8 +1,3 @@
-﻿---
-title: Table Drill Subtraction
-category: activities
----
-
 # Table Drill Subtraction
 
 The Table Drill Subtraction reinforces basic subtraction concepts in an interesting format.

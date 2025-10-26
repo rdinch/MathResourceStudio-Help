@@ -1,8 +1,3 @@
-﻿---
-title: Comparing Numbers
-category: reference
----
-
 # Comparing Numbers
 
 The Comparing Numbers exercise set has students identify whether a number is greater than (&gt;), less than (&lt;) or equal (=) to a second number. This exercise set can be used to reinforce number position when first teaching integers/negative numbers.

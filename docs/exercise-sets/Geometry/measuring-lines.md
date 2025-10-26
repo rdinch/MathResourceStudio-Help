@@ -1,8 +1,3 @@
----
-title: Measuring Lines
-category: reference
----
-
 # Measuring Lines
 
 The Measuring Lines exercise set focuses on students developing early skills in using a ruler to determine the length of a straight line.

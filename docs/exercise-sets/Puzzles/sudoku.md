@@ -1,8 +1,3 @@
----
-title: Sudoku
-category: reference
----
-
 # Sudoku
 
 Sudoku is a popular and fun puzzle that can be used with math classes to reinforce logic and problem-solving skills.

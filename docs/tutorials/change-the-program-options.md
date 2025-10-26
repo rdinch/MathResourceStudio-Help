@@ -1,8 +1,3 @@
-﻿---
-title: Change the program options
-category: reference
----
-
 # Change the program options
 
 The Math Resource Studio Options window is accessed by selecting Application Options. Select the Settings tile when first opening the program, or by the cog icon at the very top of the program window on the right-hand side.

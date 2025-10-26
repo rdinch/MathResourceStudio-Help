@@ -1,8 +1,3 @@
----
-title: Thesaurus
-category: reference
----
-
 # Thesaurus
 
 The program comes with a thesaurus that you can use to find words of similar meanings for the epigraphs collection.

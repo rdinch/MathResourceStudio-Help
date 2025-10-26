@@ -1,8 +1,3 @@
-﻿---
-title: Pre-Algebra Equations: One Side
-category: activities
----
-
 # Pre-Algebra Equations: One Side
 
 The Pre-Algebra Equations (One Side) exercise set is aimed at creating simple algebra equations for those students just starting to learn algebra concepts.

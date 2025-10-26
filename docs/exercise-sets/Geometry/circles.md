@@ -1,8 +1,3 @@
-﻿---
-title: Circles
-category: reference
----
-
 # Circles
 
 The Circles exercise set provides practice in finding the circumference and area of circles.

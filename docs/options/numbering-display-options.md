@@ -1,7 +1,5 @@
 # Numbering Display Options
 
-**Numbering Display Options**
-
 Change the numbering direction
 
 1. Select the Numbering Direction option in the options pane and press the drop-down button to display the numbering options.
@@ -25,4 +23,3 @@ Change the color
 3. Choose the color you like.
 
 4. Click "OK" to save your choice and apply the new color.
-

@@ -1,8 +1,3 @@
----
-title: Angles
-category: reference
----
-
 # Angles
 
 Use the Angles exercise set to provide students with extra practice classifying and measuring angles. The exercise set can generate inside angles only, outside angles only, or both inside and outside angles.

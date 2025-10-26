@@ -1,8 +1,3 @@
----
-title: Measuring Rectangles
-category: reference
----
-
 # Measuring Rectangles
 
 The Measuring Rectangles worksheet combines the activity of using a ruler to determine the length of straight lines and using those measurements to calculate the Perimeter and Area of a rectangle.

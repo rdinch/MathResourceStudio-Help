@@ -1,8 +1,3 @@
-﻿---
-title: Diamond Math
-category: reference
----
-
 # Diamond Math
 
 Diamond Math is a great exercise for supporting your students in understanding the relationship between numbers while building skills needed for algebra and calculus.

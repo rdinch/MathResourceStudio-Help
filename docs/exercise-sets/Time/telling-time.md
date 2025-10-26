@@ -1,8 +1,3 @@
----
-title: Telling Time
-category: activities
----
-
 # Telling Time
 
 Create a fun and simple worksheet to help students learn how to tell time. They can either write the digital time (like 3:10) by looking at a clock with hands, or draw the clock hands based on a given digital time.

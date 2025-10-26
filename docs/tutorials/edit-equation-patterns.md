@@ -1,8 +1,3 @@
-﻿---
-title: Edit Equation Patterns
-category: reference
----
-
 # Edit Equation Patterns
 
 Add, edit and organize the equation patterns to be used for the exercise set questions.

@@ -1,8 +1,3 @@
-﻿---
-title: Basic Subtraction
-category: activities
----
-
 # Basic Subtraction
 
 Basic Subtraction creates basic subtraction questions. Try out the Limit Differences feature for added control over the range of questions generated.

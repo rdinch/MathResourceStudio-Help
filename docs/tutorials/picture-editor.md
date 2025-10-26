@@ -1,8 +1,3 @@
-﻿---
-title: Picture Editor
-category: reference
----
-
 # Picture Editor
 
 The Picture editor has four parts: the preview area; the picture selection pane; the tools pane; and the ribbon at the top of the window.

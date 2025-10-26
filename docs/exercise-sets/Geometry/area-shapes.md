@@ -1,8 +1,3 @@
----
-title: Area Shapes
-category: reference
----
-
 # Area Shapes
 
 Do your students need practice calculating the area and perimeter of rectilinear shapes? Then this is the exercise set you want to work with. Options include the units of measurement, whether to focus on just area or perimeter, and a control for the complexity of the task (Area Size).

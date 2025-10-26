@@ -1,8 +1,3 @@
-﻿---
-title: Shopping Problems II
-category: reference
----
-
 # Shopping Problems II
 
 Create custom shopping word problems for your students with the Shopping Problems II exercise set.

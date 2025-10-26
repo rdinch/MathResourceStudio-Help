@@ -1,8 +1,3 @@
-﻿---
-title: Multiple Operations
-category: reference
----
-
 # Multiple Operations
 
 Create your own customized multiple operations questions using:

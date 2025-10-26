@@ -1,8 +1,3 @@
----
-title: Graph Lines in Slope-Intercept Form
-category: reference
----
-
 # Graph Lines in Slope-Intercept Form
 
 The Graph Lines in Slope-Intercept Form provides your students with lots of practice in finding solutions for an equation in order to draw a line on grid.

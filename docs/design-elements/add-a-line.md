@@ -1,8 +1,3 @@
-﻿---
-title: Add a line
-category: reference
----
-
 # Add a line
 
 The Line element inserts a line in the math document. Lines can be used to highlight sections of the math document.

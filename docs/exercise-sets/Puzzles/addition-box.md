@@ -1,8 +1,3 @@
-﻿---
-title: Addition Box
-category: activities
----
-
 # Addition Box
 
 Addition Box is a great puzzle that helps reinforce the skill of adding multiple addends.

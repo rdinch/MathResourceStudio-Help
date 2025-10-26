@@ -1,8 +1,3 @@
-﻿---
-title: Custom Word Problems
-category: reference
----
-
 # Custom Word Problems
 
 You can build a variety of single-operation and multi-step word problems using Custom Word Problems.

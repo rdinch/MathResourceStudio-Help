@@ -1,8 +1,3 @@
----
-title: Fraction Identification - Grids
-category: activities
----
-
 # Fraction Identification - Grids
 
 Just getting started with fractions? Give your students some practice in identifying fractions by shading the correct number of cells in a grid to match the fraction, or identifying the fraction based on the number of shaded cells in the grid.

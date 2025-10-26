@@ -1,8 +1,3 @@
-﻿---
-title: Number Lines - Integers
-category: reference
----
-
 # Number Lines - Integers
 
 Have your students order a set of integers by placing them on a number line.

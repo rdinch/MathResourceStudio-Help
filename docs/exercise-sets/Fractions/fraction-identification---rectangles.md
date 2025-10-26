@@ -1,8 +1,3 @@
----
-title: Fraction Identification - Rectangles
-category: activities
----
-
 # Fraction Identification - Rectangles
 
 Just getting started with fractions? Give your students some practice in identifying fractions by shading the correct number of rectangles to match the fraction, or identifying the fraction based on the number of shaded rectangles.

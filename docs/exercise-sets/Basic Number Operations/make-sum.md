@@ -1,8 +1,3 @@
-﻿---
-title: Make Sum
-category: reference
----
-
 # Make Sum
 
 Looking for an exercise set that reinforces the relationship between addition and subtraction? These questions are addition questions, but instead of the finding the sum, the student must come up with the second addend based on the first addend and sum. That requires subtraction!

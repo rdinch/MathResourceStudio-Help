@@ -1,8 +1,3 @@
-﻿---
-title: Time Passages
-category: activities
----
-
 # Time Passages
 
 For the Time Passages exercise set, students use clocks to calculate and display answers to these questions:

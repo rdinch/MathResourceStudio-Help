@@ -1,8 +1,3 @@
-﻿---
-title: Order Fractional Values
-category: activities
----
-
 # Order Fractional Values
 
 Do your students need practice in comparing percent, decimal and fractional values? Try Ordering Fractional Values.

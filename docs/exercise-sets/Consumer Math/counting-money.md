@@ -1,8 +1,3 @@
----
-title: Counting Money
-category: activities
----
-
 # Counting Money
 
 The Counting Money exercise set gives students practice in adding up currency to find a total.

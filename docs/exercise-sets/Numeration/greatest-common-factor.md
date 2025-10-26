@@ -1,8 +1,3 @@
-﻿---
-title: Greatest Common Factor
-category: reference
----
-
 # Greatest Common Factor
 
 The Greatest Common Factor (or GCF) is the largest number that is a common factor of two or more numbers.

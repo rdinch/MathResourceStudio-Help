@@ -1,8 +1,3 @@
-﻿---
-title: Basic Multiplication
-category: activities
----
-
 # Basic Multiplication
 
 Basic Multiplication creates basic multiplication questions.

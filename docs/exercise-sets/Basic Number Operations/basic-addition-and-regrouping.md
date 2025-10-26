@@ -1,8 +1,3 @@
-﻿---
-title: Basic Addition and Regrouping
-category: activities
----
-
 # Basic Addition and Regrouping
 
 Basic Addition with Regrouping creates basic addition questions where you control regrouping. By default, all Regrouping options are set to No so none of the questions in the exercise set will require re-grouping.

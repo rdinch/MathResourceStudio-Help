@@ -1,7 +1,5 @@
 # Answer Bank Display Options
 
-**Answer Bank Display Options**
-
 Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
@@ -42,11 +40,11 @@ Change the background color
 
 1. In the options panel, find and select "Background Color."
 
-1. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-2. Choose the color you like.
+3. Choose the color you like.
 
-3. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Change the row spacing
 

@@ -1,8 +1,3 @@
-﻿---
-title: Magic Squares
-category: reference
----
-
 # Magic Squares
 
 A Magic Square is a square in which all the cells in any row or column add up to the same amount. This applies up and down and diagonally.

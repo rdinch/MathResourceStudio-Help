@@ -1,8 +1,3 @@
----
-title: Advanced Addition
-category: activities
----
-
 # Advanced Addition
 
 The Advanced Addition exercise set provides an opportunity to create challenging addition questions using:

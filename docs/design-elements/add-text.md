@@ -1,8 +1,3 @@
-﻿---
-title: Add text
-category: reference
----
-
 # Add text
 
 The Text design element provides you with an opportunity to add a block of text anywhere in the math document.

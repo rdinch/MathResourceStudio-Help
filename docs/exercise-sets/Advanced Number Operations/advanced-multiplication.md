@@ -1,8 +1,3 @@
----
-title: Advanced Multiplication
-category: activities
----
-
 # Advanced Multiplication
 
 The Advanced Multiplication exercise set provides an opportunity to create challenging multiplication questions using:

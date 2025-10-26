@@ -1,8 +1,3 @@
-﻿---
-title: Fractions Addition
-category: activities
----
-
 # Fractions Addition
 
 The Fractions Addition exercise set creates an infinite number of activities that focus on adding fractions.

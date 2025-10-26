@@ -1,8 +1,3 @@
-﻿---
-title: Simplifying Fractions
-category: activities
----
-
 # Simplifying Fractions
 
 The Simplifying Fractions exercise set provides student with practice in reducing larger fractions to the smallest equivalent fractions.

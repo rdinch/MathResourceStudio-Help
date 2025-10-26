@@ -1,8 +1,3 @@
----
-title: Cartesian Coordinates - Four Quadrants
-category: reference
----
-
 # Cartesian Coordinates - Four Quadrants
 
 Cartesian Coordinates - Four Quadrants is a great exercise set to have your students practice identifying and plotting points on a four quadrant graph.

@@ -1,8 +1,3 @@
----
-title: Add a background picture
-category: reference
----
-
 # Add a background picture
 
 The Background feature adds a picture behind a whole page like a watermark. Select Home and locate the Document area of the Home ribbon. Select Background to open the Background window.

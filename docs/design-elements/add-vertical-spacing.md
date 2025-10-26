@@ -1,8 +1,3 @@
----
-title: Add vertical spacing
-category: reference
----
-
 # Add vertical spacing
 
 The Vertical Spacing element inserts empty vertical space in the document. You can use this design element to control the space between design elements and sets of exercises.

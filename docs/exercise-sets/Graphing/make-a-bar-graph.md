@@ -1,8 +1,3 @@
----
-title: Make a Bar Graph
-category: reference
----
-
 # Make a Bar Graph
 
 This exercise set can give your students some practice in transferring data from a table and creating a bar graph.

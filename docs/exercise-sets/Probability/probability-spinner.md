@@ -1,8 +1,3 @@
----
-title: Probability Spinner
-category: reference
----
-
 # Probability Spinner
 
 Probability Spinner generates pictures of the spinners to determine the probability of outcomes for events.

@@ -1,8 +1,3 @@
-﻿---
-title: Basic Subtraction and Regrouping
-category: activities
----
-
 # Basic Subtraction and Regrouping
 
 Basic Subtraction with Regrouping creates basic subtraction questions where you control regrouping.

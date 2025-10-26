@@ -1,8 +1,3 @@
-﻿---
-title: Add a number line
-category: reference
----
-
 # Add a number line
 
 The Number Line design element provides students with a graphical representation of number ordering.

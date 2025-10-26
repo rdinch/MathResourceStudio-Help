@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems: Percent
-category: activities
----
-
 # Word Problems: Percent
 
 Word Problems: Percent provides a way for you to create custom percent word problems for your students.

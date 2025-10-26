@@ -1,8 +1,3 @@
-﻿---
-title: Factors
-category: reference
----
-
 # Factors
 
 Create a factoring practice sheet quickly with the Factors exercise set.

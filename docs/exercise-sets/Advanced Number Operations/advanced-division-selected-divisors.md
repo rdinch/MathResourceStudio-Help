@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Division: Selected Divisors
-category: activities
----
-
 # Advanced Division: Selected Divisors
 
 With Advanced Division: Selected Divisors, you select a range for the dividends and then select from a variety of specific divisors. With this setup, you can focus on divisors like 2, 3, 5, 10, etc.. Further focus the exercise set by selecting just one divisor; or challenge your students by mixing a few selected divisors.

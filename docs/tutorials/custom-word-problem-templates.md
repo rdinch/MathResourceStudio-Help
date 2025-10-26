@@ -1,8 +1,3 @@
-﻿---
-title: Custom Word Problem Templates
-category: reference
----
-
 # Custom Word Problem Templates
 
 The Custom Word Problem Templates editor provides a way to add, edit and organize custom word problem templates for both single-operation and multi-step word problems.

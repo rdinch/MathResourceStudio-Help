@@ -1,8 +1,3 @@
-﻿---
-title: Fractions: Multiple Operations
-category: activities
----
-
 # Fractions: Multiple Operations
 
 This is a great exercise set for setting up custom created multiple operations questions that use fractions. You can also include whole numbers from -999 to 999 as part of a custom equation. Patterns can use one format of a fraction for the questions (f1 or f2 - Fraction 1 or Fraction 2), or create questions that include both custom formatted fractions (f1 and f2 - Fraction 1 and Fraction 2).

@@ -1,8 +1,3 @@
----
-title: Line Graphs
-category: reference
----
-
 # Line Graphs
 
 Use the Line Graphs exercise set to create customized line graphs for your students to use.

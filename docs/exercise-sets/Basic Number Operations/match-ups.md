@@ -1,8 +1,3 @@
-﻿---
-title: Match-Ups
-category: reference
----
-
 # Match-Ups
 
 The Match-Up exercise set is an alternative exercise for reinforcing basic facts and operations. Questions and answers are listed in two columns. Students either draw lines between the questions and their answers, or write the letters of the answers on the answer lines.

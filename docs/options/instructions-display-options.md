@@ -1,7 +1,5 @@
 # Instructions Display Options
 
-**Instructions Display Options**
-
 Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
@@ -41,4 +39,3 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
-

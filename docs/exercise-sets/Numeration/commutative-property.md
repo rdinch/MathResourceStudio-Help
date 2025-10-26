@@ -1,8 +1,3 @@
-﻿---
-title: Commutative Property
-category: reference
----
-
 # Commutative Property
 
 Use this exercise set to reinforce the Commutative Property for your students. Choose whether to create just addition, just multiplication, or a mixture of the two operations for the equations.

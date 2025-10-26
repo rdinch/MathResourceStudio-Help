@@ -1,8 +1,3 @@
-﻿---
-title: Table Drill Multiplication
-category: activities
----
-
 # Table Drill Multiplication
 
 The Table Drill Multiplication reinforces basic multiplication concepts in an interesting format.

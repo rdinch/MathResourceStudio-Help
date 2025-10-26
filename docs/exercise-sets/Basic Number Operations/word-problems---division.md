@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems - Division
-category: activities
----
-
 # Word Problems - Division
 
 Using Word Problems - Division you can create custom basic division word problems for your students.

@@ -1,8 +1,3 @@
----
-title: Quick Facts
-category: reference
----
-
 # Quick Facts
 
 Need basic facts worksheets quickly? Try the Quick Facts exercise set.

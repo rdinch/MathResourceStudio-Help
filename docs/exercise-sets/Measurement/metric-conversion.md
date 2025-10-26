@@ -1,8 +1,3 @@
-﻿---
-title: Metric Conversion
-category: reference
----
-
 # Metric Conversion
 
 The Metric Conversion exercise set generates a wide variety of metric to US and US to metric conversions.

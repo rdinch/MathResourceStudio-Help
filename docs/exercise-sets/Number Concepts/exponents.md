@@ -1,8 +1,3 @@
-﻿---
-title: Exponents
-category: reference
----
-
 # Exponents
 
 Give students extra practice in working with both positive and negative exponents using the Exponents exercise set.

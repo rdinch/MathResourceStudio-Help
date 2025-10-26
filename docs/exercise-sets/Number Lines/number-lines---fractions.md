@@ -1,8 +1,3 @@
-﻿---
-title: Number Lines - Fractions
-category: activities
----
-
 # Number Lines - Fractions
 
 Have your students order a set of fractions by placing them on a number line.

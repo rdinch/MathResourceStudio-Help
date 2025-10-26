@@ -1,8 +1,3 @@
-﻿---
-title: Compound Interest
-category: reference
----
-
 # Compound Interest
 
 Reinforce compound interest calculation using word problems. Choose from a variety of problems by selecting Edit Problem Templates, or create your own problem templates.

@@ -1,8 +1,3 @@
-﻿---
-title: Pre-Algebra Equations: Two Sides
-category: activities
----
-
 # Pre-Algebra Equations: Two Sides
 
 The Pre-Algebra Equations: Two Sides exercise set is aimed at creating progressively more complex algebra equations for those students starting to learn algebra concepts.

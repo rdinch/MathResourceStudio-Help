@@ -1,8 +1,3 @@
-﻿---
-title: Money in Words
-category: activities
----
-
 # Money in Words
 
 Give your students practice writing money values in words, or converting words to money values using the Money in Words exercise set.

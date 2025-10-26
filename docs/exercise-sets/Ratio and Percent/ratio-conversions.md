@@ -1,8 +1,3 @@
-Ôªø---
-title: Ratio Conversions
-category: reference
----
-
 # Ratio Conversions
 
 The Ratio Conversions exercise set sets up a table for converting a value into percent, decimal, fraction, and ratio expressions. Select between Part-to-Part ratios or Part-to-Whole ratios (Ratio As option).
@@ -61,9 +56,9 @@ Change how the ratio is represented
 
 The option determines whether the ratio is a part-to-part or part-to-whole representation:
 
-- Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement ‚ÄúThere are 5 apples for every 7 oranges ‚Äù expresses a part-to-part ratio.
+- Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement ìThere are 5 apples for every 7 oranges î expresses a part-to-part ratio.
 
-- Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement ‚Äú3 out of 5 crayons are red‚Äù expresses a part-to-whole ratio. The statement ‚Äú2 out of 5 crayons are blue‚Äù also expresses a part-to-whole ratio.
+- Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement ì3 out of 5 crayons are redî expresses a part-to-whole ratio. The statement ì2 out of 5 crayons are blueî also expresses a part-to-whole ratio.
 
 1. To change how the ratio is represented, select the Ratio As option in the options pane.
 

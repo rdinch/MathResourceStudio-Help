@@ -1,8 +1,3 @@
-﻿---
-title: Rounding Numbers
-category: reference
----
-
 # Rounding Numbers
 
 The Rounding Numbers exercise set has the students determine for each question what the value of a number would be if rounded to the nearest ten, hundred, thousandth, tenth, etc.

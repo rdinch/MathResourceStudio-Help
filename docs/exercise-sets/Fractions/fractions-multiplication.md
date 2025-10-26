@@ -1,8 +1,3 @@
-﻿---
-title: Fractions Multiplication
-category: activities
----
-
 # Fractions Multiplication
 
 The Fractions Multiplication exercise set creates an infinite number of activities that focus on multiplying fractions.

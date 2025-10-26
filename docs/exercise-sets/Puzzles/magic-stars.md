@@ -1,8 +1,3 @@
-﻿---
-title: Magic Stars
-category: reference
----
-
 # Magic Stars
 
 Magic Stars is a fun addition challenge. Numbers are missing from the star and the Magic Number may be missing. Each line of the star must add up to the magic number in each direction and a number cannot be used more than once in the star.

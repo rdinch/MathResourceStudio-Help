@@ -1,8 +1,3 @@
-﻿---
-title: Basic Addition: Fixed Addend
-category: activities
----
-
 # Basic Addition: Fixed Addend
 
 Basic Addition: Fixed Addend creates basic addition questions, but gives you control over one of the addends that will appear in each question.

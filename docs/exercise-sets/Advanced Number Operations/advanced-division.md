@@ -1,8 +1,3 @@
-﻿---
-title: Advanced Division
-category: activities
----
-
 # Advanced Division
 
 The Advanced Division exercise set provides an opportunity to create challenging division questions using:

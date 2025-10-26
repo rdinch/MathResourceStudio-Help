@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems - Addition
-category: activities
----
-
 # Word Problems - Addition
 
 Using Word Problems - Addition you can create custom basic addition word problems for your students.

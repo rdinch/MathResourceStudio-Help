@@ -1,8 +1,3 @@
-﻿---
-title: Multiplication Box
-category: activities
----
-
 # Multiplication Box
 
 Looking for a challenging multiplication puzzle, or a puzzle that can give students some extra practice is using a calculator? Give them a Multiplication Box.

@@ -1,8 +1,3 @@
-﻿---
-title: Add a title
-category: reference
----
-
 # Add a title
 
 The Title design element inserts a title area in the math document. Titles can be used to highlight sections of the math document.

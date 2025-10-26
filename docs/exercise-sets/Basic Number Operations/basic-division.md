@@ -1,8 +1,3 @@
-﻿---
-title: Basic Division
-category: activities
----
-
 # Basic Division
 
 Basic Division creates division questions with no remainders.

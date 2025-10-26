@@ -1,8 +1,3 @@
-﻿---
-title: Across-Downs
-category: reference
----
-
 # Across-Downs
 
 Across-Downs is a fun activity that reinforces addition and subtraction skills.

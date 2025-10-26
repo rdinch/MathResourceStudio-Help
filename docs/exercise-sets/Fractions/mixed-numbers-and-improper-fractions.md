@@ -1,8 +1,3 @@
-﻿---
-title: Mixed Numbers and Improper Fractions
-category: activities
----
-
 # Mixed Numbers and Improper Fractions
 
 With this exercise set you can provide your students with practice in changing mixed numbers to improper fractions, and improper fractions to mixed numbers.

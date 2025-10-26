@@ -1,8 +1,3 @@
-﻿---
-title: Associative Property
-category: reference
----
-
 # Associative Property
 
 Use this exercise set to reinforce the Associative Property for your students. Choose whether to create just addition, just multiplication, or a mixture of the two operations for the equations.

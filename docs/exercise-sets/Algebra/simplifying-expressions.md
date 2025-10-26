@@ -1,8 +1,3 @@
-﻿---
-title: Simplifying Expressions
-category: reference
----
-
 # Simplifying Expressions
 
 Use the Simplifying Expressions exercise set to give your students additional practice in changing complex or awkward algebraic expressions into more simple or compact form.

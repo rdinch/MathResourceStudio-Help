@@ -1,8 +1,3 @@
-﻿---
-title: Basic Multiplication: Fixed Factor
-category: activities
----
-
 # Basic Multiplication: Fixed Factor
 
 Basic Multiplication: Fixed Factor creates basic multiplication questions, but gives you control over one of the factors that will appear in each question.

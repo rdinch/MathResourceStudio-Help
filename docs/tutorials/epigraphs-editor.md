@@ -1,8 +1,3 @@
----
-title: Epigraphs Editor
-category: reference
----
-
 # Epigraphs Editor
 
 The Epigraphs selector provides a way to create, edit, and combine epigraph\*\* collection files to use as part of document title groups or placed throughout a document as a design item.

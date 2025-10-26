@@ -1,8 +1,3 @@
-﻿---
-title: Place Value Names Editor
-category: reference
----
-
 # Place Value Names Editor
 
 The place value names used for the exercise set can be customized to use your local language.

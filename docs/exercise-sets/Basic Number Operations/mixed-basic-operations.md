@@ -1,8 +1,3 @@
-﻿---
-title: Mixed Basic Operations
-category: reference
----
-
 # Mixed Basic Operations
 
 With Mixed Basic Operations you can create a random mixture of basic operations equations.

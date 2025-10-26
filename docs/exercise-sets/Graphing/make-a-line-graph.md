@@ -1,8 +1,3 @@
----
-title: Make a Line Graph
-category: reference
----
-
 # Make a Line Graph
 
 This exercise set can give your students some practice in transferring data from a table and creating a line graph.

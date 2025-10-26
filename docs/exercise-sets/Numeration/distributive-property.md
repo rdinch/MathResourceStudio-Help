@@ -1,8 +1,3 @@
-﻿---
-title: Distributive Property
-category: reference
----
-
 # Distributive Property
 
 Use this exercise set to reinforce the Distributive Property for your students.

@@ -1,8 +1,3 @@
-﻿---
-title: Mixed Advanced Operations
-category: reference
----
-
 # Mixed Advanced Operations
 
 With Mixed Advanced Operations you can create a random mixture of operations using:

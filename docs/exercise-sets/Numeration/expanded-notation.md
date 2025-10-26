@@ -1,8 +1,3 @@
-﻿---
-title: Expanded Notation
-category: reference
----
-
 # Expanded Notation
 
 The Expanded Notation exercise set has ten different tasks you can use for a set of questions:

@@ -1,8 +1,3 @@
-﻿---
-title: Word Problems: Fractions Division
-category: activities
----
-
 # Word Problems: Fractions Division
 
 Word Problems: Fractions Division provides a way for you to create custom fractions division word problems for your students.

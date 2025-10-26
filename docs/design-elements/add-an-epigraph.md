@@ -1,8 +1,3 @@
----
-title: Add an epigraph
-category: reference
----
-
 # Add an epigraph
 
 An epigraph selected from a collection of epigraphs can be inserted anywhere in the document.

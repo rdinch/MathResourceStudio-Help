@@ -1,8 +1,3 @@
-﻿---
-title: Circle Drill Division
-category: activities
----
-
 # Circle Drill Division
 
 The Circle Drills Division exercise set is the perfect way for focusing on division equations while still having fun.

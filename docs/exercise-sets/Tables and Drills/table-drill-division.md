@@ -1,8 +1,3 @@
-﻿---
-title: Table Drill Division
-category: activities
----
-
 # Table Drill Division
 
 The Table Drill Division reinforces basic dvision concepts in an interesting format.

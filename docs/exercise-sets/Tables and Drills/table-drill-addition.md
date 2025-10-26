@@ -1,8 +1,3 @@
-﻿---
-title: Table Drill Addition
-category: activities
----
-
 # Table Drill Addition
 
 The Table Drill Addition reinforces basic addition concepts in an interesting format.

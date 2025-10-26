@@ -1,8 +1,3 @@
-﻿---
-title: Number Problems
-category: reference
----
-
 # Number Problems
 
 Need to give your students practice solving number problems?

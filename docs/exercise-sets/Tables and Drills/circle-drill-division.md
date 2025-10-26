@@ -49,7 +49,9 @@ Sets the diameter of the circle drill in 100ths of an inch (25 = 1/4 inch, 40 = 
 1. Select the input field for the Drill Diameter option in the options pane.
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 100 to 700.
+
 ## Target Number
+
 Locked
 
 Check this option to lock the target numbers at their current values. When locked, generating new vales or changes to Range or Distribution will have no effect on the target numbers.
@@ -87,7 +89,9 @@ Use or change decimal values
     - select 2 decimal places and the number will become 2.56
 
     - select 4 decimal places and the number will become 0.0256
+
 ## Ring Numbers
+
 Locked
 
 ## Change the range of values

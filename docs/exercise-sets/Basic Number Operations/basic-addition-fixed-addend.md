@@ -71,7 +71,9 @@ Select whether to have the questions appear in vertical or horizontal orientatio
 Fixed Addend
 
 Select the fixed addend that will appear in each question as either the first or second addend. Enter a number within the range established for the exercise set, or use the up or down arrows (check the definition area at the bottom of the options pane when this option is selected).
+
 ## Dynamic Addend
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

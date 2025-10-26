@@ -45,11 +45,11 @@ Select the Text option in the options pane and enter the desired text directly i
 
 1. In the options panel, find and select "Background Color."
 
-1. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-2. Choose the color you like.
+3. Choose the color you like.
 
-3. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 ## Change the alignment
 
@@ -57,13 +57,15 @@ Select the Text option in the options pane and enter the desired text directly i
 
 2. Choose from Left, Center, or Right
 
-1. Select the Alignment option in the options pane.
+3. Select the Alignment option in the options pane.
 
-2. Select Left, Center, or Right alignment.
+4. Select Left, Center, or Right alignment.
+
 ## Add a Border
+
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
-## Change the color
+## Change the border color
 
 1. In the options panel, find and select "Color."
 

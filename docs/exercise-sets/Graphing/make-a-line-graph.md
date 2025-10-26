@@ -45,7 +45,9 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 ## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
+
 ## Change the Parameters for the Graph Data
+
 Edit the data labels
 
 1. To edit the data labels, press the ellipsis button beside the Edit Data Labels option in the options pane.

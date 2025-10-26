@@ -101,7 +101,9 @@ Sets whether the values representing the polygon dimensions include decimal or c
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
+
 ## Set Parameters For The Width And Height Of The Polygons
+
 ## Set the width
 
 Sets the minimum and maximum width of the rectangles in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).

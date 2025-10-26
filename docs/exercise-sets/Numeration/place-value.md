@@ -4,7 +4,7 @@
 
 Have students identify the place value of a digit in a number using the Place Value exercise set.
 
-A set of numbers is generated. For each number, one digit is underlined. Students write out the value for the digit (i.e. 9<u>5</u>1 � 5 tens).
+A set of numbers is generated. For each number, one digit is underlined (bold in this documentation). Students write out the value for the digit (i.e. 9**5**1 = 5 tens).
 
 !!! tip
     The default place value names for this exercise set are in English, but you can use your local language to customize the list using the .
@@ -110,4 +110,3 @@ Optional Settings
 - [Instructions](../../options/instructions-display-options.md)
 - [Numbering](../../options/numbering-display-options.md)
 - [Answer Bank](../../options/answer-bank-display-options.md)
-  

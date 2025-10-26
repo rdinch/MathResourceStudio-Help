@@ -57,7 +57,9 @@ Select just a single basic operation to focus on, or mix the operations.
 1. Select the Operation option in the options pane.
 
 2. Select Addition only, Multiplication only, or Mixed for a random selection of both operations.
+
 ## NUMBER VALUE
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

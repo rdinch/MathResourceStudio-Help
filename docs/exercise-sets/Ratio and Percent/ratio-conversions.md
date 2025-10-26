@@ -104,4 +104,3 @@ Optional Settings
 - [Instructions](../../options/instructions-display-options.md)
 - [Numbering](../../options/numbering-display-options.md)
 - [Answer Bank](../../options/answer-bank-display-options.md)
-  

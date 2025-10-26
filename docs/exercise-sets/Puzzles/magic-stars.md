@@ -45,7 +45,9 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 ## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
+
 ## Base and Increment Values
+
 The Base and Increment values control the range of numbers that will be used as the starting point - Base - and the Increment used between the values.
 
 Suggestion: To get an idea of the relative effects of the changes for Base and Increment, set all Ranges to 1. Each magic number will be 26 and the numbers in the stars will range from 1 through 12. Then adjust Increment High and Low Ranges to 2; leave the Base Ranges at 1. This time the stars are numbered starting from 2 and counting up by 2; so 2, 4, 6, 8, up through to 24. You can experiment with these ranges to generate the type of puzzles suitable for the students you are working with.

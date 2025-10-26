@@ -65,7 +65,9 @@ Sets the minimum and maximum size of the square units in 100ths of an inch (25 =
 Measurement Units
 
 By default the answer is followed by units of measurement. Click the drop down list to select the units of measurement to be used for the answers.
+
 ## Change the cell and border colors
+
 ## Change the color
 
 1. In the options panel, find and select "Color."

@@ -159,4 +159,3 @@ Choose one of these types of background lines:
 - Dotted
 
 - Dashed
-  

@@ -45,7 +45,7 @@ The default text for Title can be easily replaced.
 !!! note
     If the text for Title Text is completely removed, the space for the Title field will be removed from the Title Group on the document, making more space for other Title Group elements. So to hide the Title element, delete all of the text for Title Text.
 
-## Change the font
+## Change the title font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -53,7 +53,7 @@ The default text for Title can be easily replaced.
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the title color
 
 1. In the options panel, find and select "Color."
 
@@ -84,7 +84,7 @@ Select a field option (Top Left, Top Right, Middle Left, Middle Right, Bottom Le
 !!! note
     You can remove the top, middle or bottom fields by deleting all of the text for both the left and right parts of the field. The text and lines will be removed moving up the remainder of the title group elements.
 
-## Change the font
+## Change the field font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -92,7 +92,7 @@ Select a field option (Top Left, Top Right, Middle Left, Middle Right, Bottom Le
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the field color
 
 1. In the options panel, find and select "Color."
 
@@ -150,7 +150,7 @@ Or,
 
 3. Press OK to apply the change.
 
-## Change the font
+## Change the epigraph font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -158,7 +158,7 @@ Or,
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the epigraph color
 
 1. In the options panel, find and select "Color."
 
@@ -169,7 +169,8 @@ Or,
 Option A -
 Option B -
 With the , you can also sort the epigraphs alphabetically to help locate a particular epigraph; or add, edit or create epigraphs collections to use on your worksheets.
-4. Click "OK" to save your choice and apply the new color.
+
+1. Click "OK" to save your choice and apply the new color.
 
 Adjust the Top Padding or Bottom Padding
 
@@ -193,7 +194,7 @@ The default text for the Instructions can be easily replaced.
 
 2. When you have finished entering your text, select OK to close the text editing box. The updated instructions appear immediately in the title group on the document.
 
-## Change the font
+## Change the instructions font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -201,7 +202,7 @@ The default text for the Instructions can be easily replaced.
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the instructions color
 
 1. In the options panel, find and select "Color."
 
@@ -210,4 +211,3 @@ The default text for the Instructions can be easily replaced.
 3. Choose the color you like.
 
 4. Click "OK" to save your choice and apply the new color.
-

@@ -56,7 +56,7 @@ Add and edit currency collection
 
 ## Set the unit order
 
-## Select the order the money units are presented in.
+## Select the order the money units are presented in
 
 1. To set the unit order for the activity, select the Unit Order option in the options pane.
 

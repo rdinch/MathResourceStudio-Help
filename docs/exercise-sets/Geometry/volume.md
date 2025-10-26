@@ -86,7 +86,9 @@ The values used for the shapes calculations can include decimal or common fracti
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
+
 ## Set Parameters For The Width, Height And Depth Of The Shapes
+
 ## Set the width/diameter
 
 Sets the minimum and maximum width or diameter of the 3D shapes as drawn on the page in 100ths of an inch (25 = 1/4inch, 40 = 1 cm).

@@ -18,9 +18,9 @@ The Expanded Notation exercise set has ten different tasks you can use for a set
 
 - Place Value to Standard - numbers in place value format (i.e. 6 hundreds 2 tens 5 ones) are generated randomly, and the student writes the correct number for each question
 
-- Standard to Expanded Exponential - numbers are generated randomly, and the student writes the number in expanded exponential notation form; i.e. 5,728 is written as (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>)
+- Standard to Expanded Exponential - numbers are generated randomly, and the student writes the number in expanded exponential notation form; i.e. 5,728 is written as (5 x 10³) + (7 x 10²) + (2 x 10¹) + (8 x 10⁰)
 
-- Expanded Exponential to Standard - numbers in expanded exponential notation format - i.e. (5 x 10<sup>3</sup>) + (7 x 10<sup>2</sup>) + (2 x 10<sup>1</sup>) + (8 x 10<sup>0</sup>) - are generated randomly, and the student writes the correct number for each question
+- Expanded Exponential to Standard - numbers in expanded exponential notation format - i.e. (5 x 10³) + (7 x 10²) + (2 x 10¹) + (8 x 10⁰) - are generated randomly, and the student writes the correct number for each question
 
 ## Change the number of exercises
 

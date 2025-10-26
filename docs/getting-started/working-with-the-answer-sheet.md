@@ -11,7 +11,9 @@ Click Show Key on the ribbon to display what the answer sheet key will look like
 Zoom
 
 The Zoom section of the ribbon provides a way to re-size the page for better viewing. The slider and Zoom arrows provide a manual viewing adjustment. Page Width, Whole Page and 100 Percent provide automatic viewing adjustments. The Zoom options do not control the placement of material on the page or the printing of a page.
+
 ## Answer Sheet Options
+
 Columns
 
 Select between a One or Two column format for the answer sheet page.
@@ -31,7 +33,9 @@ This option sets the vertical spacing between the rows of answers in 100ths of a
 2. Use the color picker - Basic or Web - to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
+
 ## Set Headings
+
 If your worksheet is simple - one page with only one exercise set - you may prefer to keep the Set Headings hidden. But if your document has multiple pages and exercise sets, and you want to include the marks for each exercise set, you may want to show some or all of the Set Headings fields.
 
 Show or hide the Title, Marks, and Page Number headings for each exercise set
@@ -61,7 +65,9 @@ Sets the bottom padding (extra white space) below the set heading in 100ths of a
 1. Select the Bottom Padding option in the options pane.
 
 2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+
 ## Numbering
+
 The numbering is automatically generated based on the exercise set's options used when creating the math document in Worksheet View. The look of the numbering however can be customized.
 
 ## Change the font
@@ -79,17 +85,21 @@ The numbering is automatically generated based on the exercise set's options use
 2. Use the color picker - Basic or Web - to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
+
 ## Answers
+
 The answers are automatically generated based on the exercise set's options used when creating the math document in Worksheet View. However the font type, size and style can be customized.
 
-## Change the font
+## Change the font for the answers
 
 1. Select the answers Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
 2. Select the preferred font name, style, and size.
 
 3. Click OK to close the dialog and apply the selected font.
+
 ## Multiple Choice Bubbles
+
 If you have used the Multiple Choice option for an exercise set, the choices for the questions are automatically generated based on the exercise set options used when creating the math document in Worksheet View. The look of the multiple choice bubbles can be customized for the answer sheet.
 
 !!! note

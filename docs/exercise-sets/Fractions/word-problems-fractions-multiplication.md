@@ -99,7 +99,9 @@ Enforce common denominators
 1. To show answers as mixed numbers (whole numbers plus proper fractions), click in the check box to show a check mark for Answers as Mixed Numbers in the options pane.
 
 2. To display the answers as improper fractions, click the check box to remove the check mark for Answers as Mixed Numbers in the options pane.
+
 ## Factor 1 and Factor 2
+
 ## Change the denominators
 
 1. To change the denominators, select the drop-down arrow for the Denominators option in the options pane.

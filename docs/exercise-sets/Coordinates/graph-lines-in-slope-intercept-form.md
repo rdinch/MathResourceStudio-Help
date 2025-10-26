@@ -38,8 +38,8 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
-2. To hide the exercise set instructions, deselect the check box.
-  
+2. To hide the exercise set instructions, deselect the check box.  
+
 ## Grid Options
 
 Change the number of points on the x and y axes

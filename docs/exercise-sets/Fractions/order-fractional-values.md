@@ -63,7 +63,9 @@ Select just one or a mix of fraction formats. Click in a check box by a format t
 2. Select the desired denominator values.
 
 3. Click OK to apply the selected denominators.
+
 ## Cardinal Numbers
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

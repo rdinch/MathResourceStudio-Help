@@ -6,7 +6,9 @@ If all you want is just the answers when marking math questions, add an answer b
     Answer Block vs Answer Bank - An Answer Block will display the answers for all questions from the beginning of a document or from a preceding answer block to the added answer block. Answer blocks are used for marking the questions in the document. The Answer Bank for any particular exorcise set is not an answer key to use for marking questions, but a bank of answers in random order that students can use for self-checking their work. For example, if a student calculates the answer to a long division question and that answer is not in the answer bank, that answer isn't correct.
 
 Answer blocks are contained within their own special sections with both Section options and Answer Block options.
+
 ## Section Options
+
 Active, current, or inactive answer block section
 
 An answer block section can be active, current, or inactive.
@@ -23,11 +25,11 @@ An answer block section can be active, current, or inactive.
 
 1. In the options panel, find and select "Background Color."
 
-1. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
-2. Choose the color you like.
+3. Choose the color you like.
 
-3. Click "OK" to save your choice and apply the new color.
+4. Click "OK" to save your choice and apply the new color.
 
 Begin on new page
 
@@ -42,10 +44,12 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
+
 ## Add a Border
+
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
-## Change the color
+## Change the border color
 
 1. In the options panel, find and select "Color."
 
@@ -64,7 +68,9 @@ To show a border around an object, click the Border option in the options panel.
 Round the corners
 
 Click in the check box for "Rounded" in the options panel. Uncheck the box to set the border back to square corners
+
 ## Answer Block Options
+
 Title
 
 Customize the title
@@ -73,7 +79,7 @@ Customize the title
 
 2. Click in the text box to delete the existing text and enter your custom title for the exercise set.
 
-## Change the font
+## Change the title font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -81,7 +87,7 @@ Customize the title
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the title color
 
 1. In the options panel, find and select "Color."
 
@@ -97,11 +103,13 @@ Customize the title
 
 2. Choose from Left, Center, or Right
 
-1. Select the Alignment option in the options pane.
+3. Select the Alignment option in the options pane.
 
-2. Select Left, Center, or Right alignment.
+4. Select Left, Center, or Right alignment.
+
 ## Sub Titles, Numbering, and Answers
-## Change the font
+
+## Change the font for the sub titles, numbering, and answers
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -109,7 +117,7 @@ Customize the title
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+## Change the color for the sub titles, numbering, and answers
 
 1. In the options panel, find and select "Color."
 

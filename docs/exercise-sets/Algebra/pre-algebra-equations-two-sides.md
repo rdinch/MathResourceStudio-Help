@@ -57,7 +57,9 @@ There are currently four complexity levels; each level is relatively more comple
 1. To change the operations, locate the Complexity option in the options pane.
 
 2. Select the check box adjacent to each of the desired levels.
+
 ## Variable (Answer) Ranges
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

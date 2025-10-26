@@ -55,7 +55,9 @@ When this option is selected, a warning is displayed if there are any duplicate 
 1. To change the task, click in a bubble to select Task in the options pane.
 
 2. Select from these tasks: Addends/Factors to Sum/Product; or Sum/Product to Addends/Factors; or Mixed.
+
 ## Value 1 and 2
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

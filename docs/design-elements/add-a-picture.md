@@ -46,10 +46,12 @@ Sets the height of the picture in 100ths of an inch (25 = 1/4 inch, 40 = 1 cm).
 
 2. Choose from Left, Center, or Right
 
-1. Select the Alignment option in the options pane.
+3. Select the Alignment option in the options pane.
 
-2. Select Left, Center, or Right alignment.
+4. Select Left, Center, or Right alignment.
+
 ## Add a Border
+
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
 ## Change the color

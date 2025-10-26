@@ -63,7 +63,9 @@ To make finding perimeter part of the activity, select the check box for the Per
 Solve for area
 
 To make finding area part of the activity, select the check box for the Area option in the options pane.
+
 ## Set Parameters For The Width And Height Of The Rectangles
+
 ## Set the width
 
 Sets the minimum and maximum width of the rectangles in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).

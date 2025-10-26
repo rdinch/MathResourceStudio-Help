@@ -52,7 +52,7 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new number in the field or use the up and down arrows to increase or decrease the value. Valid range is 1 to 12.
 
-## Change the percentage of solution hints.
+## Change the percentage of solution hints
 
 To change the percentage of solution hints, select the drop-down arrow for the Hints option in the options pane.
 
@@ -65,7 +65,9 @@ Set the cell size in 100ths of an inch (25 = 1/4 inch, 40 = 1cm). Valid range is
 1. To change the cell size, select the input field for the Cell Size option in the options pane.
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 10 to 60.
+
 ## Addend 1 and Addend 2
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

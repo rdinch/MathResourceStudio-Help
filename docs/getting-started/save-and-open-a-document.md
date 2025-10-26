@@ -7,11 +7,11 @@ Save a Math Document
 !!! tip
     Select Save As if you want to make a new copy of a previously saved math workshee with a different name.
 
-2. When the Save As window appears, locate the drive and folder where you would like to save the math document file.
+1. When the Save As window appears, locate the drive and folder where you would like to save the math document file.
 
-3. Enter a name in the File name box and click Save.
+2. Enter a name in the File name box and click Save.
 
-4. If you have already saved the worksheet once, you only have to click Save on the toolbar at the top of the program window, or press Ctrl+S, and all changes will be saved.
+3. If you have already saved the worksheet once, you only have to click Save on the toolbar at the top of the program window, or press Ctrl+S, and all changes will be saved.
 
 !!! tip
     All saved Math Resource Studio documents end with the file extension **.mrd**. When entering a file name it is not necessary to type .mrd at the end of the file name, the program will default the file extension automatically.

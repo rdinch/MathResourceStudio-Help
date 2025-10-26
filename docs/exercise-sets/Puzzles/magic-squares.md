@@ -49,7 +49,9 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 1. To set the square size, select the Square Size option in the options pane.
 
 2. Select the desired size.
+
 ## Base and Increment Values
+
 The Base and Increment values control the range of numbers that will be used as the starting point - Base - and the Increment used between the values.
 
 ## Change the range of values

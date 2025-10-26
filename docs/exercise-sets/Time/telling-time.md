@@ -24,7 +24,7 @@ Notes:
 
 ## Change the row spacing
 
-## Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
 1. Select the input field for the Row Spacing option in the options pane.
 

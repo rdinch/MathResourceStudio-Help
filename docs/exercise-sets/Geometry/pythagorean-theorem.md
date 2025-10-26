@@ -61,7 +61,9 @@ Adjusts the relative size of the values representing the polygon dimensions.
 1. To set the polygon size, select the Unit Size option in the options pane.
 
 2. Select the desired size.
+
 ## Set Parameters For The Width, Height And Depth Of The Shapes
+
 ## Set the width
 
 Sets the minimum and maximum width of the triangles in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).

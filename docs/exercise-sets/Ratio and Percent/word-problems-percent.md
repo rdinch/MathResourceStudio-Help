@@ -78,7 +78,9 @@ Add and edit the names used in the problems
 2. Add or edit the names to used for the problems, and save your changes.
 
 3. Click OK to close the editor and apply the changes to the math document.
+
 ## Percent
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
@@ -106,7 +108,9 @@ Use or change decimal values
     - select 2 decimal places and the number will become 2.56
 
     - select 4 decimal places and the number will become 0.0256
+
 ## Value
+
 ## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

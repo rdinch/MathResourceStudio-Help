@@ -2,13 +2,13 @@
 
 This exercise set provides your students with some real-world wages problems to solve. Choose from a variety of problems by selecting Edit Problem Templates, or create your own problem templates.
 
-Change the number of exercises
+## Change the number of exercises
 
 1. Click on the box labeled "Number of Exercises" in the options panel.
 
 2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
-Change the number of exercises in a row
+## Change the number of exercises in a row
 
 1. Select "Exercises per Row" in the options panel.
 
@@ -20,7 +20,7 @@ Notes:
 
 - For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -28,25 +28,25 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
 2. To hide the exercise set title, deselect the check box.
 
-Show instructions
+## Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
 
-Show the answer bank
+## Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
 
 2. To hide the answer bank, deselect the check box.
 
-Show duplicate warning
+## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
 
@@ -71,7 +71,7 @@ Use a custom set of names in the problems
 
 CHANGE HOURLY RATE PARAMETERS
 
-Change the range of values
+## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -86,7 +86,7 @@ Choose how the hourly rate will be rounded
 
 Select how the hourly rate will be rounded. Choose one of options between one cent (e.g. $12.24, $6.38, $21.52) and one dollar (e.g. $22.00, $10.00, $7.00).
 
-Set the range for hours worked
+## Set the range for hours worked
 
 Set the range of values for the hours worked for the wages problems.
 
@@ -94,7 +94,7 @@ Set the range of values for the hours worked for the wages problems.
 
 2. To set the low end of the range, select the input field for the Range Low option in the options pane and enter a new value to the minimum allowed for that exercise.
 
-Set the percent for deductions
+## Set the percent for deductions
 
 Set the range of values for deductions in the problems as a percent of gross pay. Select both the range and the number of decimals to apply to both ranges.
 

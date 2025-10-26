@@ -4,7 +4,7 @@ The Design Gallery provides a way to add a of multiple design elements and exerc
 
 For example you may frequently add a puzzle to the end of your math documents customized with additional and a to highlight it. By saving this grouping of exercise set and design items as a design group, you can easily add the grouping anywhere in your document.
 
-To a New Document
+## To a New Document
 
 1. Open Math Resource Studio. Click New to start a new blank document.
 
@@ -14,7 +14,7 @@ To a New Document
 
 4. The design groups selection window displays thumb nail pictures of both the Default Design Groups and (if you have created some). Click a thumb nail to select and add it to the blank document.
 
-To an Existing Document
+## To an Existing Document
 
 When adding a design group to a document that already has exercise sets and design items, the newly selected design group section will be placed after the section that contains the active set of questions or design elements.
 

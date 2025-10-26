@@ -2,13 +2,13 @@
 
 The Fractions Division exercise set creates an infinite number of activities that focus on dividing fractions.
 
-Change the number of exercises
+## Change the number of exercises
 
 1. Click on the box labeled "Number of Exercises" in the options panel.
 
 2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
-Change the number of exercises in a row
+## Change the number of exercises in a row
 
 1. Select "Exercises per Row" in the options panel.
 
@@ -20,7 +20,7 @@ Notes:
 
 - For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -28,25 +28,25 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
 2. To hide the exercise set title, deselect the check box.
 
-Show instructions
+## Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
 
-Show the answer bank
+## Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
 
 2. To hide the answer bank, deselect the check box.
 
-Show duplicate warning
+## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
 
@@ -59,13 +59,13 @@ Enforce common denominators
 !!! note
     If there are two or more options for Denominators for an exercise set - i.e. Addend 1, Addend 2 - when Common Denominators is checked, only the first Denominators values will be used for the questions. Example: Fractions Addition, if the denominators for Addend 1 are set to 3|6|9 and the denominators for Addend 2 are set to 4|5|10, only the 3|6|9 denominators will be used when Common Denominators is checked.
 
-Show answers in lowest terms
+## Show answers in lowest terms
 
 - To make sure answers are shown in their simplest form, check the box labeled "Answers in Lowest Terms" in the options panel.
 
 - If you want to allow answers that are equivalent but not simplified, uncheck the "Answers in Lowest Terms" box in the options panel.
 
-Show answers as mixed numbers
+## Show answers as mixed numbers
 
 1. To show answers as mixed numbers (whole numbers plus proper fractions), click in the check box to show a check mark for Answers as Mixed Numbers in the options pane.
 
@@ -73,7 +73,7 @@ Show answers as mixed numbers
 
 DIVISOR AND DIVIDEND
 
-Change the denominators
+## Change the denominators
 
 1. To change the denominators, select the drop-down arrow for the Denominators option in the options pane.
 
@@ -104,7 +104,7 @@ Change how cardinal numbers are displayed
 
 To change how cardinal numbers are displayed, select a bubble by one of the choices for Display As in the options pane - Mixed Number, Improper Fraction, or Stand Alone (only a whole number, no fraction).
 
-Change the range of values
+## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 

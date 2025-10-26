@@ -4,13 +4,13 @@ This is a great exercise for reinforcing lessons on reading the temperature from
 
 Options include the type of task to complete (identify the temperature or color-in the thermometer) as well as a choice of scale (Fahrenheit or Celsius).
 
-Change the number of exercises
+## Change the number of exercises
 
 1. Click on the box labeled "Number of Exercises" in the options panel.
 
 2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
-Change the number of exercises in a row
+## Change the number of exercises in a row
 
 1. Select "Exercises per Row" in the options panel.
 
@@ -22,7 +22,7 @@ Notes:
 
 - For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -30,19 +30,19 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
 2. To hide the exercise set title, deselect the check box.
 
-Show instructions
+## Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
 
-Set the task
+## Set the task
 
 Select between two different tasks:
 
@@ -50,19 +50,19 @@ Select between two different tasks:
 
 - Shade to Show - A temperature is displayed below each thermometer. The student draws a line in the thermometer that shows the provided temperature.
 
-Choose the scale for the thermometers
+## Choose the scale for the thermometers
 
 Select to work with just Fahrenheit scales, just Celsius scales, or a mixture of both scales.
 
-Show or hide scales on the thermometers
+## Show or hide scales on the thermometers
 
 Each thermometer can display both the Fahrenheit and Celsius scales. Choose between showing both scales on the thermometers regardless of the selected Scale or showing just the scale needed for the task. When checked, only the required scale is displayed on each thermometer.
 
-Set the height of the thermometer
+## Set the height of the thermometer
 
 The height of the thermometers can be adjusted. Type a new value in the input field or use the up and down arrows to increase or decrease the value; 100ths of an inch (25 = 1/4 inch, 40 = 1cm). The range is from 300 to 800.
-### SET THE FAHRENHEIT AND CELSIUS RANGES
-Change the range of values
+## SET THE FAHRENHEIT AND CELSIUS RANGES
+## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 

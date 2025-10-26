@@ -4,11 +4,11 @@ A section has one key purpose: to allow for a mixture of single column and two c
 
 For example, you may want all exercise sets to be in two columns across a page, but titles, lines and text blocks in single columns across the page. By using the various types of sections, this can be accomplished easily.
 
-Add a section
+## Add a section
 
 To add a section, click the down arrow for Sections in Layout on the Home ribbon, and select from , , and . Multiple sections can be added to a math document. Sections can be deleted, cut, copied, and pasted within the same math document or pasted to a new math document.
 
-Active, current, or inactive section
+## Active, current, or inactive section
 
 A section can be active, current, or inactive.
 

@@ -7,7 +7,7 @@ Select Text from the list of Design Elements located on the Home ribbon to inser
 !!! tip
     Do you have the exercise sets in two columns across the page but you would like a block of text in one column across the page? If so, add a new One Column Section first and then add the Text in the new section.
 
-Change the Text
+## Change the Text
 
 There are two options for changing text:
 
@@ -23,7 +23,7 @@ Option B
 
 Select the Text option in the options pane and enter the desired text directly into the input field.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -31,7 +31,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -41,7 +41,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the background color
+## Change the background color
 
 1. In the options panel, find and select "Background Color."
 
@@ -51,7 +51,7 @@ Change the background color
 
 3. Click "OK" to save your choice and apply the new color.
 
-Change the alignment
+## Change the alignment
 
 1. Click on "Alignment" in the options.
 
@@ -60,10 +60,10 @@ Change the alignment
 1. Select the Alignment option in the options pane.
 
 2. Select Left, Center, or Right alignment.
-### Add a Border
+## Add a Border
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -73,7 +73,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 

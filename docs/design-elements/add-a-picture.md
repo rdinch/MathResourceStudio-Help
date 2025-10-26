@@ -40,7 +40,7 @@ Sets the height of the picture in 100ths of an inch (25 = 1/4 inch, 40 = 1 cm).
 !!! note
     The picture width is automatically adjusted to maintain the image's aspect ratio. This setting is only an adjustment and does not change the actual size of the image in the Picture editor.
 
-Change the alignment
+## Change the alignment
 
 1. Click on "Alignment" in the options.
 
@@ -49,10 +49,10 @@ Change the alignment
 1. Select the Alignment option in the options pane.
 
 2. Select Left, Center, or Right alignment.
-### Add a Border
+## Add a Border
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -62,7 +62,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 

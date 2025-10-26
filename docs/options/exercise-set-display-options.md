@@ -1,6 +1,6 @@
-﻿# Exercise Set Display Options
+# Exercise Set Display Options
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -8,7 +8,7 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -16,7 +16,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -26,7 +26,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the answer key color
+## Change the answer key color
 
 1. In the options panel, find and select "Answer Key Color."
 
@@ -36,7 +36,7 @@ Change the answer key color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the background color
+## Change the background color
 
 1. In the options panel, find and select "Background Color."
 
@@ -46,18 +46,18 @@ Change the background color
 
 4. Click "OK" to save your choice and apply the new color.
 
-** Answer Lines
+## ANSWER LINES
 
 For many exercise sets answer lines are shown by default. These lines can be customized or hidden depending on the exercise set.
 
 !!! note
     If the answer lines are hidden, the answer space remains. You can also adjust "Row Spacing" to make the space between exercises larger for students to show their calculations.
 
-Visible
+## Answer line visibility
 
 You can check or uncheck the "Visible" box to show or hide the answer lines for each exercise set.
 
-Change the color
+## Change the answer line color
 
 1. In the options panel, find and select "Color."
 
@@ -67,13 +67,13 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 
 2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
-Style
+## Answer line style
 
 Choose one of these types of answer lines:
 
@@ -83,11 +83,11 @@ Choose one of these types of answer lines:
 
 - Dashed
 
-** Add a Border
+## ADD A BORDER
 
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
-Change the color
+## Change the border color
 
 1. In the options panel, find and select "Color."
 
@@ -97,48 +97,48 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line width
+## Change the border line width
 
 1. Click on "Width" in the options panel.
 
 2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
-Round the corners
+## Round the corners
 
 Click in the check box for "Rounded" in the options panel. Uncheck the box to set the border back to square corners
 
-Adjust the padding
+## Adjust the padding
 
-Sets the padding \(extra white space\) around the element in 100ths of an inch \(25 = 1/4 inch, 40 = 1cm\).
+Sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
 1. Select the Padding option in the options pane.
 
-2. Select a side \(left, right, top, or bottom\) to change the value for that side.
+2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
 
-** Background Grid
+## BACKGROUND GRID
 
 Try adding a background grid to your exercise set to help students line up their written work in the space provided.
 
 !!! tip
     You provide a large calculating space for questions like multi-digit division or multiplication by increasing row spacing and hiding the answer lines. The background grid helps younger learners organize their work.
 
-Visible
+## Grid visibility
 
 Turn the "Visible" option on or off to show or hide the background grid for the exercise set.
 
-Change the color
+## Change the grid color
 
 1. In the options panel, find and select "Color."
 
-2. Click the three dots \(ellipsis\) in the color box to open the color picker.
+2. Click the three dots (ellipsis) in the color box to open the color picker.
 
 3. Choose the color you like.
 
 4. Click "OK" to save your choice and apply the new color.
 
-Cell Width and Cell Height
+## Cell width and height
 
 You can change the size of grid cells by adjusting their width and height. The measurements are in hundredths of an inch. For example:
 
@@ -150,7 +150,7 @@ You can change the size of grid cells by adjusting their width and height. The m
 
 2. Type in a new number, or use the up/down arrows to adjust the value. The number range is from 5 to 50.
 
-Style
+## Style
 
 Choose one of these types of background lines:
 

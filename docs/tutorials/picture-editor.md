@@ -34,38 +34,38 @@ Below the basic tools commands are a wide variety of standard image sizing and e
 
 The ribbon contains the basic commands for the Picture editor window.
 
-### Open Folder
+## Open Folder
 
 When Open Folder is clicked a Browse For Folder dialog appears. Locate the folder that contains the picture files you want to use, and click OK. The images will load into the picture selection pane. This may take a few minutes if there are a lot of images, or the images files are large.
 
-### Refresh Folder
+## Refresh Folder
 
 Click Refresh Folder to update the picture selection pane if new image files have been added to the folder while the Picture editor is open.
 
-### Reset Folder
+## Reset Folder
 
 Click Reset Folder to have the program automatically reset the Picture editor back to the default clip-art folder that comes with the program..
 
-### Paste
+## Paste
 
 Pastes a copied image or copied image file into the Preview pane.
 
 !!! tip
     You can copy pictures from other sources (e.g. Microsoft Word; websites; image files in another location on your computer), and paste them into the preview pane as long as they are one of these file types: .bmp, .gif, .jpg, .png, .tif and .wmf.
 
-### Cut
+## Cut
 
 Removes the image from the Preview pane, but holds the image in memory, so it can be pasted back into the Preview pane, or pasted into another program like Microsoft Word.
 
-### Copy
+## Copy
 
 Copies an image, and holds the image in memory so it can be pasted back into the Preview pane, or pasted into another program like Microsoft Word.
 
-### Delete
+## Delete
 
 Deletes the image from the preview pane, but does not hold the image in memory. It cannot be pasted back into the preview pane or into another program.
 
-### Options
+## Options
 
 Select Options in the Picture editor to set image size and image quality.
 

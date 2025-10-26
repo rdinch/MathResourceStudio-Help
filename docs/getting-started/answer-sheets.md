@@ -1,4 +1,4 @@
-﻿# Answer Sheets
+# Answer Sheets
 
 Math Resource Studio automatically generates answer sheets for your worksheets, making it easy to grade student work.
 
@@ -22,12 +22,12 @@ When you create a worksheet with activities, Math Resource Studio can generate a
 
 ## Answer Sheet Options
 
-### Display Options
+## Display Options
 - **Show work**: Include step-by-step solutions
 - **Answer format**: Numbers, fractions, or mixed format
 - **Layout**: Match worksheet layout or compact grid
 
-### Customization
+## Customization
 - **Headers and footers**: Add custom text to answer sheets
 - **Page numbering**: Include page numbers for multi-page worksheets
 - **Answer blanks**: Show or hide answer blanks for manual grading

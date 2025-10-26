@@ -31,6 +31,6 @@ Select one or more rows of objects in the grid and press Remove Row(s) to remove
 !!! tip
     To select more than one row at a time:
 
-- To select multiple objects, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the Object rows highlighted, let go of the Ctrl key and then select Remove Row(s)
+      - To select multiple objects, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the Object rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 
-- You can also use the Shift and arrow keys on the keyboard to highlight a group of objects in the of grid. Click in the blank area by a row with the mouse cursor by the first object you want to select in the grid. Release the mouse and hold down the Shift key and while using either the arrow up or arrow down key on the keyboard to select a group of object rows in the grid.
+      - You can also use the Shift and arrow keys on the keyboard to highlight a group of objects in the of grid. Click in the blank area by a row with the mouse cursor by the first object you want to select in the grid. Release the mouse and hold down the Shift key and while using either the arrow up or arrow down key on the keyboard to select a group of object rows in the grid.

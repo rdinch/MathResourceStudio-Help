@@ -6,19 +6,19 @@ Use the design element pre-labeled with numbers as a counting aid. Number Lines 
 
 Select Number Line from the list of Design Elements located on the Home ribbon to insert a number line below the currently selected element in the document.
 
-Set the number of units on the number line
+## Set the number of units on the number line
 
 1. Select the Units option in the options grid.
 
 2. Type a new value in the input field. Valid range is 1 to 20.
 
-Set the start point
+## Set the start point
 
 1. Select the Start Point option in the options grid.
 
 2. Type a new value in the input field. Valid range is -10000 to 10000.
 
-Set the increment
+## Set the increment
 
 1. Select the Increment option in the options grid.
 
@@ -27,11 +27,11 @@ Set the increment
 !!! tip
     For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10 and enter an Increment of 1.
 
-Show the unit numbers
+## Show the unit numbers
 
 Select or deselect the check box for the Show Unit Numbers option in the options grid to either show or hide the unit numbers.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -39,7 +39,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -49,7 +49,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line color
+## Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
@@ -57,7 +57,7 @@ Change the line color
 
 3. Click OK to close the dialog and apply the selected color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 

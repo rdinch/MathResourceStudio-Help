@@ -7,7 +7,7 @@ Select Line from the list of Design Elements located on the Home ribbon to inser
 !!! tip
     Do you have the exercise sets in two columns across the page but you would like a line in one column across the page? If so, add a new One Column Section first and then add a Line in the new section.
 
-Change the line color
+## Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
@@ -15,7 +15,7 @@ Change the line color
 
 3. Click OK to close the dialog and apply the selected color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 

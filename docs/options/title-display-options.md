@@ -1,6 +1,6 @@
 # Title Display Options
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
@@ -12,7 +12,7 @@ Customize the title for the exercise set
 
 2. Click in the text box to delete the existing text and enter your custom title for the exercise set.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -20,7 +20,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -30,7 +30,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Adjust the padding
+## Adjust the padding
 
 Sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 

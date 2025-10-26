@@ -7,8 +7,8 @@ Add, edit and organize the equation patterns to be used for the exercise set que
 
 1. Enter an equation pattern in the Pattern box above the grid. You can use the equation symbols buttons below the Pattern box located below the box, or you can enter equation symbols using the keyboard.
 
-!!! tip
-    If you are unsure what each equation symbol button does, hover your mouse over the button to display a tool tip.
+    !!! tip
+        If you are unsure what each equation symbol button does, hover your mouse over the button to display a tool tip.
 
 2. When the equation pattern is complete, select the green check mark to open a Preview of the equation. A sample problem will appear, giving you an opportunity to ensure the equation pattern appears and performs as you expect. Make any additional edits to the pattern that are needed.
 

@@ -1,10 +1,10 @@
 # Answers - Show Key, Answer Banks, Key Color and Answer Lines
 
-Show Key
+## Show Key
 
 For any document, click Show Key in the Answer Key section of the Home ribbon to display what the answer key will look like. Click Show Key again to hide the answers.
 
-Show Answer Banks
+## Show Answer Banks
 
 When working with a math document select the Answer Banks drop down arrow to select between Show All or Hide All. This is a global setting and will hide or show the answer banks for every exercise set included on the document.
 

@@ -18,7 +18,7 @@ The
 !!! note
     See for information about setting margins, paper size, and orientation.
 
-Set the number of copies to print
+## Set the number of copies to print
 
 The default is 1 document and 1 key. If Number of Worksheets or Number of Answer Keys is set to zero (0), no math worksheets or no answer keys will be printed.
 

@@ -4,8 +4,8 @@ Add, edit and organize problem templates with a solve for option used for , , , 
 
 1. Enter a problem template in the Template box above the grid. Use the tag buttons below the box to represent the various data fields in the problem (i.e. gross wages; rate; principal; percent; name; object, price, sales tax).
 
-!!! tip
-    If you are unsure what each tag button represents, hover your mouse over the button to display a tool tip.
+    !!! tip
+        If you are unsure what each tag button represents, hover your mouse over the button to display a tool tip.
 
 2. Set the Solve For box by selecting the drop down arrow. This setting determines how the equation is setup to calculate what is being solved for (i.e. net pay; principal; time; interest; total value; percent of value, total cost).
 

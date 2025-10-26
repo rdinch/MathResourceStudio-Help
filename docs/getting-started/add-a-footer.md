@@ -57,7 +57,7 @@ All text fields can be completely customized. Suggested data has been entered. I
 
 - Version Number: Enter the tag &lt;v&gt; to add a version number to the header or footer. The version number can be manually updated from the display bar located just below the document. If you use Regenerate Between Copies on the dialog, the version number will be automatically updated after each regeneration.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -65,7 +65,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -81,7 +81,7 @@ Visible
 
 A line can be added above the footer area. Check Visible to display the line.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -91,7 +91,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 
@@ -113,11 +113,11 @@ Display or hide the picture
 
 By default the picture is hidden. Check Visible to display the picture.
 
-Change the alignment
+## Change the alignment
 
 Select between the following alignments for the picture: Left, Center, Right.
 
-Change the picture
+## Change the picture
 
 Select Image in the options, then press the ellipsis button to display the to choose a different picture.
 

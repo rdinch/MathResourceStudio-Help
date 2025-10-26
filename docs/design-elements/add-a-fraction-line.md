@@ -6,29 +6,29 @@ Fraction Lines can be very helpful for students first learning fractions. Set th
 
 Select Fraction Line from the list of Design Elements located on the Home ribbon to insert a fraction line below the currently selected element in the document.
 
-Set the number of units on the fraction line
+## Set the number of units on the fraction line
 
 1. Select the Units option in the options grid.
 
 2. Type a new value in the input field. Valid range is 1 to 10.
 
-Set the start point
+## Set the start point
 
 1. Select the Start Point option in the options grid.
 
 2. Type a new value in the input field. Valid range is -1000 to 1000.
 
-Set the unit fraction
+## Set the unit fraction
 
 1. Select the Fraction option in the options grid.
 
 2. Type a new value in the input field. Valid range are is 1 to 16.
 
-Show the unit numbers
+## Show the unit numbers
 
 Select or deselect the check box for the Show Unit Numbers option in the options grid to either show or hide the unit numbers.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -36,7 +36,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -46,7 +46,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the line color
+## Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
@@ -54,7 +54,7 @@ Change the line color
 
 3. Click OK to close the dialog and apply the selected color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 

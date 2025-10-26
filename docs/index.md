@@ -26,14 +26,14 @@ What's New in Version 8
 
 ## Quick Navigation
 
-### [Getting Started](getting-started/create-a-new-document.md)
+## [Getting Started](getting-started/create-a-new-document.md)
 
 Learn the basics of creating and managing math worksheet documents.
 
-### [Exercise Sets](exercise-sets/Advanced Number Operations/advanced-addition.md)
+## [Exercise Sets](exercise-sets/Advanced Number Operations/advanced-addition.md)
 
 Explore all **147 different math exercise types** - from basic arithmetic to math puzzles.
 
-### [Tutorials](tutorials/change-the-program-options.md)
+## [Tutorials](tutorials/change-the-program-options.md)
 
 Step-by-step guides for working with the software features and dialogs.

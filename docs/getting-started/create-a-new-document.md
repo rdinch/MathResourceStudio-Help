@@ -1,3 +1,5 @@
+# Create a New Document
+
 ## Creating Your First Worksheet: the Basics
 
 1. Click **File > New** or press `Ctrl+N`

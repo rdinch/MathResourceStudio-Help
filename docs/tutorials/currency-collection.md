@@ -14,8 +14,8 @@ To create your own currency collection:
 
 4. Next, double-click the picture icon under Obverse Image (front) and then Reverse Image (back) to open the to add the images for the currency.
 
-!!! tip
-    You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
+    !!! tip
+        You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
 
 5. Continue adding currency images and values as needed, then use Save As to save your new currency collection.
 

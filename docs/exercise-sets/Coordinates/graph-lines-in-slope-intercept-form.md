@@ -1,6 +1,6 @@
-# Cartesian Coordinates - Single Quadrant
+# Graph Lines in Slope-Intercept Form
 
-This exercise set provides your students with practice in either identifying or plotting Cartesian coordinates on a single quadrant of a graph.
+The Graph Lines in Slope-Intercept Form provides your students with lots of practice in finding solutions for an equation in order to draw a line on grid.
 
 ## Change the number of exercises
 
@@ -39,24 +39,10 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
-
-## Show duplicate warning
-
-When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
-
-## Set the task
-
-1. To change the task from Identify Points or to Plot points, select Task in the options pane.
-
-2. Click the bubble by the desired task. The change will be made immediately to the exercise set.
-
-Set the maximum number of coordinate points displayed
-
-1. Select the input field for Number of Points in the options pane.
-
-2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values: 1 to 26.
+  
 ## Grid Options
-## Change the number of points on the x and y axes
+
+Change the number of points on the x and y axes
 
 1. Select the input field for Axis Points in Quadrant in the options pane.
 
@@ -109,27 +95,3 @@ Check or uncheck Show Axes Labels to show or hide the labels for the x and y axe
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
-## Adjust the Point Identity Table
-Number of Columns
-
-This option sets the number of columns the points are displayed in.
-
-1. Select the input field for Number of Columns in the options pane.
-
-2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 6.
-
-Row Spacing
-
-This option sets the spacing between the table rows in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
-
-1. Select the input field for the Row Spacing option in the options pane.
-
-2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 50.
-
-Optional Settings
-
-- [Exercise Set Display](../../options/exercise-set-display-options.md)
-- [Title](../../options/title-display-options.md)
-- [Instructions](../../options/instructions-display-options.md)
-- [Numbering](../../options/numbering-display-options.md)
-- [Answer Bank](../../options/answer-bank-display-options.md)

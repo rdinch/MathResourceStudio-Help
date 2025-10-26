@@ -16,12 +16,12 @@ Picture
 
 Display or hide the picture
 
-Change the picture
+## Change the picture
 
 !!! tip
     When selecting a picture to use in the header or footer, set Size Adjustment to control the size of the picture; there is no need to re-size the picture in the . Size Adjustment will control the size of the picture in the header or footer.
 
-Change the alignment
+## Change the alignment
 
 Adjust the size of the picture
 
@@ -34,7 +34,7 @@ Size Adjustment adjusts the height of the picture. The picture width will automa
 
 Title
 
-Change the title
+## Change the title
 
 The default text for Title can be easily replaced.
 
@@ -45,7 +45,7 @@ The default text for Title can be easily replaced.
 !!! note
     If the text for Title Text is completely removed, the space for the Title field will be removed from the Title Group on the document, making more space for other Title Group elements. So to hide the Title element, delete all of the text for Title Text.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -53,7 +53,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -63,7 +63,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the text alignment
+## Change the text alignment
 
 Select between a Left, Center or Right alignment for the title in the title group.
 
@@ -77,14 +77,14 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 Fields
 
-Change the field text
+## Change the field text
 
 Select a field option (Top Left, Top Right, Middle Left, Middle Right, Bottom Left, Bottom Right) in the options pane and enter the desired field text directly into the input field. Use the &lt;d&gt; tag or &lt;D&gt; tag to add an auto date. Example: &lt;d&gt; = 06/06/2013 &lt;D&gt; = June 6, 2013. You can also add days to the date: examples - &lt;d+2&gt;, &lt;D+5&gt;; the +2 would add two days, the +5 would add 5 days. Saved file names and the path to the saved file can be added to the fields using &lt;f&gt; for file and &lt;F&gt; for the file path. A number can also be added to the title group using the tag &lt;sn&gt;. Serial numbers are generated automatically and can be adjusted manually from the navigation bar located just above the worksheet document. A can also be added to a text field using the tag &lt;v&gt;. The version number can be manually adjusted by clicking the up or down arrow by Version number on the navigation bar, or by using Regenerate Between Copies when the document.
 
 !!! note
     You can remove the top, middle or bottom fields by deleting all of the text for both the left and right parts of the field. The text and lines will be removed moving up the remainder of the title group elements.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -92,7 +92,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -112,11 +112,11 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 Lines
 
-Show or hide the lines
+## Show or hide the lines
 
 Check or uncheck the Visible check box to show or hide the lines.
 
-Change the line color
+## Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.
 
@@ -124,7 +124,7 @@ Change the line color
 
 3. Click OK to close the dialog and apply the selected color.
 
-Change the line width
+## Change the line width
 
 1. Click on "Width" in the options panel.
 
@@ -132,11 +132,11 @@ Change the line width
 
 Epigraph
 
-Show or hide the epigraph
+## Show or hide the epigraph
 
 Check or uncheck the Visible check box to show or hide the epigraph.
 
-Change the epigraph text
+## Change the epigraph text
 
 There are two options for changing the epigraph text:
 
@@ -150,7 +150,7 @@ Or,
 
 3. Press OK to apply the change.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -158,7 +158,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -181,11 +181,11 @@ Sets the padding above or below the element in 100ths of an inch (25 = 1/4 inch,
 
 INSTRUCTIONS
 
-Show or hide the instructions
+## Show or hide the instructions
 
 Check or uncheck the Visible check box to show or hide the Instructions.
 
-Change the instructions text
+## Change the instructions text
 
 The default text for the Instructions can be easily replaced.
 
@@ -193,7 +193,7 @@ The default text for the Instructions can be easily replaced.
 
 2. When you have finished entering your text, select OK to close the text editing box. The updated instructions appear immediately in the title group on the document.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -201,7 +201,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 

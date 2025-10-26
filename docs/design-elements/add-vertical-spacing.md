@@ -4,7 +4,7 @@ The Vertical Spacing element inserts empty vertical space in the document. You c
 
 Select Vertical Spacing from the list of Design Elements located on the Home ribbon to insert a vertical spacing below the currently selected element in the document.
 
-Change the height
+## Change the height
 
 Sets the height of the vertical spacing in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 

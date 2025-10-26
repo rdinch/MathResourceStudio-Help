@@ -1,8 +1,9 @@
 # Epigraphs Editor
 
-The Epigraphs selector provides a way to create, edit, and combine epigraph\*\* collection files to use as part of document title groups or placed throughout a document as a design item.
+The Epigraphs selector provides a way to create, edit, and combine epigraph collection files to use as part of document title groups or placed throughout a document as a design item.
 
-\*\*What is an epigraph? In literature, an epigraph is a quotation placed at the start of a piece of work, or a chapter, or a section.
+!!! note
+    What is an epigraph? In literature, an epigraph is a quotation placed at the start of a piece of work, or a chapter, or a section.
 
 Create a new epigraphs collection
 
@@ -161,4 +162,3 @@ This feature is located on the View tab. Opens the Print dialog for the Epigraph
 Print Preview
 
 This feature is located on the View tab. The Print Preview function previews the epigraphs data printout on the computer screen.
-

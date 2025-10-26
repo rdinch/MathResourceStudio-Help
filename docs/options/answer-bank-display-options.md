@@ -1,24 +1,24 @@
 # Answer Bank Display Options
 
-Show the answer bank
+## Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
 
 2. To hide the answer bank, deselect the check box.
 
-Set the number of columns
+## Set the number of columns
 
 1. Select the Number of Columns option in the options grid and press the drop-down button to display the column options.
 
 2. Select the preferred number of columns between 1 and 10 or select Auto to automatically set the number of columns according to best fit.
 
-Change the numbering style
+## Change the numbering style
 
 1. Select the Number Style option in the options grid and press the drop-down button to display the style options.
 
 2. Select the preferred style from: none, lowercase, uppercase, numeric.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -26,7 +26,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 
@@ -36,7 +36,7 @@ Change the color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the background color
+## Change the background color
 
 1. In the options panel, find and select "Background Color."
 
@@ -46,7 +46,7 @@ Change the background color
 
 4. Click "OK" to save your choice and apply the new color.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -54,7 +54,7 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Change the top padding
+## Change the top padding
 
 Sets the padding (extra white space) between the top of the answer bank and the exercises above it in 100ths of an inch (24 = 1/4 inch, 40 = 1cm). Valid range: 0 to 100.
 

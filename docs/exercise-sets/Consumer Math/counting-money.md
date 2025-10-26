@@ -4,13 +4,13 @@ The Counting Money exercise set gives students practice in adding up currency to
 
 Use the Currency Collection editor to select an included currency, or to create your own local currency collection. Included currencies: AUD (Australia), CAD (Canada), EUR (Euro), GBP (UK pound), NZD (New Zealand), USD (United States of America).
 
-Change the number of exercises
+## Change the number of exercises
 
 1. Click on the box labeled "Number of Exercises" in the options panel.
 
 2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -18,25 +18,25 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
 2. To hide the exercise set title, deselect the check box.
 
-Show instructions
+## Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
 
-Show the answer bank
+## Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
 
 2. To hide the answer bank, deselect the check box.
 
-Show duplicate warning
+## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
 
@@ -48,21 +48,21 @@ Add and edit currency collection
 
 3. When selection and editing are completed, click OK to close the editor and apply the changes to the math document.
 
-Set the number of coins
+## Set the number of coins
 
 1. To set the number of coins to use for the questions, select the drop-down arrow for the Number of Units option in the options pane.
 
 2. Select the desired unit numbers, then press OK to apply the selections.
 
-Set the unit order
+## Set the unit order
 
-Select the order the money units are presented in.
+## Select the order the money units are presented in.
 
 1. To set the unit order for the activity, select the Unit Order option in the options pane.
 
 2. Select the desired order - Descending (largest to smallest value of currency), Ascending (smallest to largest value of currency), or Random (no particular order).
 
-Set the unit side
+## Set the unit side
 
 Select whether to display the Obverse (heads or front), the Reverse (tails or back), or Mixed (a mixture of the two coin sides) sides of the currency.
 
@@ -70,7 +70,7 @@ Select whether to display the Obverse (heads or front), the Reverse (tails or ba
 
 2. Select the desired side.
 
-Set the size of the money
+## Set the size of the money
 
 Sets the size of the money as a percent of actual size. Valid range is 50% to 100%.
 
@@ -78,7 +78,7 @@ Sets the size of the money as a percent of actual size. Valid range is 50% to 10
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value.
 
-Set the unit lines
+## Set the unit lines
 
 Select the box for Unit Lines to display a line under each image for writing the unit value of the currency. When checked, lines are displayed; when unchecked, the lines are hidden.
 

@@ -1,6 +1,6 @@
 # Add an exercise set
 
-To a New Document
+## To a New Document
 
 1. Open Math Resource Studio.
 
@@ -10,7 +10,7 @@ To a New Document
 
 4. To another exercise set to that same document, click again on the name of any exercise set.
 
-To an Existing Document
+## To an Existing Document
 
 When adding a new exercise set to a document that already has exercise sets and design items, the newly selected exercise set will be placed after the active exercise set or design item.
 

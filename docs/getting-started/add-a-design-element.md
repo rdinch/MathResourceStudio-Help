@@ -1,6 +1,6 @@
 # Add a design element
 
-To a New Document
+## To a New Document
 
 1. Open Math Resource Studio.
 
@@ -12,7 +12,7 @@ To a New Document
 
 5. To add additional design elements, click the down arrow for Design Elements and select again from the list.
 
-To an Existing Document
+## To an Existing Document
 
 When adding a new design item to a document that already has exercise sets and design items, the newly selected design item will be placed after the active set of questions or design element.
 

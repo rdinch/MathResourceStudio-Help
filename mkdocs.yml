@@ -132,6 +132,7 @@ nav:
     - COORDINATES:
       - "Cartesian Coordinates: Four Quadrants": exercise-sets/Coordinates/cartesian-coordinates---four-quadrants.md
       - "Cartesian Coordinates: Single Quadrant": exercise-sets/Coordinates/cartesian-coordinates---single-quadrant.md
+      - "Graph Lines In Slope Intercept Form": exercise-sets/Coordinates/graph-lines-in-slope-intercept-form.md
       - "Plot Lines": exercise-sets/Coordinates/plot-lines.md
     - CUSTOM:
       - "Custom Questions": exercise-sets/Custom/custom-questions.md
@@ -269,7 +270,6 @@ nav:
     - "Epigraphs Editor": tutorials/epigraphs-editor.md
     - "Global Colors   Set The Font Colors": tutorials/global-colors---set-the-font-colors.md
     - "Global Fonts   Set The Font": tutorials/global-fonts---set-the-font.md
-    - "Graph Lines In Slope Intercept Form": tutorials/graph-lines-in-slope-intercept-form.md
     - "Image Collection": tutorials/image-collection.md
     - "Picture Editor": tutorials/picture-editor.md
     - "Place Value Names Editor": tutorials/place-value-names-editor.md

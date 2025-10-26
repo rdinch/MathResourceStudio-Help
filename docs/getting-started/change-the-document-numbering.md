@@ -2,7 +2,7 @@
 
 The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering select Numbering on the Home ribbon.
 
-Numbering System
+## Numbering System
 
 This setting determines the numbering system for the whole document.
 
@@ -16,7 +16,7 @@ This setting determines the numbering system for the whole document.
 
 - Exercise Set - No Letter: questions are numbered 1, 2, 3, 4, etc. within each exercise set, but each set of questions has no lettering
 
-Numbering Style
+## Numbering Style
 
 This setting determines the numbering style for the whole document.
 
@@ -26,17 +26,17 @@ This setting determines the numbering style for the whole document.
 
 - Circle: each number is circled.
 
-Numbering Direction
+## Numbering Direction
 
 Select the numbering direction for questions when the number of questions for an exercise set results in more than one row of questions. Numbering can run By Row or By Column.
 
-Change the font
+## Change the font
 
 1. In the Numbering dialog, select the preferred Font name, Style, and Size. The Preview box displays your selections.
 
 2. Click OK to close the dialog and apply the selected font selections.
 
-Change the color
+## Change the color
 
 1. In the Numbering dialog use the Color picker to select the preferred color. The Preview box displays your selection.
 

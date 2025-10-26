@@ -13,8 +13,8 @@ To edit or create your own image collection:
 
 3. Double-click the picture icon under Image to open the to add an image.
 
-!!! tip
-    You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
+    !!! tip
+        You can copy the images from other sources - like Microsoft Word or web pages - and paste the images into the Picture editor.
 
 4. Continue adding images, then use Save As to save your new image collection.
 
@@ -39,6 +39,6 @@ Select one or more rows in the grid and press Remove Row(s) to remove the rows.
 !!! tip
     To select more than one row at a time:
 
-- To select multiple rows, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the rows highlighted, let go of the Ctrl key and then select Remove Row(s)
+      - To select multiple rows, click in the blank area by a row with the mouse cursor, then hold down the Ctrl key on the keyboard and click by additional rows. When you have all the rows highlighted, let go of the Ctrl key and then select Remove Row(s)
 
-- You can also use the Shift and arrow keys on the keyboard to highlight a group of rows in the of grid. Click in the blank area by a row with the mouse cursor by the first row you want to select in the grid. Release the mouse and hold down the Shift key and while using either the arrow up or arrow down key on the keyboard to select a group of rows in the grid.
+      - You can also use the Shift and arrow keys on the keyboard to highlight a group of rows in the of grid. Click in the blank area by a row with the mouse cursor by the first row you want to select in the grid. Release the mouse and hold down the Shift key and while using either the arrow up or arrow down key on the keyboard to select a group of rows in the grid.

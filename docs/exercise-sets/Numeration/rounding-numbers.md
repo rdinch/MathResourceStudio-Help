@@ -4,13 +4,13 @@ The Rounding Numbers exercise set has the students determine for each question w
 
 Choose from two rounding methods: Common or Unbiased.
 
-Change the number of exercises
+## Change the number of exercises
 
 1. Click on the box labeled "Number of Exercises" in the options panel.
 
 2. Type in a new number or use the up and down arrows to change the value. You can choose any number from 1 to 200.
 
-Change the number of exercises in a row
+## Change the number of exercises in a row
 
 1. Select "Exercises per Row" in the options panel.
 
@@ -22,7 +22,7 @@ Notes:
 
 - For word problems exercises sets, you can only choose 1 or 2 exercises per row.
 
-Change the row spacing
+## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
@@ -30,29 +30,29 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range is 0 to 300.
 
-Show title
+## Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
 
 2. To hide the exercise set title, deselect the check box.
 
-Show instructions
+## Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
 
-Show the answer bank
+## Show the answer bank
 
 1. To show the answer bank, select the check box for the Show Answer Bank option in the options pane.
 
 2. To hide the answer bank, deselect the check box.
 
-Show duplicate warning
+## Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
 
-Set the rounding method
+## Set the rounding method
 
 Set the rounding method, common or unbiased (banker's), for the exercise.
 
@@ -60,7 +60,7 @@ Set the rounding method, common or unbiased (banker's), for the exercise.
 
 2. Click in the bubble next to the desired method. The exercise set is updated immediately.
 
-Change the place values to round to
+## Change the place values to round to
 
 1. To change the place values to round to, select the Round To option in the options pane and press the ellipsis button.
 
@@ -69,7 +69,7 @@ Change the place values to round to
 !!! note
     The values to round to must fall within the generated numeric vales so that a digit (the value to round) is underline in every question. If the number generated does not contain an underlined value to round to, the answer will simple be the unrounded number.
 
-Change the range of values
+## Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -80,7 +80,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-Change the distribution of values
+## Change the distribution of values
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 

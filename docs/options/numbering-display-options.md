@@ -1,12 +1,12 @@
 # Numbering Display Options
 
-Change the numbering direction
+## Change the numbering direction
 
 1. Select the Numbering Direction option in the options pane and press the drop-down button to display the numbering options.
 
 2. Select between numbering by row or numbering by column.
 
-Change the font
+## Change the font
 
 1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
 
@@ -14,7 +14,7 @@ Change the font
 
 3. Click OK to close the dialog and apply the selected font.
 
-Change the color
+## Change the color
 
 1. In the options panel, find and select "Color."
 

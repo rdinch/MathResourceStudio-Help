@@ -76,9 +76,7 @@ The currency option automatically formats each number into currency format and w
 
 !!! note
     The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
-
-**Addition**
-
+### Addition
 Addend 1 and 2
 
 Change the range of values
@@ -119,9 +117,7 @@ Use or change decimal values
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 - select 4 decimal places and the number will become 0.0256
-
-**Subtraction**
-
+### Subtraction
 Minuend and Subtrahend
 
 Change the range of values
@@ -167,9 +163,7 @@ Select this option if you want negative differences are allowed. To allow or not
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 !!! note
     If this option is unchecked and the range for the Subtrahend does not support non-negative solutions, the range for the Minuend will take precedence.
-
-**Multiplication**
-
+### Multiplication
 Multiplicand and Multiplier
 
 Change the range of values
@@ -208,9 +202,7 @@ Round the values
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
-
-**Division**
-
+### Division
 Dividend and Divisor
 
 Change the range of values

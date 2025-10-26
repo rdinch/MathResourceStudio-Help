@@ -56,9 +56,7 @@ Set the maximum number of coordinate points displayed
 
 !!! note
     This setting is the **maximum** number of coordinate points displayed. The actual number of points to be identified or plotted are determined by the slope of the line, which means some questions will have fewer points displayed than the selected maximum.
-
-**Grid Options**
-
+### Grid Options
 Change the number of points on the x and y axes
 
 1. Select the input field for Axis Points in Quadrant in the options pane.
@@ -112,9 +110,7 @@ Change the x and y axes lines color
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
-
-**Adjust the Point Identity Table**
-
+### Adjust the Point Identity Table
 Number of Columns
 
 This option sets the number of columns the points are displayed in.

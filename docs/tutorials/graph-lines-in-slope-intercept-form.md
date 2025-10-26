@@ -39,9 +39,7 @@ Show instructions
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
 
 2. To hide the exercise set instructions, deselect the check box.
-
-**Grid Options**
-
+### Grid Options
 Change the number of points on the x and y axes
 
 1. Select the input field for Axis Points in Quadrant in the options pane.
@@ -95,9 +93,7 @@ Change the x and y axes lines color
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
-
-**Exercise Set Display Options**
-
+### Exercise Set Display Options
 Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
@@ -143,9 +139,7 @@ Change the background color
 2. Choose the color you like.
 
 3. Click "OK" to save your choice and apply the new color.
-
-**Add a Border**
-
+### Add a Border
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
 Change the color
@@ -177,9 +171,7 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
-
-**Title Display Options**
-
+### Title Display Options
 Show title
 
 1. To show the exercise set Title, select the check box for the Show Title option in the options pane.
@@ -219,9 +211,7 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
-
-**Instructions Display Options**
-
+### Instructions Display Options
 Show instructions
 
 1. To show the exercise set Instructions, select the check box for the Show Instructions option in the options pane.
@@ -261,9 +251,7 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
-
-**Numbering Display Options**
-
+### Numbering Display Options
 Change the numbering direction
 
 1. Select the Numbering Direction option in the options pane and press the drop-down button to display the numbering options.

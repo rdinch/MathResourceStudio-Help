@@ -72,9 +72,7 @@ Sets the cell size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 1. Select the input field for the Cell Size option in the options pane.
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values are 25 to 100.
-
-**Count By and Start At**
-
+### Count By and Start At
 Set up the ranges for both Count By and Start At.
 
 Change the range of values

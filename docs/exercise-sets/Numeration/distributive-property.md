@@ -49,9 +49,7 @@ Show the answer bank
 Show duplicate warning
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
-
-**NUMBER VALUE**
-
+### NUMBER VALUE
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

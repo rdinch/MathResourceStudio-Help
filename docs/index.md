@@ -26,7 +26,7 @@ What's New in Version 8
 
 ## Quick Navigation
 
-### [Getting Started](creating-math-documents/create-a-new-document.md)
+### [Getting Started](getting-started/create-a-new-document.md)
 
 Learn the basics of creating and managing math worksheet documents.
 

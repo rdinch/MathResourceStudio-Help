@@ -103,9 +103,7 @@ Show answers as mixed numbers
 Control the renaming of fractions
 
 When this option is checked, the fractional component of answers will always be less than one. However, if improper fractions have been selected for the problem values, this option does not apply.,
-
-**Divisor and Dividend**
-
+### Divisor and Dividend
 Change the denominators
 
 1. To change the denominators, select the drop-down arrow for the Denominators option in the options pane.

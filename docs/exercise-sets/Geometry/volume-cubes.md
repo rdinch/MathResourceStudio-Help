@@ -65,9 +65,7 @@ By default the answer is followed by the text "cubic units". The words used in t
 1. Select the Answer Unit Text option in the options pane.
 
 2. Click in the pane box, and enter the desired text directly into the input field.
-
-**SET PARAMETERS FOR THE WIDTH, HEIGHT AND DEPTH OF THE SHAPES**
-
+### SET PARAMETERS FOR THE WIDTH, HEIGHT AND DEPTH OF THE SHAPES
 Set the height
 
 Sets the minimum and maximum height of the shapes in cubic units.

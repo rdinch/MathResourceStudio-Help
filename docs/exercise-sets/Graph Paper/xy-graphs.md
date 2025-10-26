@@ -67,9 +67,7 @@ Sets the graph size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 Select the line style for the graph
 
 You can select between line styles for the graph - a solid line style or dotted line style.
-
-**Change the Scales Parameters**
-
+### Change the Scales Parameters
 Display the scales
 
 To display or not display the scale, select or deselect the check box for the Visible option in the options pane.

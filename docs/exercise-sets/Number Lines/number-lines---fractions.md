@@ -64,9 +64,7 @@ Set the start point for the numbers on the lines
 
 !!! note
     Range is from -9999 to 9999. Use the hyphen as the negative sign, i.e. -10, -999, -1000.
-
-**Line Format**
-
+### Line Format
 Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.

@@ -33,9 +33,7 @@ Sets the padding (extra white space) around the element in 100ths of an inch (25
 2. Select a side (left, right, top, or bottom) to change the value for that side.
 
 3. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 100.
-
-**Add a Border**
-
+### Add a Border
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
 Change the color

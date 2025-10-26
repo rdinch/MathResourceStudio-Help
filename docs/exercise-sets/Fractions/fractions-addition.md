@@ -78,9 +78,7 @@ When No Renaming of Answers is checked, no renaming of answers is required; the 
 Change the question orientation
 
 Select whether to have the questions appear in vertical or horizontal orientation. To set the question orientation, select the desired orientation option (Vertical or Horizontal) for the Exercise Orientation option in the options pane.
-
-**ADDEND 1 AND ADDEND 2**
-
+### ADDEND 1 AND ADDEND 2
 Change the denominators
 
 1. To change the denominators, select the drop-down arrow for the Denominators option in the options pane.

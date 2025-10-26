@@ -57,9 +57,7 @@ Add, edit and select equation patterns
 2. Add, edit, and select the equation patterns and save your changes.
 
 3. Click OK to close the editor and apply the changes to the math document.
-
-**Numbers**
-
+### Numbers
 Set the range for any Numbers (n) used in the equation patterns. The range is -999 to 999.
 
 Change the range of values
@@ -72,9 +70,7 @@ To achieve values within a set range, set the the high end of the range and the 
 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
-
-**Fraction 1 and Fraction 2**
-
+### Fraction 1 and Fraction 2
 You can create equation patterns that use just the Fraction 1 format, or just the Fraction 2 format, or both fraction formats in the same equation. Set up the options that control the formats for Fraction 1 and Fraction 2.
 
 Change the denominators
@@ -103,9 +99,7 @@ Enforce lowest terms
 Set the sign for the fractions
 
 Select whether to have only positive fractions, or only negative fractions, or mixed signed fractions for the equations. Click by Positive, Negative or Mixed to make your selection.
-
-**Cardinal Numbers**
-
+### Cardinal Numbers
 Allow cardinal numbers
 
 1. To allow cardinal numbers to be used with the fractions, click in the check box by Use Cardinal Numbers in the options pane.

@@ -64,9 +64,7 @@ Set the value of Pi
 1. To set the value for Pi, select the Value of Pi option in the options pane.
 
 2. Select the bubble by the desired value.
-
-**Measure Of The Radius**
-
+### Measure Of The Radius
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

@@ -107,9 +107,7 @@ When this option is checked, the fractional component of answers will always be 
 Control Regrouping for Mixed Numbers
 
 When the option No Regrouping with Mixed Numbers is selected there will be no regrouping required when the minuend is a mixed number. Uncheck this option to allow regrouping when the minuend is a mixed number.
-
-**MINUEND AND SUBTRAHEND**
-
+### MINUEND AND SUBTRAHEND
 Change the denominators
 
 1. To change the denominators, select the drop-down arrow for the Denominators option in the options pane.

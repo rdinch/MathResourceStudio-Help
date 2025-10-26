@@ -63,9 +63,7 @@ Change the image size
 1. To change the image size, select the drop-down arrow beside the Image Size option in the options pane.
 
 2. Select the desired image size from the drop-down list; select from a range of X-Small to X-Large.
-
-**Addend 1 And Addend 2**
-
+### Addend 1 And Addend 2
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
@@ -76,9 +74,7 @@ To achieve values within a set range, set the the high end of the range and the 
 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
-
-**Limit Sums**
-
+### Limit Sums
 Apply sum limits
 
 To limit the sums as defined by the Minimum Sum and Maximum Sum options, select the check box for the Apply Limits option in the options pane.

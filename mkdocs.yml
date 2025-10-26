@@ -275,9 +275,12 @@ nav:
     - "Place Value Names Editor": tutorials/place-value-names-editor.md
     - "Thesaurus": tutorials/thesaurus.md
   - Options:
+    - "Answer Bank Display Options": options/answer-bank-display-options.md
     - "Exercise Set Display Options": options/exercise-set-display-options.md
-    - "Title Display Options": options/title-display-options.md
-    - "Instructions Display Options": options/instructions-display-options.md 
-    - "Numbering Display Options": options/numbering-display-options.md       
-    - "Answer Bank Display Options": options/answer-bank-display-options.md    
+    - "First Question Answer Display Options": options/first-question-answer-display-options.md
+    - "Instructions Display Options": options/instructions-display-options.md
+    - "Marks Display Options": options/marks-display-options.md
+    - "Multiple Choice Options": options/multiple-choice-options.md
+    - "Numbering Display Options": options/numbering-display-options.md
+    - "Title Display Options": options/title-display-options.md    
     

@@ -68,9 +68,7 @@ Set the start point for the numbers on the lines
     Range is from -9999 to 9999. Use the hyphen as the negative sign, i.e. -10, -999, -1000.
 
 3. Change the distribution of the values - This feature determines whether the randomly selected numbers are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers. To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-
-**Line Format**
-
+### Line Format
 Change the line color
 
 1. Select the Line Color option in the options pane and press the ellipsis button to display the color selection dialog.

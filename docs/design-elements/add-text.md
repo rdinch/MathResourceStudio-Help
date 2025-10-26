@@ -60,9 +60,7 @@ Change the alignment
 1. Select the Alignment option in the options pane.
 
 2. Select Left, Center, or Right alignment.
-
-**Add a Border**
-
+### Add a Border
 To show a border around an object, click the Border option in the options panel. Then, check the boxes for the sides you want to see the border on. Uncheck the boxes for the sides you don't want a border on.
 
 Change the color

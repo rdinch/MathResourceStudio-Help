@@ -55,9 +55,7 @@ Set the maximum number of coordinate points displayed
 1. Select the input field for Number of Points in the options pane.
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values: 1 to 26.
-
-**Grid Options**
-
+### Grid Options
 Change the number of points on the x and y axes
 
 1. Select the input field for Axis Points in Quadrant in the options pane.
@@ -111,9 +109,7 @@ Change the x and y axes lines color
 2. Use the color picker to select the preferred color.
 
 3. Click OK to close the dialog and apply the selected color.
-
-**Adjust the Point Identity Table**
-
+### Adjust the Point Identity Table
 Number of Columns
 
 This option sets the number of columns the points are displayed in.

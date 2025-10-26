@@ -85,9 +85,7 @@ Round prices to
 This option sets the prices to the nearest value selected. Select from common values between one cent (0.01) and one dollar (1.00) by clicking in the bubble by your selection.
 
 Examples: 0.01 selected will result in prices like $1.33 or $5.27; 0.10 selected will result in prices like $1.20 or $6.70; 1.00 selected will result in prices like $2.00 or 11.00.
-
-**QUANTITY**
-
+### QUANTITY
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
@@ -108,9 +106,7 @@ This option provides a variety choices for how numbers are displayed in the prob
 
 !!! tip
     Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
-
-**DISCOUNT AND SALES TAX**
-
+### DISCOUNT AND SALES TAX
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

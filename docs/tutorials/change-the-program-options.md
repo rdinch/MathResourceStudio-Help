@@ -15,7 +15,7 @@ Display provides a way to personalize the look of Math Resource Studio on your c
 
 Folders
 
-The Folders area provides a way to customize the default folders for saving and accessing things like document files, clipart and epigraphs.
+The Folders area provides a way to customize the default folders for saving and accessing things like document files, clip art and epigraphs.
 
 Click the open file folder icon to the right of each folder location box to browse for the new folder location you would like to set as the default for each item.
 
@@ -58,11 +58,11 @@ Some alternate symbols for division formats have been provided. Plus, there is a
 
 1. Select Application Options on the Home ribbon.
 
-5. When the Math Resource Studio Options window opens, select Alternate Symbols. Choose one of the settings for each of the horizontal and vertical Division formats.
+2. When the Math Resource Studio Options window opens, select Alternate Symbols. Choose one of the settings for each of the horizontal and vertical Division formats.
 
-2. Then customize the Alternate For Of feature, which will replace the word 'of' in the following exercise sets: Multiplication with Whole Numbers, Percent of Numbers - Advanced, Percent of Numbers - Basic.
+3. Then customize the Alternate For Of feature, which will replace the word 'of' in the following exercise sets: Multiplication with Whole Numbers, Percent of Numbers - Advanced, Percent of Numbers - Basic.
 
-3. Click OK to apply and save the settings, and close the application options window.
+4. Click OK to apply and save the settings, and close the application options window.
 
 Digit Grouping
 

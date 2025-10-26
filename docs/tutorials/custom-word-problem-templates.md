@@ -14,8 +14,8 @@ Depending on how you like to organize your material, build one large collection 
 
 2. Enter word problem text to the Question Template box. Then use the tag buttons below the Question Template box to replace the problem numbers, names or objects.
 
-!!! note
-    It is not necessary to place name and object tags in a word problem template if you would prefer that names or objects are not randomly filled from the Problem Names and Problem Objects collections.
+    !!! note
+        It is not necessary to place name and object tags in a word problem template if you would prefer that names or objects are not randomly filled from the Problem Names and Problem Objects collections.
 
 3. As number tags are placed in the Template box, those tags will automatically be placed in the Answer Formula box. In the Answer Formula box you will set up the formula for the word problem template using the equation symbols located below the box (you can also enter equation symbols using the keyboard if you prefer).
 

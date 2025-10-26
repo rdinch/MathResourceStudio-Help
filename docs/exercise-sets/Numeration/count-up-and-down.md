@@ -69,9 +69,7 @@ Sets the cell size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 1. Select the input field for the Cell Size option in the options pane.
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values are 25 to 200.
-
-**Change Count Up and Count Down Options**
-
+### Change Count Up and Count Down Options
 Make the count direction active
 
 To make the count direction active or inactive by selecting or deselecting the check box for the Count Up or Count Down Is Active options in the options pane.

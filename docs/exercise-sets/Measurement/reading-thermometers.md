@@ -61,9 +61,7 @@ Each thermometer can display both the Fahrenheit and Celsius scales. Choose betw
 Set the height of the thermometer
 
 The height of the thermometers can be adjusted. Type a new value in the input field or use the up and down arrows to increase or decrease the value; 100ths of an inch (25 = 1/4 inch, 40 = 1cm). The range is from 300 to 800.
-
-**SET THE FAHRENHEIT AND CELSIUS RANGES**
-
+### SET THE FAHRENHEIT AND CELSIUS RANGES
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

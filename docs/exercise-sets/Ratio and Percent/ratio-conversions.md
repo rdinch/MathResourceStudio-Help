@@ -56,9 +56,9 @@ Change how the ratio is represented
 
 The option determines whether the ratio is a part-to-part or part-to-whole representation:
 
-- Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement “There are 5 apples for every 7 oranges ” expresses a part-to-part ratio.
+- Part-to-Part Ratio - A ratio which compares a part of the whole to another part of the whole. For example, the statement ï¿½There are 5 apples for every 7 oranges ï¿½ expresses a part-to-part ratio.
 
-- Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement “3 out of 5 crayons are red” expresses a part-to-whole ratio. The statement “2 out of 5 crayons are blue” also expresses a part-to-whole ratio.
+- Part-to-Whole Ratio - A ratio which compares a part of the whole to the whole. For example, the statement ï¿½3 out of 5 crayons are redï¿½ expresses a part-to-whole ratio. The statement ï¿½2 out of 5 crayons are blueï¿½ also expresses a part-to-whole ratio.
 
 1. To change how the ratio is represented, select the Ratio As option in the options pane.
 
@@ -83,7 +83,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-**Table Options**
+*** Table Options
 
 Change the table width
 
@@ -104,3 +104,4 @@ Optional Settings
 - [Instructions](../../options/instructions-display-options.md)
 - [Numbering](../../options/numbering-display-options.md)
 - [Answer Bank](../../options/answer-bank-display-options.md)
+  

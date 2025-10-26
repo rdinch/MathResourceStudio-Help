@@ -63,9 +63,7 @@ By default, only Addition questions are selected. Click in a check box by an ope
 Change the question orientation
 
 Select whether to have the questions appear in vertical or horizontal orientation. To set the question orientation, select the desired orientation option (Vertical or Horizontal) for the Exercise Orientation option in the options pane.
-
-**Addition**
-
+### Addition
 Addend 1 and 2
 
 Change the range of values
@@ -107,9 +105,7 @@ Set the maximum sum
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 2. Type a new value in the field. Valid range is 0 to 99,999.
-
-**Subtraction**
-
+### Subtraction
 Minuend and Subtrahend
 
 Change the range of values
@@ -150,9 +146,7 @@ To set the distribution of values, select the desired distribution option (Norma
 !!! tip
     If you would like all questions to have a difference of 10, set both the Minimum Difference and Maximum Difference to 10.
 2. Type a new value in the field. Valid range is 0 to 9999.
-
-**Multiplication**
-
+### Multiplication
 Generate exercises with no regrouping
 
 The No Regrouping option can be used to generate multiplication questions that require no regrouping to solve. This option will override range settings for multiplicand and multiplier.
@@ -185,11 +179,7 @@ Change the distribution of values
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-
-**Division**
-
-**DIVIDEND AND DIVISOR**
-
+### Division### DIVIDEND AND DIVISOR
 Change the range of values
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.

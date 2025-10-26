@@ -64,9 +64,7 @@ To achieve values within a set range, set the the high end of the range and the 
 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
-
-**Change The Table Parameters**
-
+### Change The Table Parameters
 Change the table completion
 
 Students can fill in the blanks of the input output table, or the table can be completed for them so only the rule needs to be identified.

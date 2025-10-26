@@ -57,9 +57,7 @@ Select between two options for handling the target number in the subtraction equ
 - subtract from target
 
 - subtract target
-
-**Target Number**
-
+### Target Number
 Locked
 
 Check this option to lock the target numbers at their current values. When locked, generating new vales or changes to Range or Distribution will have no effect on the target numbers.
@@ -97,9 +95,7 @@ Use or change decimal values
     - select 2 decimal places and the number will become 2.56
 
     - select 4 decimal places and the number will become 0.0256
-
-**Ring Numbers**
-
+### Ring Numbers
 Locked
 
 Change the range of values

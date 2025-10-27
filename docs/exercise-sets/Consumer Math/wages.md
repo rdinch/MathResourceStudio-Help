@@ -107,7 +107,7 @@ Set the range of values for deductions in the problems as a percent of gross pay
 !!! tip
     For a specific percent (e.g. 17.5%), set the high and low range to the same value and set Decimals to the appropriate place. Example: To set the deductions to 17.5%, set Range High to 175, Range Low to 175 and Decimals to 1. The program now knows that one decimal place should be set for the number 175, giving you 17.5%.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

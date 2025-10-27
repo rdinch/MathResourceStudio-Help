@@ -80,7 +80,7 @@ To display or not display the scale, select or deselect the check box for the Vi
 
 2. Type a new value in the field. Valid values are 1 to 999.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

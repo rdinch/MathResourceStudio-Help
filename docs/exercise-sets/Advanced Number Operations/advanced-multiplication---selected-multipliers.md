@@ -117,7 +117,7 @@ Multiplier
 
 2. Select the desired multipliers, then click OK to apply the selections to the math document.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

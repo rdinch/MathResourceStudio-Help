@@ -76,7 +76,7 @@ Select one or a variety of letters to represent the variable (v) in the equation
 
 2. Select the desired variable letters, and click OK to apply the selections to the questions.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

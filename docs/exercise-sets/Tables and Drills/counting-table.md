@@ -97,7 +97,7 @@ To change the value the counting sequence is incremented by (the amount by which
 
 2. Type a new number in the field. Valid range is -1,000 to 1,000.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

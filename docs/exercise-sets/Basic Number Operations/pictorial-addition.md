@@ -101,7 +101,7 @@ To limit the sums as defined by the Minimum Sum and Maximum Sum options, select 
 
 2. Type a new value in the field.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

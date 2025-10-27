@@ -89,7 +89,7 @@ Use a conjunction between integers and decimals
 
 When checked, the option Conjunction - Integers and Decimals will include a conjunction between integer values and decimal values. Example: $18.75 - eighteen dollars *and* seventy-five cents. When unchecked, the conjunction is left out.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

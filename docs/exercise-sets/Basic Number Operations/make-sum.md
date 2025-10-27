@@ -73,7 +73,7 @@ This feature determines whether the randomly selected numbers for the questions 
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

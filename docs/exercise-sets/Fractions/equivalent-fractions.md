@@ -70,7 +70,7 @@ Change which values are hidden
 
 3. Click OK to apply the selected denominators.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

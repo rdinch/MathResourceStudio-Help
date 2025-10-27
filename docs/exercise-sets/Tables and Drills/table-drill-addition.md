@@ -85,7 +85,7 @@ To change the order of the generated numbers, select the drop-down arrow for the
 
 Select an order option from the drop-down list of options - Random, Ascending or Descending.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

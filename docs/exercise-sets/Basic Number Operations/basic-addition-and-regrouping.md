@@ -119,7 +119,7 @@ Specifies regrouping for the thousands column where regrouping is possible. May 
 
 2. Select Yes, No, or Random.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -133,7 +133,7 @@ Enclose negative values in parentheses
 
 Automatically enclose negative values in parentheses to prevent consecutive symbols. For example, y + -5 will become y + (-5). To prevent consecutive symbols, select the check box for the Prevent Consecutive Symbols option in the options pane.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

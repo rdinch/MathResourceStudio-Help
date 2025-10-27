@@ -75,7 +75,7 @@ Determines the maximum number of multiples to list for each number.
 
 2. Type a new number in the field or use the up and down arrows to increase or decrease the value. Valid values are 1 to 10.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

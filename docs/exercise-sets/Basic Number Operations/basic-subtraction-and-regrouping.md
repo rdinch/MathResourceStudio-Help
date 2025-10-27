@@ -119,7 +119,7 @@ Only zeros in particular place values
 
 2. Select the check box adjacent to each of the place values where zeros should appear.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

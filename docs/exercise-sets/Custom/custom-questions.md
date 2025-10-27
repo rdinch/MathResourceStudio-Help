@@ -63,7 +63,7 @@ If pictures are present in the questions or answers, select from the following a
 !!! note
     This setting applies to all custom questions in the exercise set.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

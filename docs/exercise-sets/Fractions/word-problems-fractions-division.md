@@ -153,7 +153,7 @@ Change how cardinal numbers are displayed
 
 To change how cardinal numbers are displayed, select a bubble by one of the choices for Display As in the options pane - Mixed Number, Improper Fraction, or Stand Alone (only a whole number, no fraction).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

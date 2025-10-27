@@ -85,7 +85,7 @@ Sets the star size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 
 To change the magic number label text, select the Magic Number Label Text option in the options pane and enter your custom text directly into the input field.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

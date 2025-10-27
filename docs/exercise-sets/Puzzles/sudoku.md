@@ -54,7 +54,7 @@ Sets the cell size in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values are 25 to 100.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

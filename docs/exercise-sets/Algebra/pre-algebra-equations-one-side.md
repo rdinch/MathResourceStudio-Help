@@ -85,7 +85,7 @@ Select one or a variety of letters to represent the variable in the equations.
 
 2. Select the desired variable letters, then select OK to apply to the questions.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

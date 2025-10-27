@@ -131,7 +131,7 @@ Round the values
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -92,7 +92,7 @@ Sets the minimum and maximum depth of the shapes in cubic units.
 
 2. Type a new value in the field to increase or decrease the value. Valid values are 1 to 8.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

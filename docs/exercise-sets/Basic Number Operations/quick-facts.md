@@ -72,7 +72,7 @@ Select just a single basic operation to focus on, or mix the operations.
 
 2. Select the desired number values, then click OK to apply the values to the math document.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

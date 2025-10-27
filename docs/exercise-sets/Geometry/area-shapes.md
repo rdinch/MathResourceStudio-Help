@@ -78,7 +78,7 @@ By default the answer is followed by units of measurement. Click the drop down l
 
 4. Click "OK" to save your choice and apply the new color.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

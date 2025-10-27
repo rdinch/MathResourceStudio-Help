@@ -92,7 +92,7 @@ Use or change decimal values
 
 2. Select the desired percentage.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -80,7 +80,7 @@ Sets the minimum and maximum length of the triangles in 100ths of an inch (25 = 
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid values are 50 to 700.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

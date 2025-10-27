@@ -110,7 +110,7 @@ The currency option automatically formats each number into currency format and w
 !!! note
     The currency format is determined by the Windows settings in Regional Options located in the Windows Control Panel.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

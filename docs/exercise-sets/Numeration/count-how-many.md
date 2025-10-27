@@ -79,7 +79,7 @@ To achieve values within a set range, set the the high end of the range and the 
 
 By default Answer Space Style is set to Box. Click the drop down list to select from either Line or Blank (no line or box).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

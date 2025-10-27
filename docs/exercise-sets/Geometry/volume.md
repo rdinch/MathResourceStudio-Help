@@ -113,7 +113,7 @@ Sets the minimum and maximum depth of the 3D shapes as drawn on the page in 100t
 
 2. Type a new value in the field to increase or decrease the value. Valid values are 50 to 300.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -91,7 +91,7 @@ Set the width of the input output table in 100ths of an inch (25 = 1/4 inch, 40 
 
 3. Click OK to close the dialog and apply the selected color.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

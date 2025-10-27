@@ -92,7 +92,7 @@ Sets the width of each match-up exercise in 100ths of an inch (25 = 1/4 inch, 40
 
 2. Type a new value in the field or use the up and down arrows to increase or decrease the value. Valid range: 100 to 1400.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

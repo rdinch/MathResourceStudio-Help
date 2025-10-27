@@ -96,7 +96,7 @@ Use or change decimal values
 
 Select between three remainder options: Remainders (i.e. 5 wk, 91 hr), No Remainders, or Decimal Remainders (i.e. 0.0386 wk).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

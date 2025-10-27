@@ -116,7 +116,7 @@ Set the number of decimal places to round answers to
 
 2. Type a new value in the field. Valid values are 0 to 12.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

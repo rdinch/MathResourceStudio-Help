@@ -71,7 +71,7 @@ Round answers to
 
 This option sets the maximum number of decimal places the answer values should be rounded to. Enter a number within the range established for the exercise set or use the up or down arrows (check the definition area at the bottom of the options pane when this option is selected).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -132,7 +132,7 @@ To set the distribution of values, select the desired distribution option (Norma
 
     - select 4 decimal places and the number will become 0.0256
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

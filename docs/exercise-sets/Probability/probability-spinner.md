@@ -70,7 +70,7 @@ Customize the beginning text of the probability question
 
 To change the beginning text for the probability questions, select the Alternate Text options (Land On, Odd, Even) in the options pane and enter your custom text directly into the input field.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

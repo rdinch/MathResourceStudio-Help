@@ -70,7 +70,7 @@ Change how decimals will be used
 
 2. Select the desired usage.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

@@ -131,7 +131,7 @@ Use dot for multiplication
 
 Determines whether the dot operator is used to denote multiplication rather than the multiplication sign.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

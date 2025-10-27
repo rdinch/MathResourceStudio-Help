@@ -96,7 +96,7 @@ Notes:
 
 - Some activities let you use negative numbers. To do this, type a hyphen before the number (like -10, -999, or -1000).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

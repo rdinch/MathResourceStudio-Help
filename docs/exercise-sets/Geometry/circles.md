@@ -124,7 +124,7 @@ Sets the size of the circles in 100ths of an inch (25 = 1/4 inch, 50 = 1 cm).
 
 2. Select the desired units of measure, then press OK to apply the selected units.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

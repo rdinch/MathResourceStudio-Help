@@ -97,7 +97,7 @@ Customize the Column Titles
 
 By default, each column title has text that is defaulted. Click in the text box for each Column Title to either type in the desired text or to paste in text copied from another source.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

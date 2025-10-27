@@ -73,7 +73,7 @@ Include 1 and original number
 
 To include 1 and the original number in the factors, check the box by Include 1 and Number in the options pane.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

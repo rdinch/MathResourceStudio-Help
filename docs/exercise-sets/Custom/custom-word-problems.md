@@ -86,7 +86,7 @@ The Number Format option provides a variety of choices for how numbers are displ
 !!! tip
     Use this option in conjunction with Number Words in if you are using a non-English language like French or Spanish to customize your word problems.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

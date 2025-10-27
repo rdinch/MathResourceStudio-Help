@@ -85,7 +85,7 @@ This feature determines whether the exponent base is enclosed in parentheses whe
 
 To set the enclosure of negative values, select the desired option (None, All, or Random) next to the Enclose Negative Values option in the options pane.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

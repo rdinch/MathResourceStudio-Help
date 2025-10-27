@@ -101,7 +101,7 @@ Use this option to set the number of points that will be displayed on the number
 
 3. Click OK to close the dialog and apply the selected color. This option will change the color of the labels on the axes.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

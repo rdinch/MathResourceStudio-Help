@@ -78,7 +78,7 @@ Enforce lowest terms
 
 3. Click OK to close the dialog and apply the selected color.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

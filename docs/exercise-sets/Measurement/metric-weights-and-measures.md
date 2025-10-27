@@ -114,7 +114,7 @@ Determines whether the unit symbols are shown for the answers. To show or not sh
 
 2. Select the desired format for Liter - L (upper case) or l (lower case).
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

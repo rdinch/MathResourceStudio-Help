@@ -73,7 +73,7 @@ Select a letter for the variable
 
 To change the letter to represent the variable (v) in the expressions, click the drop-down arrow beside the Variable Letters option in the options pane and select one or more of the listed letters.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

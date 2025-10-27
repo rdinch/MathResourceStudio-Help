@@ -92,7 +92,7 @@ Ensure answers have no remainders
 !!! note
     If this option is selected, the no remainders parameter will override any rounding selections where conflicts exist.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

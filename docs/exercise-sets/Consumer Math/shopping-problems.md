@@ -102,7 +102,7 @@ Item Quantity
 
 Make the questions easier or harder by adjusting the quantity of each item that can be used in the word problems. For Item Quantity in the options pane, enter a value for both the High and Low ranges. Valid values are 1 to 6.
 
-Optional Settings
+## Optional Display Settings
 
 - [Exercise Set Display](../../options/exercise-set-display-options.md)
 - [Title](../../options/title-display-options.md)

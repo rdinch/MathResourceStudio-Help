@@ -81,7 +81,7 @@ Add and edit the names used in the problems
 
 ## Percent
 
-## Change the range of values
+### Change the range of values for the percent
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -111,7 +111,7 @@ Use or change decimal values
 
 ## Value
 
-## Change the range of values
+### Change the range of values for the value
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -122,7 +122,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+## Change the distribution of values for the value
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
@@ -145,7 +145,7 @@ Use or change decimal values
 
     - select 4 decimal places and the number will become 0.0256
 
-Round the values
+## Round the values
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
 

@@ -79,9 +79,9 @@ The currency option automatically formats each number into currency format and w
 
 ## Addition
 
-Addend 1 and 2
+### Addend 1 and 2
 
-## Change the range of values
+#### Change the range of values for addition
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -92,15 +92,15 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for addition
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
-Round the values
+#### Round the values for addition
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
 
-Decimals
+### Use or change decimal values for addition
 
 Use or change decimal values
 
@@ -123,9 +123,9 @@ To set the distribution of values, select the desired distribution option (Norma
 
 ## Subtraction
 
-Minuend and Subtrahend
+### Minuend and Subtrahend
 
-## Change the range of values
+#### Change the range of values for subtraction
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -136,15 +136,15 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values subtraction
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
-Round the values
+#### Round the values for subtraction
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
 
-Use or change decimal values
+### Use or change decimal values for subtraction
 
 1. To use or change decimal values, select the drop-down arrow for the Decimals option in the options pane.
 
@@ -161,7 +161,7 @@ Use or change decimal values
 
     - select 4 decimal places and the number will become 0.0256
 
-Control for Negative Answers
+### Control for Negative Answers for subtraction
 
 Select this option if you want negative differences are allowed. To allow or not allow negative differences, select or deselect the check box for the Allow Negative Differences in the options pane.
 
@@ -171,9 +171,9 @@ To set the distribution of values, select the desired distribution option (Norma
 
 ## Multiplication
 
-Multiplicand and Multiplier
+### Multiplicand and Multiplier
 
-## Change the range of values
+#### Change the range of values for multiplication
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -184,11 +184,11 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for multiplication
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
-Use or change decimal values
+### Use or change decimal values for multiplication
 
 1. To use or change decimal values, select the drop-down arrow for the Decimals option in the options pane.
 
@@ -205,16 +205,16 @@ Use or change decimal values
 
     - select 4 decimal places and the number will become 0.0256
 
-Round the values
+### Round the values for multiplication
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
 
 ## Division
 
-Dividend and Divisor
+### Dividend and Divisor
 
-## Change the range of values
+#### Change the range of values for division
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -225,11 +225,11 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for division
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
-Use or change decimal values
+#### Use or change decimal values for division
 
 1. To use or change decimal values, select the drop-down arrow for the Decimals option in the options pane.
 
@@ -246,16 +246,9 @@ Use or change decimal values
 
     - select 4 decimal places and the number will become 0.0256
 
-Round the values
+#### Round the answers for division
 
 Apply rounding to the generated values. Values are rounded down to highest value - example: 289 is rounded to 200. To apply or not apply rounding to the generated values, select or deselect the check box for the Round option in the options pane.
-
-Decimals
-
-Round answers to
-
-To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
-This option sets the maximum number of decimal places the answer values should be rounded to. Enter a number within the range established for the exercise set or use the up or down arrows (check the definition area at the bottom of the options pane when this option is selected).
 
 Optional Settings
 

@@ -66,9 +66,9 @@ Select whether to have the questions appear in vertical or horizontal orientatio
 
 ## Addition
 
-Addend 1 and 2
+### Addend 1 and 2
 
-## Change the range of values
+#### Change the range of values for addition
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -79,13 +79,13 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for addition
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
-Limit Sums
+### Limit Sums
 
-Apply sum limits
+#### Apply sum limits
 
 To limit the sums as defined by the Minimum Sum and Maximum Sum options, select the check box for the Apply Limits option in the options pane.
 
@@ -95,13 +95,13 @@ To limit the sums as defined by the Minimum Sum and Maximum Sum options, select 
 !!! tip
     If you would like all questions to add up to 10, set both the Minimum Sum and Maximum Sum to 10.
 
-## Set the minimum sum
+##### Set the minimum sum
 
 1. To set the minimum sum, select the input field for the Minimum Sum option in the options pane.
 
 2. Type a new value in the field. Valid range is 0 to 99,999.
 
-## Set the maximum sum
+##### Set the maximum sum
 
 1. To set the maximum sum, select the input field for the Maximum Sum option in the options pane.
 
@@ -111,9 +111,9 @@ To set the distribution of values, select the desired distribution option (Norma
 
 ## Subtraction
 
-Minuend and Subtrahend
+### Minuend and Subtrahend
 
-## Change the range of values
+#### Change the range of values for subtraction
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -124,7 +124,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for subtraction
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
@@ -137,13 +137,13 @@ To limit the differences as defined by the Minimum Difference and Maximum Differ
 !!! note
     In some cases, this option may override the setting for the Subtrahend to ensure no subtraction question has a difference outside the desired limits.
 
-## Set the minimum difference
+#### Set the minimum difference for subtraction
 
 1. To set the minimum difference, select the input field for the Minimum Difference option in the options pane.
 
 2. Type a new value in the field. Valid range is 0 to 9999.
 
-## Set the maximum sum
+#### Set the maximum sum for subtraction
 
 1. To set the maximum difference, select the input field for the Maximum Difference option in the options pane.
 
@@ -155,7 +155,7 @@ To set the distribution of values, select the desired distribution option (Norma
 
 ## Multiplication
 
-Generate exercises with no regrouping
+### Generate exercises with no regrouping
 
 The No Regrouping option can be used to generate multiplication questions that require no regrouping to solve. This option will override range settings for multiplicand and multiplier.
 
@@ -169,9 +169,9 @@ The No Regrouping option can be used to generate multiplication questions that r
 
 - 4 digits x 1 digit - example: 2102 x 4
 
-Multiplicand and Multiplier
+### Multiplicand and Multiplier
 
-## Change the range of values
+#### Change the range of values for multiplication
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -182,15 +182,17 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for multiplication
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 
-## Division### DIVIDEND AND DIVISOR
+## Division
 
-## Change the range of values
+### DIVIDEND AND DIVISOR
+
+#### Change the range of values for division
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -201,7 +203,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+#### Change the distribution of values for division
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 

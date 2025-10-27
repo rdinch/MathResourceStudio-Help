@@ -55,7 +55,7 @@ Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 4
 
 When this option is selected, a warning is displayed if there are any duplicate exercises in the exercise set. To hide the duplicate warning, uncheck the Show Duplicate Warning option in the options pane.
 
-Add, edit and select problem templates
+## Add, edit and select problem templates
 
 1. Select Edit Problem Templates in the options pane. An ellipsis button appears. Click the ellipsis button to open the editor.
 
@@ -63,13 +63,13 @@ Add, edit and select problem templates
 
 3. Click OK to close the editor and apply the changes to the math document.
 
-Edit the shopping items
+## Edit the shopping items
 
 1. To edit the shopping items, press the ellipsis button beside the Edit Shopping Items option in the options pane.
 
 2. In the editor, add, edit or select shopping items, then click OK to close the editor and apply the selections.
 
-Use a custom set of names in the problems
+## Use a custom set of names in the problems
 
 1. To edit the names in the problems, press the ellipsis button beside the Edit Problem Names option in the options pane.
 
@@ -88,7 +88,7 @@ Examples: 0.01 selected will result in prices like $1.33 or $5.27; 0.10 selected
 
 ## QUANTITY
 
-## Change the range of values
+### Change the range of values for the quantity
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -99,7 +99,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Select the format for numbers
+### Select the format for numbers
 
 This option provides a variety choices for how numbers are displayed in the problems: all numerals, all words, or a mixture of words and numerals depending on whether the numbers are below ten or up to twenty.
 
@@ -111,7 +111,7 @@ This option provides a variety choices for how numbers are displayed in the prob
 
 ## DISCOUNT AND SALES TAX
 
-## Change the range of values
+### Change the range of values for the sales tax
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 

@@ -52,11 +52,9 @@ Sets the diameter of the circle drill in 100ths of an inch (25 = 1/4 inch, 40 = 
 
 ## Target Number
 
-Locked
-
 Check this option to lock the target numbers at their current values. When locked, generating new vales or changes to Range or Distribution will have no effect on the target numbers.
 
-## Change the range of values
+### Change the range of values for the target number
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -67,7 +65,7 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+### Change the distribution of values for the target number
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
@@ -92,9 +90,7 @@ Use or change decimal values
 
 ## Ring Numbers
 
-Locked
-
-## Change the range of values
+### Change the range of values for the ring numbers
 
 To achieve values within a set range, set the the high end of the range and the low end of the range.
 
@@ -105,13 +101,13 @@ To achieve values within a set range, set the the high end of the range and the 
 !!! note
     To locate the range for any particular option, check the definition area at the bottom of the options pane when an option is selected. Some exercises allow negative values to be entered for either the high or low end of the range by using the hyphen as the negative sign, i.e. -10, -999, -1000.
 
-## Change the distribution of values
+### Change the distribution of values for the ring numbers
 
 This feature determines whether the randomly selected numbers for the questions are generated completely at random (normal) or if a weighted selector is used (balanced). The balanced setting ensures that small numbers are given an equal chance of being selected along with larger numbers.
 
 To set the distribution of values, select the desired distribution option (Normal or Balanced) next to the Distribution option in the options pane.
 
-Use or change decimal values
+## Use or change decimal values
 
 1. To use or change decimal values, select the drop-down arrow for the Decimals option in the options pane.
 

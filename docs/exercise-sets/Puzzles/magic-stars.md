@@ -1,5 +1,7 @@
 # Magic Stars
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Magic Stars is a fun addition challenge. Numbers are missing from the star and the Magic Number may be missing. Each line of the star must add up to the magic number in each direction and a number cannot be used more than once in the star.
 
 Options for number ranges, adjusting the number of clues, and showing or hiding the Magic Number can provide control over the degree of challenge this exercise set provides.

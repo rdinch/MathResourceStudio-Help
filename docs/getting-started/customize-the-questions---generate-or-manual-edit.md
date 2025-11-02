@@ -1,5 +1,7 @@
 # Customize the questions - generate or manual edit
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Questions in an exercise set can be customized manually, or you can adjust the options for an exercise set so that the program will generate a variety of questions automatically.
 
 !!! important

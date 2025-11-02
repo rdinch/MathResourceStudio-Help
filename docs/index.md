@@ -1,6 +1,8 @@
 # Welcome to Math Resource Studio Help
 
-This is a comprehensive help guide for Math Resource Studio 8, a powerful tool for creating customizable math worksheets and exercises.
+<p style="color: red; font-weight: bold;">Under Review</p>
+
+This is a help guide for Math Resource Studio 8, a powerful tool for creating customizable math worksheets and exercises.
 
 With Math Resource Studio you can create targeted math practice materials to provide students with the precise skills development and math practice they need as part of a differentiated numeracy program. Individual or class sets of professional worksheets, workbooks, or tests can be created quickly and effortlessly saving valuable preparation time and resources.
 

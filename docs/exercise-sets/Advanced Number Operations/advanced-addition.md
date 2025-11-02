@@ -1,12 +1,16 @@
 # Advanced Addition
 
-The Advanced Addition exercise set provides an opportunity to create challenging addition questions using:
+<p style="color: red; font-weight: bold;">Under Review</p>
 
-- multiple digits - up to 9,999,999,999,999
+The MOSTLY Advanced Addition exercise set provides an opportunity to create challenging addition questions using:
+
+- **multiple digits** - up to 9,999,999,999,999
 
 - decimals or currency settings
 
 - negative numbers
+
+<img src="../../images/picture.png" alt="Advanced Addition Example" width="200">
 
 ## Change the number of exercises
 

@@ -1,5 +1,7 @@
 # Add a section with two auto-flow columns
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 With a Two Columns Auto-Flow section the page is divided into two equal columns across the page. Design elements and exercise sets are placed automatically in the columns allowing for a balanced look.
 
 ## Column spacing

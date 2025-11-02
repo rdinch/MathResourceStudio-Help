@@ -1,5 +1,7 @@
 # Image Collection
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Add, edit and organize the image collections used with exercise sets such as and .
 
 !!! note

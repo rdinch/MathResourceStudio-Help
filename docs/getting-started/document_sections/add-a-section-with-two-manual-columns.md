@@ -1,5 +1,7 @@
 # Add a section with two manual columns
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 With a Two Columns Manual section the page is divided into two columns across the page.
 
 This type of section allows for the greatest control over the placement of design elements and exercise sets in two columns. Click in a column to make it the active column before inserting a design element or exercise set. An active column is indicated by blue arrows pointing at the column.

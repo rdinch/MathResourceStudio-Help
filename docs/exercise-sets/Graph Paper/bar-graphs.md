@@ -1,5 +1,7 @@
 # Bar Graphs
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Use the Bar Graphs exercise set to create customized bar graphs for your students to use.
 
 ## Change the number of exercises

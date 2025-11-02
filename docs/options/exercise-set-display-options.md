@@ -1,5 +1,7 @@
 # Exercise Set Display Options
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 ## Change the row spacing
 
 Set the spacing between rows of exercises in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).

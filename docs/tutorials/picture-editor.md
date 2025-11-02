@@ -1,5 +1,7 @@
 # Picture Editor
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Picture editor has four parts: the preview area; the picture selection pane; the tools pane; and the ribbon at the top of the window.
 
 ## Preview Area

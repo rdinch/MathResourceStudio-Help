@@ -1,5 +1,7 @@
 # Custom Questions
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Custom Questions exercise set provides a way for you to manually add questions and their answers to a math document. Both text and pictures can be used for the question and answer parts of the custom questions.
 
 ## Change the number of exercises

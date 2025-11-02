@@ -1,5 +1,7 @@
 # Close a document
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 To close a single math document, look to the bottom of the work window for the document's tab. Select the X on the tab to close the document.
 
 Do you have a number of math documents open and want to close them all at one time? Right click any math document tab at the bottom of the work window to display a small Close options menu. Select from the following options:

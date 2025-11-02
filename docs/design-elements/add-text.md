@@ -1,5 +1,7 @@
 # Add text
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Text design element provides you with an opportunity to add a block of text anywhere in the math document.
 
 Select Text from the list of Design Elements located on the Home ribbon to insert a text block below the currently selected element in the document.

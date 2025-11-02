@@ -1,5 +1,7 @@
 # Delete a design group
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 1. With a math document open, click the Home tab. On the Home tab ribbon locate Design Gallery in the Design section of the ribbon.
 
 2. Click the down arrow for Design Gallery to display the design groups selection window.

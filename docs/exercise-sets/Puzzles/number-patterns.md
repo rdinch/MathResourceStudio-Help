@@ -1,5 +1,7 @@
 # Number Patterns
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Introduce number logic and problem solving skills to students with the Number Patterns exercise set.
 
 Sets of numbers related in some way are displayed. Students must find the next two numbers in the pattern for each set of numbers. The answer key shows the pattern for the number sequence in parentheses along with the answers.

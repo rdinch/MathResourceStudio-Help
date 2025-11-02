@@ -1,5 +1,7 @@
 # Global Colors - Set the font colors
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 You can use Global Colors to change the colors of various font options for an existing math document, or to change the default font colors used when creating new math documents.
 
 !!! note

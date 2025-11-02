@@ -1,5 +1,7 @@
 # Add a section to the document
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 A section has one key purpose: to allow for a mixture of single column and two column sections within one math document.
 
 For example, you may want all exercise sets to be in two columns across a page, but titles, lines and text blocks in single columns across the page. By using the various types of sections, this can be accomplished easily.

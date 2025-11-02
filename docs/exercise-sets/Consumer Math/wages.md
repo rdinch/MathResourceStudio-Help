@@ -1,5 +1,7 @@
 # Wages
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 This exercise set provides your students with some real-world wages problems to solve. Choose from a variety of problems by selecting Edit Problem Templates, or create your own problem templates.
 
 ## Change the number of exercises

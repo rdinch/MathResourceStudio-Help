@@ -1,5 +1,7 @@
 # Add a background picture
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Background feature adds a picture behind a whole page like a watermark. Select Home and locate the Document area of the Home ribbon. Select Background to open the Background window.
 
 Select picture

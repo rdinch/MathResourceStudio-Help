@@ -1,5 +1,7 @@
 # Edit Equation Patterns
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Add, edit and organize the equation patterns to be used for the exercise set questions.
 
 !!! note

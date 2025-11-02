@@ -1,5 +1,7 @@
 # Add a picture
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Picture design element provides a method for adding pictures to the math document.
 
 1. Select Design Elements on the ribbon and then select Picture.

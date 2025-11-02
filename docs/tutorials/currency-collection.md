@@ -1,5 +1,7 @@
 # Currency Collection
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 Add, edit and organize the currency images and values to be used with questions.
 
 By default, the USA currency (USD) is opened in the Currency Collection editor. Select New to add your local currency, or select Open to select from the included currencies - AUD (Australia), CAD (Canada), EUR (Euro), GBP (UK pound), NZD (New Zealand). All of the included currency collections can be edited if you would prefer to update the images or add additional coins or bills.

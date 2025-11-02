@@ -1,5 +1,7 @@
 # Magic Squares
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 A Magic Square is a square in which all the cells in any row or column add up to the same amount. This applies up and down and diagonally.
 
 The challenge of Magic Squares is to blank out some of the numbers in the square and have the students fill in the blanks. In order to do that they need to find the Magic Number. In the above example, 30 is the Magic Number.

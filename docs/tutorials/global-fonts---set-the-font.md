@@ -1,5 +1,7 @@
 # Global Fonts - Set the font
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 You can use Global Fonts to change the font for all exercise sets for an existing math document, or to change the default font used when creating new math documents.
 
 !!! note

@@ -1,5 +1,7 @@
 # Comparing Numbers
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Comparing Numbers exercise set has students identify whether a number is greater than (&gt;), less than (&lt;) or equal (=) to a second number. This exercise set can be used to reinforce number position when first teaching integers/negative numbers.
 
 ## Change the number of exercises

@@ -1,5 +1,7 @@
 # Simplifying Fractions
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Simplifying Fractions exercise set provides student with practice in reducing larger fractions to the smallest equivalent fractions.
 
 ## Change the number of exercises

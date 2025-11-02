@@ -1,5 +1,7 @@
 # Change page setup - margins, orientation, paper size
 
+<p style="color: red; font-weight: bold;">Under Review</p>
+
 The Page Setup dialog provides a way to change the margins, as well as select paper size and page orientation (landscape or portrait).
 
 With a math document open, click Page Setup on the ribbon. The Page Setup dialog opens. Make your feature selections and select OK at the bottom of the dialog. At the top of the dialog is a preview panel that allows you to see the relative effect of each change made to paper size, orientation and margins.

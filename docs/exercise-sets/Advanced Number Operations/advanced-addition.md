@@ -2,8 +2,6 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-Made a change here.
-
 The MOSTLY Advanced Addition exercise set provides an opportunity to create challenging addition questions using:
 
 - **multiple digits** - up to 9,999,999,999,999

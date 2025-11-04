@@ -1,30 +1,36 @@
-# Create a New Document
+# Create a New Math Document
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
 ## Creating Your First Worksheet: the Basics
 
-1. Click **File > New** or press `Ctrl+N`
+1. When the Math program opens, click the New tile or press `Ctrl+N` to open a new blank document.
 
-2. In the **Activities** panel (left side), select an activity type
+2. In the **Exercise Sets** panel (left side), select an activity type to display the exercise sets available.
 
-3. Double-click an activity to add it to your worksheet
+3. Click the name of an exercise set to add it to your worksheet.
 
-4. Configure options in the **Options** panel (right side)
+4. To customize the exercise set, configure options in the **Options** panel (right side).
 
-5. Click **Generate** to create problems
+5. Continue to add exercise sets and customize the look of the worksheet.
+
+6. The worksheet is now ready for printing and saving. 
 
 ## Understanding the Interface
 
-### Activities Panel (Left)
+### Exercise Sets Panel (Left)
 
-Browse and select math activities organized by category:
+Browse and select math exercises organized by category:
 
-- Number Operations (addition, subtraction, etc.)
+- Advanced Number Operations (addition, subtraction, etc.)
 
-- Fractions & Decimals
+- Fractions (equivalent fractions, simplyfying, addition, etc.)
 
 - Geometry
+
+- Number Concepts
+
+- Puzzles
 
 - And more...
 
@@ -34,7 +40,9 @@ Preview your worksheet as it will appear when printed.
 
 ### Options Panel (Right)
 
-Customize the selected activity or worksheet element:
+Customize the selected exercise set or worksheet element (the active element will have a blue border):
+
+- Number of questions
 
 - Problem difficulty
 
@@ -42,7 +50,7 @@ Customize the selected activity or worksheet element:
 
 - Display options
 
-- Answer visibility
+- Answer bank visibility
 
 ## Creating Your First Worksheet: the Details
 

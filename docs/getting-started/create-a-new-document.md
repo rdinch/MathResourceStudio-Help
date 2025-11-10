@@ -22,21 +22,17 @@
 
 Browse and select math exercises organized by category:
 
-- Advanced Number Operations (addition, subtraction, etc.)
+- Advanced Number Operations (i.e. addition, subtraction)
 
-- Fractions (equivalent fractions, simplyfying, addition, etc.)
+- Algebra (i.e. ineqalities, simplifying expressions)
 
-- Geometry
-
-- Number Concepts
-
-- Puzzles
+- Basic Number Operations (i.e. basic operations, fact families)
 
 - And more...
 
 ### Document Area (Center)
 
-Preview your worksheet as it will appear when printed.
+Preview your worksheet as it will appear when printed.Navigation arrows above the worksheet provide a way to view all pages of a multi-page document.
 
 ### Options Panel (Right)
 
@@ -52,18 +48,18 @@ Customize the selected exercise set or worksheet element (the active element wil
 
 - Answer bank visibility
 
-## Creating Your First Worksheet: the Details
+- Terms definition area at bottom of panel 
 
-Are you creating your first worksheet in Math Resource Studio? This is a quick overview for getting started. We also have some introductory video tutorials in the on our website and on our channel.
+## Creating Your First Worksheet: the Details
 
 There are variety of ways to get started with the program. Because design elements and exercise sets can be added, deleted and moved easily (using Cut or Copy and Paste), you are never locked into a single method of designing a math worksheet. The steps below are basic introduction if this is the first time using the program.
 
-1. With Math Resource Studio open, select the New tile on the main start screen.
+1. With Math Resource Studio open, select the New tile on the main start screen, or press `Ctrl+N`. 
 
-2. On left side of the main program window is a pane called Exercise Sets. Expand any topic by clicking the greater than sign ( **&gt;** ) beside the topic name. The exercise sets available for that topic will be displayed. Click once on an exercise set to add it to your worksheet.
+2. On left side of the main program window is a panel called Exercise Sets. Click the arrow ( > ) by the topic name to display the available exercise sets. Click once on an exercise set to add it to your worksheet.
 
     !!! note
-        The exercise set is automatically added to a One Column section. See to use a different type of section.
+        The exercise set is automatically added to a One Column section. See [Add a Section to Document](../getting-started/document_sections/add-a-section-to-the-document.md) to use a different type of section.
 
 3. When the exercise set questions appear on the page, the set will have a light blue border around the group of questions. The border will not print on your worksheet. The border is an indicator that this is the active element on the page, so changes can be made to the questions to customize them.
 

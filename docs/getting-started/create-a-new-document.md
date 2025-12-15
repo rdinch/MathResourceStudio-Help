@@ -1,12 +1,10 @@
 # Create a New Math Document
 
-<p style="color: red; font-weight: bold;">Under Review</p>
-
 ## Creating Your First Worksheet: the Basics
 
 1. When the Math program opens, click the New tile or press `Ctrl+N` to open a new blank document.
 
-2. In the **Exercise Sets** panel (left side), select an activity type to display the exercise sets available.
+2. In the **Exercise Sets** panel (left side), select an activity type to display the exercise sets available.mk
 
 3. Click the name of an exercise set to add it to your worksheet.
 
@@ -65,9 +63,9 @@ There are a variety of ways to get started with the program. Because design elem
 
 4. On the far right side of the program is an options panel; the name of the exercise set is at the top of the panel. These are the options that effect the exercise set that has the light blue border around it. Click on any of the options in that panel to customize the questions. Changes are displayed immediately on the page. Examples:
 
-   - Want more questions? Click Number of Exercises in the options panel, and use the up and down arrows to increase or decrease the number of questions in the exercise set.
+    - Want more questions? Click Number of Exercises in the options panel, and use the up and down arrows to increase or decrease the number of questions in the exercise set.
 
-   - Want a bigger font for the questions? Click the arrow sign ( > ) next Exercise Set Display to display the available options. Select the Font option, then click the ellipsis button that appears at the far right of the box (...). When the Make Font Changes window appears, your selections then click OK. The font changes will appear on the page immediately.
+    - Want a bigger font for the questions? Click the arrow sign ( > ) next Exercise Set Display to display the available options. Select the Font option, then click the ellipsis button that appears at the far right of the box (...). When the Make Font Changes window appears, your selections then click OK. The font changes will appear on the page immediately.
 
 5. Click the Show|Hide Key icon on the main ribbon - the large red check mark - to display the answers on the page to ensure everything looks as you expect.
 

@@ -4,13 +4,13 @@
 
 ## To a New Document
 
-1. Open Math Resource Studio.
+1. Open Math Resource Studio.Click the New tile to start a new blank worksheet.
 
-2. In the program window locate the left pane labeled Exercise Sets. Expand a topic by clicking on the small plus sign (+) to display the exercises sets available for that topic.
+2. When the new blank worksheet appears, locate the left pane labeled Exercise Sets. Expand a topic by clicking on the greater than sign (>) to display the exercises sets available for that topic.
 
-3. Click once on an exercise set name to create a new document with questions.
+3. Click once on an exercise set name to add it to the blank worksheet.
 
-4. To another exercise set to that same document, click again on the name of any exercise set.
+4. To add another exercise set to that same document, click again on the name of any exercise set.
 
 ## To an Existing Document
 

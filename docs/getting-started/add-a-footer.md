@@ -7,7 +7,7 @@ The Footer is located at the very bottom of a document page. By default a very s
 !!! tip
     When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
 
-Saving Applying Options x
+Saving Applying Options
 
 Save and Save As
 
@@ -21,17 +21,17 @@ Reset
 
 Select Reset at any time to return all options back to default settings.
 
-General
+**General**
 
-Visible
+***Visible***
 
 By default, a footer appears on all pages of a multi-page math document. Uncheck Visible to hide the footer on all pages.
 
-Start page
+***Start page***
 
-By default the footer starts on page 1 math document. Select between page 1 or page 2 for the footer to start.
+By default the footer starts on page 1 of a math document. Select between page 1 or page 2 for the footer to start.
 
-Count from page
+***Count from page***
 
 This option sets the page number to start the page count from. This is useful when combining documents into a single package.
 

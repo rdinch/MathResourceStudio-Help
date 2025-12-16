@@ -7,7 +7,7 @@ The Footer is located at the very bottom of a document page. By default a very s
 !!! tip
     When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
 
-Saving Applying Options
+Saving Applying Options x
 
 Save and Save As
 

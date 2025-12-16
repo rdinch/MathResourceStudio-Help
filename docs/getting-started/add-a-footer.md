@@ -2,12 +2,12 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-The Footer area is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one. To access the Footer dialog, a math document must be open. Select Footer in the Document area of the ribbon to open the dialog.
+The Footer is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one. To access the Footer dialog, a math document must be open. Select Footer in the Document area of the ribbon to open the dialog.
 
 !!! tip
     When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
 
-Saving and Applying Options
+Saving Applying Options
 
 Save and Save As
 

@@ -2,24 +2,18 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-The Footer is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one. To access the Footer dialog, a math document must be open. Select Footer in the Document area of the ribbon to open the dialog.
+The Footer is located at the very bottom of a worksheet or answer sheet page. By default a very simple footer is added to the bottom of the page starting on page one. To access the Footer dialog, a math document must be open. For both Worksheet View and Answer Sheet View, select Footer on the main ribbon to open the Footer dialog.
 
 !!! tip
     When the footer is displayed on a page, double-click anywhere in the footer to open the Footer dialog.
 
-Saving Applying Options
+## Saving and Applying Options
 
-Save and Save As
+**Save and Save As** - Multiple customized sets of options can be saved and used on both the worksheet and answer sheet. Use Save or Save As to save the current set of options.
 
-Multiple customized sets of options can be saved and used on both the worksheet and answer sheet. Use Save or Save As to save the current set of options.
+**Open** - Use Open to select a previously saved set of options to be applied to the worksheet or answer sheet.
 
-Open
-
-Use Open to select a previously saved set of options to be applied to the worksheet or answer sheet.
-
-Reset
-
-Select Reset at any time to return all options back to default settings.
+**Reset** - Select Reset at any time to return all options back to default settings.
 
 ## General
 

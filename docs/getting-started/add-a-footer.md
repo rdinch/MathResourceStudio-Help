@@ -21,23 +21,15 @@ Reset
 
 Select Reset at any time to return all options back to default settings.
 
-**General**
+## General
 
-***Visible***
+**Visible** - By default, a footer appears on all pages of a multi-page math document. Uncheck Visible to hide the footer on all pages.
 
-By default, a footer appears on all pages of a multi-page math document. Uncheck Visible to hide the footer on all pages.
+**Start page** - By default the footer starts on page 1 of a math document. Select between page 1 or page 2 for the footer to start.
 
-***Start page***
+**Count from page** - This option sets the page number to start the page count from. This is useful when combining documents into a single package.
 
-By default the footer starts on page 1 of a math document. Select between page 1 or page 2 for the footer to start.
-
-***Count from page***
-
-This option sets the page number to start the page count from. This is useful when combining documents into a single package.
-
-Padding
-
-This option sets the spacing or padding between the footer and the line. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 50.
+**Padding** - This option sets the spacing or padding between the footer and the line. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 50.
 
 Text Fields
 

@@ -2,69 +2,71 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two. To access the Header dialog, a math document must be open. Select Header in the Document area of the ribbon to open the dialog.
+The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two.
+
+To access the Header editor, a math document must be open. Select Header in the Document area of the ribbon to open the editor.
 
 !!! tip
-    When the header is displayed on a page, double-click anywhere in the header to open the Header dialog.
+    When the header is displayed on a page, double-click anywhere in the header to open the Header editor.
 
 ## Collapse All or Expand All Options
 
-The dialog has a large list of options that can be customized. Select the Collapse All icon on the ribbon to simplify the view so you can focus on a particular area. Select the Expand All icon so all the available options can be viewed.
+The Header editor has a large list of options that can be customized. Select the Collapse All icon on the ribbon to simplify the view so you can focus on a particular area. Select the Expand All icon so all the available options can be viewed.
 
 ## Saving the Header Options or Reset to Defaults
 
-Save and Save As
+### Save and Save As
 
 Multiple customized sets of options can be saved and used on both the worksheet and answer sheet. Use Save or Save As to save the current set of options.
 
-Open
+### Open
 
-Use Open to select a previously saved set of options to be applied to the worksheet or answer sheet.
+Use Open to select a previously saved set of header options.
 
-Reset
+### Reset
 
-Select Reset at any time to return all options back to default settings.
+Select Reset at any time to return all header options back to default settings.
 
 ## General
 
-Visible
+### Visible
 
 By default, a header appears on the second and subsequent pages of a multi-page math document. Uncheck Visible to hide the header on all pages.
 
-Start page
+### Start page
 
 By default the header starts on page 2 of a multi-page math document. Select between page 1 or page 2 for the header to start.
 
-Count from page
+### Count from page
 
-This option sets the page number to start the page count from. This is useful when combining documents into a single package.
+If you are using the Auto Page Numbering tag in the header, this option sets the page number to start the page count from. This is useful when combining multiple math documents into a single package after printing.
 
-Padding
+### Padding
 
-This option sets the spacing or padding between the header and line. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 50.
+This option sets the spacing/padding between the header and the math questions. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 100.
 
 ## Picture
 
-By default, the picture is not visible in the element (header or footer). If you decide to include a picture in this area of the page, you can use an image as long as it has one of these file extensions: .bmp, .emf, .jpg/jpeg, .gif, .png, .tff/tiff, .wmf.
+By default, the picture is not visible in the header. If you decide to include a picture in this area of the page, you can use an image as long as it has one of these file extensions: .bmp, .emf, .jpg/jpeg, .gif, .png, .tff/tiff, .wmf.
 
-Display or hide the picture
+### Show or Hide Picture
 
 By default the picture is hidden. Check Visible to display the picture.
 
-## Change the alignment
+### Change the alignment
 
 Select between the following alignments for the picture: Left, Center, Right.
 
-## Change the picture
+### Change the picture
 
-Select Image in the options, then press the ellipsis button to display the to choose a different picture.
+Select Image in the options, then press the ellipsis button (...) to display the [Picture Editor](../tutorials/picture-editor.md) to choose a different picture.
 
 !!! tip
-    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the Picture Editor. Adjusted Image Height will control the size of the picture in the header or footer.
 
-## Adjust the size of the picture
+### Adjust the size of the picture
 
-Adjusted Image Height re-sizes the image based on the height setting. Original Image Height (obtained from the Picture editor) is provided as a reference The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the element (header or footer), the actual size of the image is is taken from the Picture Editor.
+Adjusted Image Height re-sizes the image in the header. The information in Original Image Height (obtained from the Picture Editor) is provided as a reference. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the header, the actual size of the image is is taken from the Picture Editor.
 
 !!! tip
     When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.

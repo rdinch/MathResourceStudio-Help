@@ -71,11 +71,11 @@ Adjusted Image Height re-sizes the image in the header. The information in Origi
 !!! tip
     When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
 
-## TEXT FIELDS
+## Text Fields
 
-Customize the text fields
+### Customize the text fields
 
-All text fields can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
+What the heck is this working? can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
 
 - Date: The tags `<d>` and `<D>` can be typed into any of the text fields to have today's date inserted to the field, or add days to the date using this format: `<d+2>`, `<D+5>`. Each tag provides a different date format: `<d>` - results in a date format using just numbers, such as 06/06/2010; `<D>` - results in a date format that uses the name of the month, such as June 06, 2010.
 

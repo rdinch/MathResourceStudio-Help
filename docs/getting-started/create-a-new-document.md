@@ -4,7 +4,7 @@
 
 1. When the Math program opens, click the New tile or press `Ctrl+N` to open a new blank document.
 
-2. In the **Exercise Sets** panel (left side), select an activity type to display the exercise sets available.mk
+2. In the **Exercise Sets** panel (left side), select an activity type to display the exercise sets available.
 
 3. Click the name of an exercise set to add it to your worksheet.
 

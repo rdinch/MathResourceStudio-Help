@@ -59,7 +59,7 @@ Select between the following alignments for the picture: Left, Center, Right.
 
 ### Change the picture
 
-Select Image in the options, then press the ellipsis button (...) to display the [Picture Editor](../tutorials/picture-editor.md) to choose a different picture.
+Select Image in the options, then press the ellipsis button (...) to display the (**[Picture Editor](../tutorials/picture-editor.md)**) to choose a different picture.
 
 !!! tip
     When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the Picture Editor. Adjusted Image Height will control the size of the picture in the header or footer.
@@ -75,39 +75,41 @@ Adjusted Image Height re-sizes the image in the header. The information in Origi
 
 ### Customize the text fields
 
-What the heck is this working? can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
+The text Fields in the header can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
 
-- Date: The tags `<d>` and `<D>` can be typed into any of the text fields to have today's date inserted to the field, or add days to the date using this format: `<d+2>`, `<D+5>`. Each tag provides a different date format: `<d>` - results in a date format using just numbers, such as 06/06/2010; `<D>` - results in a date format that uses the name of the month, such as June 06, 2010.
+- *Date*: The tags `<d>` and `<D>` can be typed into any of the text fields to have today's date inserted to the field, or add days to the date using this format: `<d+2>`, `<D+5>`. Each tag provides a different date format: `<d>` - results in a date format using just numbers, such as 06/06/2010; `<D>` - results in a date format that uses the name of the month, such as June 06, 2010.
 
-- NOTE: Date formatting is based on the computer's operating system Regional Settings. Date format varies between countries. Your local date formatting from Regional Settings will be used, and it may not match the sample provided above.
+    !!! note
+        Date formatting is based on the computer's operating system Regional Settings. Date format varies between countries. Your local date formatting from Regional Settings will be used, and it may not match the sample provided above.
 
-- Auto Page Numbering: The tag `<p>` can be typed into any of the text fields to have the appropriate page number appear on each page. And you can use the tag `<tp>` to display the total number of pages for the document. You can use these tags to show the current page along with the total number of pages. Other characters can also be used along with these tags. Example: **Page `<p>` of `<tp>`** will appear as **Page 3 of 27** in the header or footer.
+- *Auto Page Numbering*: The tag `<p>` can be typed into any of the text fields to have the appropriate page number appear on each page. You can also use the tag `<tp>` to display the total number of pages for the document. You can use these tags to show the current page along with the total number of pages. Other characters can also be used along with these tags. Example: **Page `<p>` of `<tp>`** will appear as **Page 3 of 27** in the header.
 
-- Total Marks: The tag `<tm>` can be typed into any of the text fields to display the total marks for all exercise sets included in the document. You can use this tag along with other characters. Example: Total Marks - `<tm>` will appear as Total Marks - 30.
+- *Total Marks*: The tag `<tm>` can be typed into any of the text fields to display the total marks for all exercise sets included in the document. You can use this tag along with other characters. Example: **Total Marks - `<tm>`** will appear as **Total Marks - 30**.
 
-- File Name and File Path: Type `<f>` into any field to display the name of the saved test file in the header or footer. Use `<F>` to display the full path to the saved file.
+- *File Name and File Path*: Type `<f>` into any field to display the name of the saved math file in the header. Use `<F>` to display the full path to the saved file.
 
-- Serial Number (SN): Type `<sn>` to add to the header or footer. Serial numbers are generated automatically and can be adjusted manually from the display bar located just below the document.
+- *Serial Number* (SN): Type `<sn>` to add the serial number of the document to the header. Serial numbers are generated automatically and can be adjusted manually from the display bar located at the bottom of the Math program window.
 
-- Version Number: Enter the tag `<v>` to add a version number to the header or footer. The version number can be manually updated from the display bar located just below the document. If you use Regenerate Between Copies on the dialog, the version number will be automatically updated after each regeneration.
+- *Version Number*: Type the tag `<v>` to add a version number to the header. The version number can be manually updated from the display barat the bottom of the Math program window.
 
-## Change the font
+    !!!tip
+       If you use Regenerate Between Copies when printing the math document, the version number will be automatically updated after each regeneration.
 
-1. Select the Font option in the options pane and press the ellipsis button to display the font selection dialog.
+### Change the font
+
+1. Select Font in the options pane and press the ellipsis button (...) to display the font selection dialog.
 
 2. Select the preferred font name, style, and size.
 
 3. Click OK to close the dialog and apply the selected font.
 
-## Change the color
+### Change the color
 
-1. In the options panel, find and select "Color."
+1. Select Field Color in the options pane and press the ellipsis button (...) to display the color dialog.
 
-2. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Choose a color from either the Basic or Web selections.
 
-3. Choose the color you like.
-
-4. Click "OK" to save your choice and apply the new color.
+3. Click OK to save your choice and apply the new color.
 
 ## LINE
 

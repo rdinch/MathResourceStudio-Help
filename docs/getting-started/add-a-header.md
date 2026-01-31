@@ -1,7 +1,5 @@
 # Add a header
 
-<p style="color: red; font-weight: bold;">Under Review</p>
-
 The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two.
 
 To access the Header editor, a math document must be open. Select Header in the Document area of the ribbon to open the editor.
@@ -39,17 +37,17 @@ By default the header starts on page 2 of a multi-page math document. Select bet
 
 ### Count from page
 
-If you are using the Auto Page Numbering tag in the header, this option sets the page number to start the page count from. This is useful when combining multiple math documents into a single package after printing.
+When using the Auto Page Numbering tag in the header, this option specifies which page number the count should begin with. This is useful when combining multiple math documents into a single package after printing.
 
 ### Padding
 
-This option sets the spacing/padding between the header and the math questions. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 100.
+This option sets the extra white space between the header and the math questions. Use the up arrow to increase the space and the down arrow to decrease the space, or type in a number within the range. Range is 0 to 100.
 
 ## Picture
 
-By default, the picture is not visible in the header. If you decide to include a picture in this area of the page, you can use an image as long as it has one of these file extensions: .bmp, .emf, .jpg/jpeg, .gif, .png, .tff/tiff, .wmf.
+By default, the picture is not visible in the header. You can include a picture using any of these formats: .bmp, .emf, .jpg/jpeg, .gif, .png, .tif/tiff, .wmf.
 
-### Show or Hide Picture
+### Show or hide picture
 
 By default the picture is hidden. Check Visible to display the picture.
 
@@ -59,43 +57,43 @@ Select between the following alignments for the picture: Left, Center, Right.
 
 ### Change the picture
 
-Select Image in the options, then press the ellipsis button (...) to display the (**[Picture Editor](../tutorials/picture-editor.md)**) to choose a different picture.
+Select Image in the options, then press the ellipsis button (...) to display the **[Picture Editor](../tutorials/picture-editor.md)** to choose a different picture.
 
 !!! tip
-    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the Picture Editor. Adjusted Image Height will control the size of the picture in the header or footer.
+    When selecting a picture to use in the header, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the Picture Editor.
 
 ### Adjust the size of the picture
 
-Adjusted Image Height re-sizes the image in the header. The information in Original Image Height (obtained from the Picture Editor) is provided as a reference. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the header, the actual size of the image is is taken from the Picture Editor.
+The information in Original Image Height is provided as a reference only and cannot be edited. The option Adjusted Image Height re-sizes the image in the header. The picture width will automatically be adjusted to maintain the image's aspect ratio. This setting only adjusts the size of the picture in the header; the original image in the Picture Editor is not changed.
 
 !!! tip
-    When selecting a picture to use in the header or footer, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the . Adjusted Image Height will control the size of the picture in the header or footer.
+    When selecting a picture to use in the header, change Adjusted Image Height to control the size of the picture; DO NOT RESIZE the picture size in the Picture Editor.
 
 ## Text Fields
 
 ### Customize the text fields
 
-The text Fields in the header can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
+The text fields in the header can be completely customized. Suggested data has been entered. If a field is left blank, a blank space appears on the document. If all Top fields - or all Bottom fields - are left blank the other text fields move up or down to fill in the space. You can also use these special auto content tags for any field:
 
-- *Date*: The tags `<d>` and `<D>` can be typed into any of the text fields to have today's date inserted to the field, or add days to the date using this format: `<d+2>`, `<D+5>`. Each tag provides a different date format: `<d>` - results in a date format using just numbers, such as 06/06/2010; `<D>` - results in a date format that uses the name of the month, such as June 06, 2010.
+- *Date*: The tags `<d>` and `<D>` can be typed into any of the text fields to insert today's date. Or add days to the date using this format: `<d+2>`, `<D+5>`. Each tag provides a different date format: `<d>` - results in a date format using just numbers, such as 06/06/2010; `<D>` - results in a date format that uses the name of the month, such as June 06, 2010.
 
     !!! note
         Date formatting is based on the computer's operating system Regional Settings. Date format varies between countries. Your local date formatting from Regional Settings will be used, and it may not match the sample provided above.
 
-- *Auto Page Numbering*: The tag `<p>` can be typed into any of the text fields to have the appropriate page number appear on each page. You can also use the tag `<tp>` to display the total number of pages for the document. You can use these tags to show the current page along with the total number of pages. Other characters can also be used along with these tags. Example: **Page `<p>` of `<tp>`** will appear as **Page 3 of 27** in the header.
+- *Auto Page Numbering*: The tag `<p>` can be typed into any of the text fields to have the appropriate page number appear on each page. You can also use the tag `<tp>` to display the total number of pages for the document. You can combine these tags to show the current page along with the total number of pages. Other characters can also be used along with these tags. Example: **Page `<p>` of `<tp>`** will appear as **Page 3 of 27** in the header.
 
-- *Total Marks*: The tag `<tm>` can be typed into any of the text fields to display the total marks for all exercise sets included in the document. You can use this tag along with other characters. Example: **Total Marks - `<tm>`** will appear as **Total Marks - 30**.
+- *Total Marks*: The tag `<tm>` can be typed into any of the text fields to display the total marks for all exercise sets included in the document. You can use this tag along with other characters. Example: If the total marks for a document are 30, **Total Marks - `<tm>`** will appear as **Total Marks - 30**.
 
-- *File Name and File Path*: Type `<f>` into any field to display the name of the saved math file in the header. Use `<F>` to display the full path to the saved file.
+- *File Name and File Path*: Type `<f>` into any field to display the name of the saved math file in the header. Use `<F>` to display the full path to the saved file on the computer.
 
-- *Serial Number* (SN): Type `<sn>` to add the serial number of the document to the header. Serial numbers are generated automatically and can be adjusted manually from the display bar located at the bottom of the Math program window.
+- *Serial Number (SN)*: Type `<sn>` to add the serial number of the document to the header. Serial numbers are generated automatically and can be adjusted manually from the display bar located at the bottom of the Math program window.
 
-- *Version Number*: Type the tag `<v>` to add a version number to the header. The version number can be manually updated from the display barat the bottom of the Math program window.
+- *Version Number*: Type the tag `<v>` to add a version number to the header. The version number can be manually updated from the display bar at the bottom of the Math program window.
 
-    !!!tip
-       If you use Regenerate Between Copies when printing the math document, the version number will be automatically updated after each regeneration.
+    !!! tip
+        If you use Regenerate Between Copies when printing the math document, the version number will be automatically updated after each regeneration.
 
-### Change the font
+### Change the text font
 
 1. Select Font in the options pane and press the ellipsis button (...) to display the font selection dialog.
 
@@ -103,7 +101,7 @@ The text Fields in the header can be completely customized. Suggested data has b
 
 3. Click OK to close the dialog and apply the selected font.
 
-### Change the color
+### Change the text color
 
 1. Select Field Color in the options pane and press the ellipsis button (...) to display the color dialog.
 
@@ -111,32 +109,30 @@ The text Fields in the header can be completely customized. Suggested data has b
 
 3. Click OK to save your choice and apply the new color.
 
-## LINE
+## Line
 
-## Visible
+### Display a line under the header
 
 A line can be added under the header area. Check Visible to display the line.
 
-## Change the line color
+### Change the line color
 
-1. In the options panel, find and select "Color."
+1. Select Color in the options pane and press the ellipsis button (...) to display the color dialog.
 
-2. Click the three dots (ellipsis) in the color box to open the color picker.
+2. Choose a color from either the Basic or Web selections.
 
-3. Choose the color you like.
+3. Click OK to save your choice and apply the new color.
 
-4. Click "OK" to save your choice and apply the new color.
+### Change the line width
 
-## Change the line width
-
-1. Click on "Width" in the options panel.
+1. Click on Width in the options pane.
 
 2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
-## Adjust the padding
+### Adjust the padding
 
-Sets the padding (extra white space) between the line and rest of the header in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+Padding is the extra white space between the line and rest of the header in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
-1. Select the Padding option.
+1. Select Padding in the options pane.
 
 2. Type a new value in the input field or use the up and down arrows to increase or decrease the value. Valid range: 0 to 50.

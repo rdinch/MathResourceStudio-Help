@@ -1,6 +1,6 @@
 # Add a footer
 
-STILL REVIEW TO DO --- The Footer area is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one.
+The Footer area is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one.
 
 To access the Footer editor, a math document must be open. Select Footer in the Document area of the ribbon to open the editor.
 
@@ -15,7 +15,7 @@ The Footer editor has a large list of options that can be customized. Select the
 
 ### Save and Save As
 
-Multiple customized sets of options can be saved and used on both the worksheet and answer sheet. Use Save or Save As to save the current set of options.
+Multiple customized sets of footer options can be saved and used on both the worksheet and answer sheet. Use Save or Save As to save the current set of options.
 
 ### Open
 
@@ -29,11 +29,11 @@ Select Reset at any time to return all footer options back to default settings.
 
 ### Visible
 
-By default, a footer appears on the second and subsequent pages of a multi-page math document. Uncheck Visible to hide the footer on all pages.
+By default, a footer appears on the first and subsequent pages of a multi-page math document. Uncheck Visible to hide the footer on all pages.
 
 ### Start page
 
-By default the footer starts on page 2 of a multi-page math document. Select between page 1 or page 2 for the footer to start.
+By default the footer starts on page 1 of a multi-page math document. Select between page 1 or page 2 for the footer to start.
 
 ### Count from page
 
@@ -131,7 +131,7 @@ A line can be added above the footer area. Check Visible to display the line.
 
 ### Adjust the padding
 
-Padding is the extra white space between the line and rest of the footer in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+Padding is the extra white space between the line and rest of the footer in 100ths of an inch (25 = 1/4 inch, 40 = 1 cm).
 
 1. Select Padding in the options pane.
 

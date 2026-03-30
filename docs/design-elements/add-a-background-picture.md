@@ -2,9 +2,9 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-The Background feature adds a picture behind a whole page like a watermark. Select Home and locate the Document area of the Home ribbon. Select Background to open the Background window.
+The Background feature adds a picture behind a entire page like a watermark. Select Background in the Document area of the main ribbon to open the Background window.
 
-Select picture
+### Select picture
 
 A picture file can be selected from an available folder on the computer (some clipart has been included with the program), or an image can be copied from another source (i.e. a web page) and pasted into the preview box using Ctrl-V or by right clicking the preview box and selecting Paste Image.
 

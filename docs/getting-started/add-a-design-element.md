@@ -1,3 +1,5 @@
+# Add a Design Element
+
 ## To a New Document
 
 1. Open Math Resource Studio.
@@ -12,7 +14,7 @@
 
 ## To an Existing Document
 
-When adding a design element to a document that already has exercise sets and design elements, the newly selected design element will be placed after the active set of questions or design element. 
+When adding a design element to a document that already has exercise sets and design elements, the newly selected design element will be placed after the active set of questions or design element.
 
 !!! tip
     To locate the active item, look for the light blue border around a set of questions or a design element.

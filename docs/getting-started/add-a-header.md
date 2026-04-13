@@ -1,4 +1,4 @@
-# Add a header
+# Add a Header
 
 The Header area is located at the very top of a document page. By default a very simple header is added to the top of the page starting on page two.
 
@@ -47,7 +47,7 @@ This option sets the extra white space between the header and the math questions
 
 By default, the picture is not visible in the header. You can include a picture using any of these formats: .bmp, .emf, .jpg/jpeg, .gif, .png, .tif/tiff, .wmf.
 
-### Show or hide picture
+### Show or hide the picture
 
 By default the picture is hidden. Check Visible to display the picture.
 
@@ -129,7 +129,7 @@ A line can be added under the header area. Check Visible to display the line.
 
 2. Type a number between 0 and 10, or use the up/down arrows to adjust the width of the line.
 
-### Adjust the padding
+### Adjust the Padding
 
 Padding is the extra white space between the line and rest of the header in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 

@@ -103,7 +103,7 @@ nav:
       - "Basic Addition": exercise-sets/Basic Number Operations/basic-addition.md
       - "Basic Addition And Regrouping": exercise-sets/Basic Number Operations/basic-addition-and-regrouping.md
       - "Basic Addition: Doubles": exercise-sets/Basic Number Operations/basic-addition---doubles.md
-      - "Basic Addition Estimation": exercise-sets/Basic Number Operations/basic-addition-estimation.md
+      - "Basic Addition: Estimation": exercise-sets/Basic Number Operations/basic-addition-estimation.md
       - "Basic Addition Fixed Addend": exercise-sets/Basic Number Operations/basic-addition-fixed-addend.md
       - "Basic Division": exercise-sets/Basic Number Operations/basic-division.md
       - "Basic Multiplication": exercise-sets/Basic Number Operations/basic-multiplication.md
@@ -133,6 +133,7 @@ nav:
     - COORDINATES:
       - "Cartesian Coordinates: Four Quadrants": exercise-sets/Coordinates/cartesian-coordinates---four-quadrants.md
       - "Cartesian Coordinates: Single Quadrant": exercise-sets/Coordinates/cartesian-coordinates---single-quadrant.md
+      - "Coordinates: Find the Slope": exercise-sets/Coordinates/coordinates---find-the-slope.md
       - "Graph Lines In Slope Intercept Form": exercise-sets/Coordinates/graph-lines-in-slope-intercept-form.md
       - "Plot Lines": exercise-sets/Coordinates/plot-lines.md
     - CUSTOM:

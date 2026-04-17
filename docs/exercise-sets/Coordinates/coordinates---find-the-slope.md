@@ -3,7 +3,7 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-DESCRiption -- The slope of a line measures it steepness and direction. It is calculated as a ratio of vertical change over horizontal change, or rise over run. This exercise set 
+The slope of a line measures it steepness and its direction. It is calculated as a ratio of vertical change over horizontal change, or rise over run. For this set of questions, the students can complete one or more tasks: identify the type of slope - positive or negative, calculate the slope, or both identify and calculate the slope.
 
 ## Change the number of exercises
 

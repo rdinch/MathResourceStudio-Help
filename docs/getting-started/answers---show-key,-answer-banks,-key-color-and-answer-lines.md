@@ -1,16 +1,18 @@
-# Answers - Show Key, Answer Banks, Key Color and Answer Lines
+# Answers - Keys, Banks, Blocks and Options
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-## Show Key
+## Show|Hide Key
 
-For any document, click Show Key in the Answer Key section of the Home ribbon to display what the answer key will look like. Click Show Key again to hide the answers.
+For any worksheet, click Show|Hide Key in the Answers section of the main ribbon to display what the worksheet answer key will look like. Click Show|Hide Key again to hide the answers.
 
-## Show Answer Banks
+## Answer Banks
 
-When working with a math document select the Answer Banks drop down arrow to select between Show All or Hide All. This is a global setting and will hide or show the answer banks for every exercise set included on the document.
+Answer banks are not intended for marking worksheets. Answer banks are designed to allow student to self-check work; an answer bank is not the key the exercise set. 
 
-Key Color
+Because answer banks may not be used by an educator for each exercise set (i.e. addition facts vs long division), the option to show the answer bank is part of the options for each exercise set. But if you want to quickly hide all answer banks for a multi-topic, multi-page worksheet there is a option for this in [Global Settings, Show|Hide dialog](show-hide---global-settings.md).
+
+## Key Color
 
 The key color can be set for an individual exercise set (in the options pane) or can be set globally for the entire document. To change the key color for the whole document:
 
@@ -18,7 +20,7 @@ The key color can be set for an individual exercise set (in the options pane) or
 
 2. Use the color picker to select the preferred color. Click OK to close the dialog and apply the selected color. The selection will immediately take effect, changing the key color for all exercise sets in the document.
 
-Answer Lines
+## Answer Lines
 
 Hide or customize the look of the answer lines for a math document.
 
@@ -36,3 +38,7 @@ Hide or customize the look of the answer lines for a math document.
 5. Style - Click the down arrow and select from three styles: Dot; Dash; Solid.
 
 6. Click OK to close the editor and update the math document.
+
+## Answer Blocks
+
+Hide or customize the look of the answer lines for a math document.

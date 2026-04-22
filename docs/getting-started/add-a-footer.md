@@ -1,4 +1,4 @@
-# Add a footer
+# Add a Footer
 
 The Footer area is located at the very bottom of a document page. By default a very simple footer is added to the bottom of the page starting on page one.
 

@@ -43,6 +43,6 @@ Hide or customize the look of the answer lines for a math document.
 
 An answer block can be added anywhere in a worksheet. 
 
-If all you want is just the answers when marking math questions, add an answer block to the end of your math document. Or add answer blocks throughout a multi-page document if you prefer having answer blocks set up after each unit of a math document.
+If all you want are the answers when marking math questions, add an answer block to the end of your math document. Or add answer blocks throughout a multi-page document if you prefer having answer blocks set up after each unit of a math document.
 
-With a math document open, click Answer Block in the Answers section of the ribbon. An answer block will be added to the worksheet document
+With a math worksheet open and at least one exercise set already added, click Answer Block in the Answers section of the main ribbon. An answer block will be added to the worksheet. For more details and customization options see **[Just the Answers - Answer Block](just-the-answers---answer-block.md)**. 

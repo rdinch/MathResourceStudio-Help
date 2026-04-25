@@ -2,31 +2,33 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
-The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering select Numbering on the Home ribbon.
+The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering select Numbering System on the main ribbon.
 
 ## Numbering System
 
 This setting determines the numbering system for the whole document.
 
-- None: removes the numbering for the activities.
+- None: Removes the numbering for the questions.
 
-- Document: questions are numbered 1, 2, 3, 4, etc. from the beginning to the end of the document.
+- Document: Questions are numbered 1, 2, 3, 4, etc. from the beginning to the end of the document.
 
-- Exercise Set: questions are numbered 1, 2, 3, 4, etc. within each exercise set, and each set of questions is lettered A, B, C, D etc.
+- Exercise Set: Questions are numbered 1, 2, 3, 4, etc. within each exercise set, and each set of questions is lettered A, B, C, D etc..
 
-- Exercise Set - Letter Only: individual questions are not numbered, but each set of questions is lettered A, B, C, D etc.
+- Exercise Set - Letter Only: Individual questions are not numbered, but each set of questions is lettered A, B, C, D etc..
 
-- Exercise Set - No Letter: questions are numbered 1, 2, 3, 4, etc. within each exercise set, but each set of questions has no lettering
+- Exercise Set - No Letter: Questions are numbered 1, 2, 3, 4, etc. within each exercise set, but each set of questions has no lettering.
 
 ## Numbering Style
 
 This setting determines the numbering style for the whole document.
 
-- Period: each number is followed by a period.
+- Period: Each number (and each letter if present) is followed by a period.
 
-- Parenthesis: each number is followed by a parenthesis.
+- Parenthesis: Each number (and each letter if present) is followed by a parenthesis.
 
-- Circle: each number is circled.
+- Circle: Each number is circled ( if letters are present they are not circled).
+
+- None: There is no style symbol used for letters or numbers.
 
 ## Numbering Direction
 

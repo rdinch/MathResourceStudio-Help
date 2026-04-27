@@ -22,9 +22,15 @@ What's New in Version 9
 
 - Answer Sheet View - When creating a math worksheet, an optional answer sheet is automatically created for the exercise set(s) that are added to the worksheet. The answer sheet provides an alternate way for the students to record their answers rather than on the actual math worksheet. The answer sheet has its own key and format options separate from the math worksheet.
 
-- Marks
+- Marks - Marks can be assigned to an exercise set. Total marks for the worksheet can be added to either the Header or Footer using a new tag.
 
-- Multiple Choice Format
+- Multiple Choice Format - A new multiple choice format for indicating question answers has been added to some exercise sets. Exercise sets with this option have a small plus sign - + - at the end of the set's name.
+
+- New Worksheets
+    - Basic Edition: Estimation
+    - Find the Slope
+    - Fraction Identification - Pies
+    - Inverse Relationships
 
 ## Quick Navigation
 

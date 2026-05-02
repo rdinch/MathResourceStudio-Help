@@ -14,11 +14,17 @@ There are three editions of the Math program available, making it possible to pa
 
 - Math Resource Studio 9: Professional (Professional edition provided for both Site and Enterprise licenses.)
 
-What's New in Version 9
+## What's New in Version 9
 
-## New Exercise Sets
+### New Exercise Sets
 
-## New Features
+ - Basic Edition: Estimation
+- Find the Slope
+- Fraction Identification - Pies
+- Inverse Relationships
+- MORE to Add??
+
+### New Features
 
 - Answer Sheet View - When creating a math worksheet, an optional answer sheet is automatically created for the exercise set(s) that are added to the worksheet. The answer sheet provides an alternate way for the students to record their answers rather than on the actual math worksheet. The answer sheet has its own key and format options separate from the math worksheet.
 
@@ -26,22 +32,14 @@ What's New in Version 9
 
 - Multiple Choice Format - A new multiple choice format for indicating question answers has been added to some exercise sets. Exercise sets with this option have a small plus sign - + - at the end of the set's name.
 
-- New Worksheets
-    - Basic Edition: Estimation
-    - Find the Slope
-    - Fraction Identification - Pies
-    - Inverse Relationships
+- MORE to ADD?
 
 ## Quick Navigation
 
-## [Getting Started](getting-started/create-a-new-document.md)
+**[Getting Started](getting-started/create-a-new-document.md)**
 
 Learn the basics of creating and managing math worksheet documents.
 
-## [Exercise Sets](exercise-sets/Advanced Number Operations/advanced-addition.md)
+**[Exercise Sets](exercise-sets/Advanced%20Number%20Operations/advanced-addition.md)**
 
-Explore all **147 different math exercise types** - from basic arithmetic to math puzzles.
-
-## [Tutorials](tutorials/change-the-program-options.md)
-
-Step-by-step guides for working with the software features and dialogs.
+Explore all **147?? what is it?? different math exercise types** - from basic arithmetic to math puzzles.

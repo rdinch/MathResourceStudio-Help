@@ -1,8 +1,6 @@
 # Change the document numbering
 
-<p style="color: red; font-weight: bold;">Under Review</p>
-
-The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering select Numbering System on the main ribbon.
+The numbering system and style for the question numbers throughout the document can be customized. To change the document numbering, select Numbering System on the main ribbon to open the Numbering dialog.
 
 ## Numbering System
 
@@ -26,7 +24,7 @@ This setting determines the numbering style for the whole document.
 
 - Parenthesis: Each number (and each letter if present) is followed by a parenthesis.
 
-- Circle: Each number is circled ( if letters are present they are not circled).
+- Circle: Each number is circled (if letters are present they are not circled).
 
 - None: There is no style symbol used for letters or numbers.
 
@@ -36,12 +34,14 @@ Select the numbering direction for questions when the number of questions for an
 
 ## Change the font
 
-1. In the Numbering dialog, select the preferred Font name, Style, and Size. The Preview box displays your selections.
+The Numbering dialog has a Sample preview window that displays the relative look of the font based on the options selected.
+
+1. In the Numbering dialog, select the preferred Font family name, Style, and Size. The Preview box displays your selections.
 
 2. Click OK to close the dialog and apply the selected font selections.
 
 ## Change the color
 
-1. In the Numbering dialog use the Color picker to select the preferred color. The Preview box displays your selection.
+1. In the Numbering dialog, select Color and then click on the ellipsis button (...) to open the Color picker to select the preferred color.
 
-2. Click OK to close the dialog and apply the selected color.
+2. Click OK to close the picker and display the selected color.

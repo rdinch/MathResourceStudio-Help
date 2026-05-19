@@ -5,7 +5,9 @@
 If all you want is just the answers when marking math questions, add an answer block to the end of your math document. Or add answer blocks throughout a multi-page document if you prefer having answer blocks set up after each unit of a math document.
 
 !!! tip
-    Answer Block vs Answer Bank - An Answer Block will display the answers for all questions from the beginning of a document or from a preceding answer block to the added answer block. Answer blocks are used for marking the questions in the document. The Answer Bank for any particular exorcise set is not an answer key to use for marking questions, but a bank of answers in random order that students can use for self-checking their work. For example, if a student calculates the answer to a long division question and that answer is not in the answer bank, that answer isn't correct.
+    **Answer Block vs Answer Bank** - An Answer Block will display the answers for all questions from the beginning of a document, or from a preceding answer block to the next answer block.
+     - Answer Blocks are used for marking the questions in the document.
+     - The Answer Bank for any particular exercise set is not an answer key to use for marking questions, but a bank of answers in random order that students can use for self-checking their work. For example, if a student calculates the answer to a long division question and that answer is not in the answer bank, they can re-work the question.
 
 Answer blocks are contained within their own special sections with both Section options and Answer Block options.
 

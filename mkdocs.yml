@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - "Create A New Document": getting-started/create-a-new-document.md 
+    - "The Ribbon and Quick Access Toolbar": getting-started/the-ribbon-and-quick-access-toolbar.md
     - "Add An Exercise Set": getting-started/add-an-exercise-set.md       
     - "Add A Design Element": getting-started/add-a-design-element.md
     - "Add A Footer": getting-started/add-a-footer.md

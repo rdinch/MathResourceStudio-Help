@@ -19,7 +19,7 @@ With a math worksheet open, click the Sections down arrow in the Layout group on
 
 ## Restart numbering
 
-If you are using Document question numbering for the worksheet (Numbering System, Layout on the ribbon), the Restart Numbering feature will reset the section numbering back to 1.
+If the worksheet uses Document question numbering (set via Numbering System in the Layout group on the ribbon), Restart Numbering resets the section's question numbers back to 1.
 
 ## Begin on new page
 
@@ -27,7 +27,7 @@ Begin on New page provides a way to move the section with all its questions and 
 
 ## Adjust the padding
 
-This option sets the padding (extra white space) around the element in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
+This option sets the padding (extra white space) around the item in 100ths of an inch (25 = 1/4 inch, 40 = 1cm).
 
 1. Select Padding in the options pane to display all of the sides that can be customized.
 
@@ -40,7 +40,7 @@ This option sets the padding (extra white space) around the element in 100ths of
 
 ## Add a border
 
-To show a border around the section, click the Border option in the options panel. Click on Border Sides Visibility to display all of the sides that can be customized. Check All to check all of the sides (Left, Right, Top, Bottom). Uncheck All or an individual side remove the border line.
+To show a border around the section, click the Border option in the options panel. Click on Border Sides Visibility to display all of the sides that can be customized. Check All to check all of the sides (Left, Right, Top, Bottom). Uncheck All or an individual side to remove the border line.
 
 ### Change the color
 

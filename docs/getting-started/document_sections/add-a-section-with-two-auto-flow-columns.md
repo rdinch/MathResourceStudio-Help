@@ -7,7 +7,6 @@ With a math worksheet open, click the Sections down arrow in the Layout group on
 !!! tip
     To customize a section that already contains exercise sets, click in a blank space near the section line on the far left-side of the worksheet page to make the section active. An active section is indicated by a solid dark blue line on the far left side of the page. The section options will appear in the right-side options pane.
 
-
 ## Column spacing
 
 Column Spacing controls the size of the spacing between the two columns. This is measured in 100ths of an inch, so a setting of 25 equals 1/4 inch and a setting of 40 equals 1 centimeter. Type a number between 0 and 100, or use the up and down arrows to adjust the spacing.
@@ -42,7 +41,6 @@ This option sets the padding (extra white space) around the item in 100ths of an
 
 !!! tip
     Set All to update the four sides to the same value. If All shows -1, one or more of the sides has a different value.
-
 
 ## Add a border
 

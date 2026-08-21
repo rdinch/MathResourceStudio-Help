@@ -1,12 +1,10 @@
 # Add a background picture
 
-<p style="color: red; font-weight: bold;">Under Review</p>
-
-The Background feature adds a picture behind a entire page like a watermark. Select Background in the Document area of the ribbon to open the Background window.
+The Background feature adds a picture behind an entire page like a watermark. Select Background in the Document area of the ribbon to open the Background window.
 
 ## Select picture
 
-A picture file can be selected from any folder accessible to the computer; or an image can be copied from another source (i.e. a web page) and pasted into the preview box using Ctrl-V or by right clicking the preview box and selecting Paste Image.
+A picture file can be selected from any folder accessible to the computer; or an image can be copied from another source (i.e. a web page) and pasted into the preview box using `Ctrl+V` or by right-clicking the preview box and selecting Paste Image.
 
 !!! tip
     By default, the Select Picture option will open the clipart folder included with the Math program.
@@ -16,26 +14,24 @@ A picture file can be selected from any folder accessible to the computer; or an
 Use the Clear Picture feature to remove the picture from the preview box.
 
 !!! note
-    It is not necessary to clear the picture from the preview box to remove the picture from the worksheet page. The Visible option will keep the picture from showing on the worksheet pages and in the picture in the Background preview box.
+    It is not necessary to clear the picture from the preview box to remove the picture from the worksheet pages. The Visible option controls whether the picture is shown on the worksheet pages, but still allows the picture to remain in the Background preview box to be used in the future.
 
 ## Visible
 
-Select the Visible box to have the background picture appear on the worksheet. Deselect the Visible box to hide the background picture.
+Check Visible to have the background picture appear on the worksheet. Uncheck Visible to hide the background picture.
 
 ## First page only
 
-Select the First Page Only box to have the background picture show only on the first page of a document. If not selected, the image will appear on each page of a multi-page worksheet.
+Check First Page Only to have the background picture show only on the first page of a multi-page worksheet. If First Page Only is not checked, the picture will appear on each page of a multi-page worksheet.
 
 ## Opacity
 
-The background image can be made lighter or darker by adjusting Opacity. The smaller the number the lighter the image. The range is from 1 to 100.
+The background picture can be made lighter or darker by adjusting Opacity. The smaller the number the lighter the picture on the worksheet pages. The range is from 1 to 100.
 
 ## Stretch background
 
-Select from three different sizing settings:
+Select from three picture sizing settings:
 
-- Margins - the image stretches out to the margin settings, which can appear beyond the printed area of the page in some cases
-
-- Printable Area - the image appears behind just the printed area of the page
-
-- Page Edges - the image is stretched out to the page edges, but is only possible for prints that have this feature, and in most cases, borderless printing must be set for the printer properties
+- Margins - the picture stretches only to the margin settings (set in Page Setup)
+- Printable Area - the picture appears behind the actual printable area of the page
+- Page Edges - the picture is stretched to the page edges, but is only possible for printers that have this feature; some printers may need to have Printer Properties set to borderless printing for this setting to print correctly

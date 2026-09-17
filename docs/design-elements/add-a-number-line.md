@@ -4,7 +4,11 @@
 
 The Number Line design element provides students with a graphical representation of number ordering.
 
-Use the design element pre-labeled with numbers as a counting aid. Number Lines can be very helpful for students first learning integers and how negative numbers are ordered. For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10 and enter an Increment of 1.
+Why add a number line to worksheets?
+
+- Use a pre-numbered line as a counting aid.
+  
+- Number Lines can be very helpful for students first learning integers and how negative numbers are ordered. For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10 and enter an Increment of 1.
 
 Select Number Line from the list of Design Elements located on the Home ribbon to insert a number line below the currently selected element in the document.
 

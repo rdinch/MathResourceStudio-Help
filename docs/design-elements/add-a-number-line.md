@@ -2,6 +2,15 @@
 
 <p style="color: red; font-weight: bold;">Under Review</p>
 
+The Number Line design element provides students with a graphical representation of number ordering. The units are divided into smaller sections depending on the Fraction number entered.
+
+Fraction Lines can be very helpful for students first learning fractions. Examples:
+
+- Set the Units to 1, set Start Point to 0 and Fraction to 2 to illustrate the fraction 1/2.
+- Set the Units to 1, set Start Point at 0 and Fraction to 4 to illustrate the fractions 1/4, 2/4 (1/2) and 3/4.
+
+**To Add This Design Element**: Select Number Line from the drop-down list of Design Elements located on the main ribbon to insert a fraction line below the currently selected element in the document.
+
 The Number Line design element provides students with a graphical representation of number ordering.
 
 Why add a number line to worksheets?

@@ -1,7 +1,5 @@
 # Add a number line
 
-<p style="color: red; font-weight: bold;">Under Review</p>
-
 The Number Line design element provides students with a graphical representation of number ordering. 
 
 Why add a number line to worksheets?

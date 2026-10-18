@@ -7,11 +7,8 @@ Why add a number line to worksheets?
 - At a very basic level, a pre-numbered line is useful as a counting aid.
 
 - Number lines can help students understand that numbers have a position in space, establishing distance and direction between numbers.
-  
-- Number lines can be very helpful for students first learning integers and how negative numbers are ordered. For a worksheet that shows a number line from -10 to 10:
-  - Enter 20 for the Units option 
-  - Enter -10 as the Start Point
-  - Enter 1 for Increment
+
+- Number lines can be very helpful for students first learning integers and how negative numbers are ordered.
 
 **To Add This Design Element**: Select Number Line from the drop-down list of Design Elements located on the main ribbon to insert a number line below the currently selected element in the document.
 

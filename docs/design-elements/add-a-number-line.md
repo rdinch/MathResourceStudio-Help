@@ -31,7 +31,7 @@ Why add a number line to worksheets?
 2. Type a new value in the input field, or use the up and down arrows. Valid range is 1 to 1000.
 
 !!! tip
-    For a worksheet that shows a number line from -10 to 10, enter 20 Units, set Start Point to -10, and enter 1 for Increment.
+    If you want a number line that displays numbers from -10 to 10: enter 20 Units; set Start Point to -10; and enter 1 for Increment.
 
 ## Show the unit numbers
 
